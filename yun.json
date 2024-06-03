@@ -35,10 +35,7 @@
   {"key":"两个磁力","name":"💡两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1},
   {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","ext":"https://v.aikanbot.com"},
   {"key":"素白白","name":"💡素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
-  {"key":"星芽短剧","name":"🐞星芽┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
-  {"key":"秒播短剧","name":"🐞秒播┃短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
-  {"key":"极品短剧","name":"🐞极品┃短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
-  {"key":"河马短剧","name":"🐞河马┃短剧","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":1},
+ 
 {
     "key":"csp_XBPQ_胖嘟嘟",
     "name":"🐞嘟嘟┃短剧",
@@ -48,7 +45,6 @@
     "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
 },
-
 {
     "key":"耐看影视",
     "name":"💡耐看┃影视",
