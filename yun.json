@@ -23,50 +23,51 @@
   "type": 3,
   "api": "csp_YGP",
   "playerType": 2,
-  "searchable": 0
+  "searchable": 0,
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
 },
 {
   "key": "csp_SP360",
   "name": "📺┃360┃官源",
   "type": 3,
-  "api": "csp_SP360"
+  "api": "csp_SP360",
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
 },
 {
   "key": "csp_Duopan",
   "name": "🖍︎┃蜡笔┃影视",
   "type": 3,
   "api": "csp_Duopan",
-  "playerType": 2,
-  "filterable": 1,
-  "ext": "https://duopan.fun/"
+  "ext": "https://duopan.fun/",
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
 },
 {
   "key": "nangua",
   "name": "🎃┃南瓜┃影视",
   "type": 3,
-  "playerType": "2",
-  "api": "http://dt.xn--yety82d.love/js/ng_open.js"
+  "api": "http://dt.xn--yety82d.love/js/ng_open.js",
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
 },
 {
   "key": "csp_Nkdy",
   "name": "🏔┃耐看┃影视",
   "type": 3,
-  "playerType": "2",
-  "api": "csp_Nkdy"
+  "api": "csp_Nkdy",
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
 },
 {
   "key": "csp_Juqq",
   "name": "⭕┃剧圈┃影视",
   "type": 3,
-  "playerType": "2",
-  "api": "csp_Juqq"
+  "api": "csp_Juqq",
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
 },
 {
   "key": "可可",
   "name": " 😝┃可可┃影视",
   "type": 3,
-  "playerType": "2",
-  "api": "csp_Keke"
+  "api": "csp_Keke",
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
 },
 
   {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
