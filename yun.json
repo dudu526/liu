@@ -11,6 +11,7 @@
 "sites":[
 
 {"key":"csp_豆瓣","name":"🎬┣豆瓣┫推荐┃","type":3,"api":"csp_Douban","searchable":0},
+ {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0}, 
 {"key":"csp_360","name":"🎬┣影视┫荐片┃","type":3,"api":"csp_SP360","jar":"https://cloud.lxweb.cn/f/wxDJH2/PandaQ240603.jar"}, 
 
 
@@ -55,13 +56,7 @@
     "api":"csp_AppNK",
     "ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
 },
-{
-    "key":"圣城影视",
-    "name":"💡圣城┃影视",
-    "type":3,
-    "api":"csp_AppNK",
-    "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
-},
+
 {
     "key": "新视觉影院",
     "name": "🥮视觉┃影院",
@@ -426,7 +421,10 @@
 
 {"key":"稀饭动漫","name":"🚗稀饭┃动漫","type":3,"api":"csp_Wexxifan","searchable":1,"changeable":1},
 {"key":"暮暮动漫","name":"🚗暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
-
+ { "key": "Wexduanjuvop", "name": "🌸短劇┃秒播┃", "type": 3, "api": "csp_Wexduanjuvop","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
+ { "key": "Wexduanjuhema", "name": "🌸短劇┃仙品┃", "type": 3, "api": "csp_Wexduanjuhema","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
+ { "key": "Wexduanjuv1mp", "name": "🌸短劇┃极品┃", "type": 3, "api": "csp_Wexduanjuvmp", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
+ {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"}, 
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 ],
