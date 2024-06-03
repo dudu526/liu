@@ -33,28 +33,28 @@
   "name": "📺360【官方】",
   "type": 3,
   "api": "csp_SP360",
-  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
+  "jar":"https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
 },
 {
   "key": "Qtv",
   "name": "🐧腾讯【官方】",
   "type": 3,
   "api": "csp_Qtv",
-  "jar": "https://pan.shangui.cc/f/BdvmUp/0821.jar"
+  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
 },
 {
   "key": "Itv",
   "name": "🥝爱奇艺【官方】",
   "type": 3,
   "api": "csp_Itv",
-  "jar": "https://pan.shangui.cc/f/BdvmUp/0821.jar"
+  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
 },
 {
   "key": "Mtv",
   "name": "🥭芒果【官方】",
   "type": 3,
   "api": "csp_Mtv",
-  "jar": "https://pan.shangui.cc/f/BdvmUp/0821.jar"
+  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
 },
 {
   "key": "csp_Duopan",
