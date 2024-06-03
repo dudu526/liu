@@ -89,8 +89,8 @@
     "key":"dr_优酷",
     "name":"🎄优酷┃影视",
     "type":3,
-    "api":"http://o.nxog.top/m/js/nxog.js",
-    "ext":"http://o.nxog.top/m/js/yy.js"
+    "api":"http://tv.nxog.top/m/js/nxog.js",
+    "ext":"http://tv.nxog.top/m/js/yy.js"
 },
 {
     "key":"dr_芒果",
