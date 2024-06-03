@@ -34,8 +34,19 @@
   {"key":"两个磁力","name":"💡两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1},
   {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","ext":"https://v.aikanbot.com"},
   {"key":"素白白","name":"💡素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
-
-
+  {"key":"星芽短剧","name":"🐞星芽┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+  {"key":"秒播短剧","name":"🐞秒播┃短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
+  {"key":"极品短剧","name":"🐞极品┃短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
+  {"key":"河马短剧","name":"🐞河马┃短剧","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":1},
+{
+    "key":"csp_XBPQ_胖嘟嘟",
+    "name":"🐞嘟嘟┃短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
+    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
+},
 
 {
     "key":"耐看影视",
@@ -50,6 +61,34 @@
     "type":3,
     "api":"csp_AppNK",
     "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
+},
+{
+    "key": "新视觉影院",
+    "name": "🥮视觉┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/xinshijue.json"
+},
+{
+    "key": "剧圈影视",
+    "name": "🥮剧圈┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/jqqys.json"
+},
+{
+    "key": "七七影视",
+    "name": "💥七七┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/七七影视.json"
+},
+{
+    "key": "可可影视",
+    "name": "🧿可可┃蓝光",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/kkys.json"
 },
 
   {"key": "星球","name": "⚡星球┃APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
@@ -121,7 +160,258 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
 },
 
-{"key":"学堂","name":"🅰️学堂┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/学堂教育.json"},
+  {"key": "极客资源","name": "🌠极客┃影视","type": 1,"api": "https://www.jkdy.cc/api.php/provide/vod/"},
+  {"key": "映迷资源","name": "🌠映迷┃影视","type": 1,"api": "https://www.inmi.app/api.php/provide/vod/"},
+  {"key": "秒播资源","name": "🌠秒播┃影视","type": 1,"api": "https://www.nvxvn.com/api.php/provide/vod/"},
+  {"key": "追风资源","name": "🌠追风┃影视","type": 1,"api": "http://www.zfsp.cc/api.php/provide/vod/"},
+  {"key": "小宝资源","name": "🌠小宝┃影视","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/"},
+  {"key": "金蝉资源","name": "🌠金蝉┃影视","type": 1,"api": "https://www.jcys.bf/api.php/provide/vod/"},
+  {"key": "剧狗资源","name": "🌠剧狗┃影视","type": 1,"api": "https://www.youmuz.cn/api.php/provide/vod/"},
+  {"key": "芘芣资源","name": "🌠芘芣┃影视","type": 1,"api": "https://www.bilfun.cc/api.php/provide/vod/"},
+  {"key": "福星资源","name": "🌠福星┃影视","type": 1,"api": "https://www.voflix.vip/api.php/provide/vod/"},
+  {"key": "五一资源","name": "🌠五一┃影视","type": 1,"api": "http://www.51zhuiju.cc/api.php/provide/vod/"},
+  {"key": "六六资源","name": "🌠六六┃影视","type": 1,"api": "https://www.666bo.top/api.php/provide/vod/"},
+  {"key": "追剧资源","name": "🌠看剧┃影视","type": 1,"api": "https://www.zhuijuju.net/api.php/provide/vod/"},
+  {"key": "阿里资源","name": "🌠阿里┃影视","type": 1,"api": "https://alivod.com/api.php/provide/vod/"},
+  {"key": "一舟影院","name": "🌠一舟┃影视","type": 1,"api": "http://www.mandao.site/api.php/provide/vod/"},
+  {"key": "天堂影院","name": "🌠天堂┃影视","type": 1,"api": "http://www.qoordgc.com/api.php/provide/vod/"},
+  {"key": "嗨米资源","name": "🌠嗨米┃影视","type": 1,"api": "https://www.himi.cc/api.php/provide/vod/"},
+  {"key": "无忧资源","name": "🌠无忧┃影视","type": 1,"api": "https://www.wyvod.com/api.php/provide/vod/"},   
+  {"key": "二萌资源","name": "🌠次萌┃影视","type": 1,"api": "https://www.ecmys.com/api.php/provide/vod/"},
+  {"key": "柠檬资源","name": "🌠柠檬┃影视","type": 1,"api": "https://www.nmnm.cc/api.php/provide/vod/"},
+  {"key": "三八资源","name": "🌠三八┃影视","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
+  {"key": "淘片采集","name": "🌠淘片┃采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
+  {"key": "飞速资源","name": "🌠飞速┃采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
+  {"key": "百度资源","name": "🌠百度┃采集","type": 1,"api": "https://bdzy.tv/api.php/provide/vod/"},
+{
+    "key": "优质资源",
+    "name": "优质🌀采集",
+    "type": 0,
+    "api": "https://api.1080zyku.com/inc/ldg_api.php",
+    "playurl": "https://vip.zykbf.com/?url="
+},
+{
+    "key": "奈斯资源",
+    "name": "奈斯🌀采集",
+    "type": 1,
+    "api": "https://yy123.work/api.php/provide/vod",
+    "playurl": "https://bfq.helloais.cn/?url="
+            
+},
+{
+    "key": "鸭鸭资源",
+    "name": "鸭鸭🌀采集",
+    "type": 1,
+    "api": "https://yayazy2.com/api.php/provide/vod/",  
+    "playurl": "https://jx.yayazy.cc/m3u8/?url="
+},
+{
+    "key": "牛牛资源",
+    "name": "牛牛🌀采集",
+    "type": 1,
+    "api": "https://niuniuzy6.com/api.php/provide/vod/",
+    "playurl": "https://jiexi.niuniuzy.org/m3u8/?url="
+},
+{
+    "key": "黑木耳资源",
+    "name": "木耳🌀采集",
+    "type": 1,
+    "api": "https://heimuer.tv/api.php/provide/vod/",
+    "playurl": "https://player.heimuer.tv/index.html?url=",
+    "categories": ["国产剧","古装","虐恋","逆袭","神豪","重生","复仇","穿越","甜宠","强者"]
+},
+{
+    "key": "豪华资源",
+    "name": "土豪🌀采集",
+    "type": 1,
+    "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+    "playurl": "https://hhjiexi.com/play/?url=",
+    "categories": [ ]
+},
+{
+    "key": "新浪资源",
+    "name": "新浪🌀采集",
+    "type": 1,
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
+    "playurl": "https://www.xinlangjiexi.com/m3u8/?url="
+},
+{
+    "key": "闪电资源",
+    "name": "闪电🌀采集",
+    "type": 1,
+    "api": "https://shandianzy.com/api.php/provide/vod/",
+    "playurl": "https://www.shankubf.com/m3u8/?url="
+},
+{
+    "key": "U酷资源",
+    "name": "U酷🌀采集",
+    "type": 1,
+    "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
+    "playurl": "https://api.ukubf.com/m3u8/?url="
+},
+{
+     "key": "飞刀资源",
+    "name": "飞刀🌀采集",
+    "type": 1,
+    "api": " http://www.feidaozy.com/api.php/provide/vod?",
+    "playurl": "http://www.feidaozy.com/?url="
+},
+{
+    "key": "360资源",
+    "name": "卫视🌀采集",
+    "type": 1,
+    "api": "https://360zy.com/api.php/provide/vod",
+    "playUrl": "https://bofang.360jiexi.com/?url="
+},
+{
+    "key": "快看采集",
+    "name": "️快看🌀采集",
+    "type": 1,
+    "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+    "playurl": "https://kkzyplayer.com/player/?url="
+},
+{
+    "key": "最大资源",
+    "name": "最大🌀采集",
+    "type": 1,
+    "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8",
+    "playurl": "https://jx.zuidplay.com/m3u8Player/?url="
+},
+{
+    "key": "csp_xml_ikun",
+    "name": "爱坤🌀采集",
+    "type": 1,
+    "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+    "playurl": "https://www.ikdmjx.com/?url="
+},
+{
+    "key": "乐视",
+    "name": "乐视🌀采集",
+    "type": 1,
+    "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+    "playurl": "https://leshivideoplayurl.com/?url="
+},
+{
+    "key": "虎牙资源",
+    "name": "虎牙🌀采集",
+    "type": 1,
+    "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+    "playurl": "https://huyajx.com/play?url="
+},
+{
+    "key": "红牛资源",
+    "name": "红牛🌀采集",
+    "type": 1,
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "playurl": "https://www.hnjiexi.com/m3u8/?url="
+},
+{
+    "key": "快车资源",
+    "name": "快车🌀采集",
+    "type": 1,
+    "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "playurl": "https://jiexi.kczyapi.com/m3u8/?url="
+},
+{
+    "key": "索尼资源",
+    "name": "索尼🌀采集",
+    "type": 1,
+    "api": "https://suoniapi.com/api.php/provide/vod/",
+    "playurl": "https://www.snplayer.com/?url="
+},
+{
+    "key": "非凡资源",
+    "name": "非凡🌀采集",
+    "type": 1,
+    "api": "http://ffzy1.tv/api.php/provide/vod/",
+    "playurl": "https://svip.ffzyplay.com/?url="
+},
+{
+    "key": "量子资源",
+    "name": "量子🌀采集",
+    "type": 1,
+    "api": "http://23.224.183.18/api.php/provide/vod/",
+    "playurl": "https://lziplayer.com/?url="
+},
+{
+    "key": "卧龙资源",
+    "name": "卧龙🌀采集",
+    "type": 1,
+    "api": "https://wolongzyw.com/api.php/provide/vod/",
+    "playurl": "https://jx.wolongm3u8.com:65/m3u8.php?url="
+},
+{
+    "key": "暴风资源",
+    "name": "暴风🌀采集",
+    "type": 1,
+    "api": "https://bfzyapi.com/api.php/provide/vod/",
+    "playurl": "https://vip.vipuuvip.com/?url="
+},
+{
+    "key": "速播资源",
+    "name": "速播🌀采集",
+    "type": 1,
+    "api": "https://subocaiji.com/api.php/provide/vod",
+    "playurl": "https://subojiexi.com/play/?url="
+},
+{
+    "key": "光速资源",
+    "name": "光速🌀采集",
+    "type": 1,
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+    "playurl": "https://www.gszyv.com/m3u8/?url="
+},
+{
+    "key": "极速资源",
+    "name": "极速🌀采集",
+    "type": 1,
+    "api": "http://www.jisuziyuan.com/api.php/provide/vod/",
+    "playurl": "https://jisjiexi.com/play/?url="
+},
+{
+    "key": "无尽资源",
+    "name": "无尽🌀采集",
+    "type": 1,
+    "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+    "playurl": "https://jx.wujinkk.com/dplayer/?url="
+},
+{
+    "key": "四九资源",
+    "name": "四九🌀采集",
+    "type": 1,
+    "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+    "playurl": "https://49zyplayerurl.com/?url="
+},
+{
+    "key": "奇虎资源",
+    "name": "奇虎🌀采集",
+    "type": 1,
+    "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",
+    "playurl": "https://jiexi.qhzyapi.com/dp/?url="
+},
+{
+    "key": "天空资源",
+    "name": "天空🌀采集",
+    "type": 1,
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
+    "playurl": "https://jx.huishij.com/yun/?url="
+},
+{
+    "key": "鱼乐资源",
+    "name": "鱼乐🌀采集",
+    "type": 1,
+    "api": "https://ylzy13.com/api.php/provide/vod/",
+    "playurl": "https://jx.ylzy.me/dplayer/?url="
+},
+{
+    "key": "OK资源",
+    "name": "OK🌀采集",
+    "type": 1,
+    "api": "https://okzyw9.com/api.php/provide/vod/",
+    "playurl": "https://jiexi.okzyw.info/m3u8/?url="
+},
+        
+
 {"key":"少儿","name":"🅰️少儿┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/少儿合集.json"},
 {"key":"小学课堂","name":"🅰️小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小学课堂.json"},
 {"key":"初中课堂","name":"🅰️初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/初中课堂.json"},
@@ -130,30 +420,10 @@
 {"key":"小灯塔地理","name":"🌏地理┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔地理.json"},
 {"key":"小灯塔百科","name":"🌏百科┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔百科.json"},
 {"key":"小灯塔国学","name":"🌏国学┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔国学.json"},
-{"key":"儿童口才","name":"🧒口才┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童口才.json"},
-{"key":"儿童拼音","name":"🧒拼音┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童拼音.json"},
-{"key":"儿童识字","name":"🧒识字┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童识字.json"},
-{"key":"儿童思维","name":"🧒思维┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童思维.json"},
-{"key":"儿童英语","name":"🧒英语┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童英语.json"},
-{"key":"儿童硬笔","name":"🧒硬笔┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童硬笔.json"},
-{"key":"儿童编程","name":"🧒编程┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童编程.json"},
-{"key":"儿童武术","name":"🧒武术┃儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/儿童武术.json"},
-{"key":"csp_BBB","name":"🅱️套餐┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/哔哩套餐1.json"},
-{"key":"Bili","name":"🅱️套餐2┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/哔哩套餐2.json"},
-{"key":"软件","name":"🅰️软件┃教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/软件教程.json"},
+
 {"key":"演唱会","name":"🅰️演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/演唱会.json"},
-{"key":"戏曲","name":"🅰️戏曲┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/戏曲合集.json"},
-{"key":"合集","name":"💋合集┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/合集.json"},
 {"key":"MV","name":"🌈歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/歌曲MV.json"},
-{"key":"美食","name":"🌈美食┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/美食.json"},
-{"key":"球类","name":"⚽️球类┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/球类合集.json"},
-{"key":"球星","name":"⚽️球星┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/球星合集.json"},
-{"key":"星芽短剧","name":"🐞星芽┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"秒播短剧","name":"🐞秒播┃短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
-{"key":"极品短剧","name":"🐞极品┃短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
-{"key":"csp_XBPQ_VS短剧","name":"🐞影院┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
-{"key":"csp_XBPQ_胖嘟嘟","name":"🐞嘟嘟┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
-{"key":"河马短剧","name":"🐞河马┃短剧","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":1},
+
 {"key":"稀饭动漫","name":"🚗稀饭┃动漫","type":3,"api":"csp_Wexxifan","searchable":1,"changeable":1},
 {"key":"暮暮动漫","name":"🚗暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
 
