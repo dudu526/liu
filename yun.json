@@ -10,8 +10,8 @@
 
 "sites":[
 
-{"key":"豆瓣2","name":"📢tv榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"csp_360","name":"📺┃360┃官源","type":3,"api":"csp_SP360","jar":"https://cloud.lxweb.cn/f/wxDJH2/PandaQ240603.jar"}, 
+{"key":"csp_豆瓣","name":"🎬┣豆瓣┫推荐┃","type":3,"api":"csp_Douban","searchable":0},
+{"key":"csp_360","name":"🎬┣影视┫荐片┃","type":3,"api":"csp_SP360","jar":"https://cloud.lxweb.cn/f/wxDJH2/PandaQ240603.jar"}, 
 
 
   {"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
