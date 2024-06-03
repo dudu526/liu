@@ -90,22 +90,6 @@
   {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","ext":"https://v.aikanbot.com"},
   {"key":"素白白","name":"💡素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
  
-{
-    "key":"csp_XBPQ_胖嘟嘟",
-    "name":"🐞嘟嘟┃短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
-    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
-},
-{
-    "key":"耐看影视",
-    "name":"💡耐看┃影视",
-    "type":3,
-    "api":"csp_AppNK",
-    "ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
-},
 
 {
     "key": "新视觉影院",
@@ -463,6 +447,15 @@
  { "key": "Wexduanjuhema", "name": "🌸短劇┃仙品┃", "type": 3, "api": "csp_Wexduanjuhema","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
  { "key": "Wexduanjuv1mp", "name": "🌸短劇┃极品┃", "type": 3, "api": "csp_Wexduanjuvmp", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
  {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"}, 
+ {
+    "key":"csp_XBPQ_胖嘟嘟",
+    "name":"🐞嘟嘟┃短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
+    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
+},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 ],
