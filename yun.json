@@ -22,7 +22,6 @@
 },
 
 
-  {"key":"追剧影视","name":"💡追剧┃影视","type": 3,"api": "csp_TTian","ext": "http://app.kzjtv.com"},
   {"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"酷看影视","name":"💡酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
@@ -41,9 +40,11 @@
   {"key":"利播影视","name":"💡利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1},
   {"key":"纯享影视","name":"💡纯享┃影视","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1},
   {"key":"两个磁力","name":"💡两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1},
-  {"key":"韩剧视频","name":"💡韩剧┃影视","type": 3,"api": "csp_Wexhanjutv","searchable": 1,"changeable": 1},
   {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","ext":"https://v.aikanbot.com"},
   {"key":"素白白","name":"💡素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
+
+
+
 {
     "key":"耐看影视",
     "name":"💡耐看┃影视",
@@ -85,10 +86,48 @@
   {"key": "五五","name": "⚡五五┃APP","type": 3,"api": "csp_AppYsV2","ext": "https://55wuv.com/api.php/app/"},
 
 
-{"key":"腾","name":"🎄腾腾┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/tt.js"},
-{"key":"优","name":"🎄优优┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/yy.js"},
-{"key":"芒","name":"🎄芒芒┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/mm.js"},
-{"key":"爱","name":"🎄爱爱┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/aa.js"},
+{
+    "key":"dr_腾迅",
+    "name":"🎄腾讯┃影视",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
+},
+{
+    "key":"dr_优酷",
+    "name":"🎄优酷┃影视",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/yku.js"
+},
+{
+    "key":"dr_芒果",
+    "name":"🎄芒果┃影视",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Mtv.js"
+},
+{
+    "key":"dr_奇异",
+    "name":"🎄奇异┃影视",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/iqy.js"
+},
+{
+    "key":"dr_搜狗",
+    "name":"🎄搜狗┃视频",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Sgou.js"
+},
+{
+    "key":"dr_卫士",
+    "name":"🎄360┃视频",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
+},
 
 {"key":"学堂","name":"🅰️学堂┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/学堂教育.json"},
 {"key":"少儿","name":"🅰️少儿┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/少儿合集.json"},
