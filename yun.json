@@ -26,7 +26,7 @@
   "api": "csp_YGP",
   "playerType": 2,
   "searchable": 0,
-  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9cr"
 },
 {
   "key": "csp_SP360",
@@ -61,7 +61,7 @@
   "type": 3,
   "api": "csp_Duopan",
   "ext": "https://duopan.fun/",
-  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9c"
 },
 {
   "key": "nangua",
@@ -76,14 +76,14 @@
   "name": "🏔┃耐看┃影视",
   "type": 3,
   "api": "csp_Nkdy",
-  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9c"
 },
 {
   "key": "csp_Juqq",
   "name": "⭕┃剧圈┃影视",
   "type": 3,
   "api": "csp_Juqq",
-  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar"
+  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9c"
 },
 {
   "key": "可可",
