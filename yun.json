@@ -21,7 +21,7 @@
 },
 {
   "key": "韩小圈",
-  "name": "🎬┣韩圈┫预告┃",
+  "name": "🎬┣韩圈┫速递┃",
   "type": 3,
   "api": "csp_HanXiaoQuan",
   "searchable": 1,
@@ -34,9 +34,6 @@
   "name": "🅾️主力360【官方】",
   "api": "csp_SP360",
   "type": 3,
-  "filterable": 1,
-  "quickSearch": 1,
-  "searchable": 1,
   "jar": "http://box.iqinu.com/jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b"
 },
 {
