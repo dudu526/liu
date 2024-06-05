@@ -20,13 +20,14 @@
   "searchable":0
 },
 {
-  "key": "豆瓣1",
-  "name": "🎬┣豆瓣┫预告┃",
+  "key": "韩小圈",
+  "name": "🎬┣韩圈┫预告┃",
   "type": 3,
-  "api": "csp_YGP",
-  "playerType": 2,
-  "searchable": 0,
-  "jar":"https://cloud.lxweb.cn/f/oRPwiY/PandaQ240603.jar;md5;e85b50b0b712b56b2ef446867431fa9cr"
+  "api": "csp_HanXiaoQuan",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
 },
 {
   "key": "csp_SP360",
@@ -63,6 +64,24 @@
   "api": "http://dt.xn--yety82d.love/js/ng_open.js",
   "playerType": 2,
   "searchable": 0
+},
+{
+  "key": "无忧短剧",
+  "name": "无忧短剧",
+  "type": 3,
+  "api": "csp_Duanj",
+  "searchable": 1,
+  "changeable": 0,
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+},
+{
+    "key":"csp_XBPQ_胖嘟嘟",
+    "name":"嘟嘟短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
+    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
 },
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch": 0,"filterable": 0},
 {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch": 1,"filterable": 0},
@@ -104,7 +123,7 @@
   "name": "新视觉网",
   "type": 3,
   "api": "csp_XBPQ",
-  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/新视觉.json"
+  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/xinshijue.json"
 },
 {
   "key": "csp_Juqq",
@@ -484,12 +503,12 @@
     "playurl": "https://jiexi.okzyw.info/m3u8/?url="
 },
 {
-      "key": "Yinyuetai",
-      "name": "音悦台🎵MV",
-      "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/yinyuetai.js",
-      "searchable": 1,
-      "changeable": 0
+  "key": "Yinyuetai",
+  "name": "音悦台🎵MV",
+  "type": 3,
+  "api": "https://gitee.com/dongchenys/liu/raw/master/js/yinyuetai.js",
+  "searchable": 1,
+  "changeable": 0
       
 },        
 {
@@ -531,15 +550,7 @@
  { "key": "Wexduanjuhema", "name": "🌸短劇┃仙品┃", "type": 3, "api": "csp_Wexduanjuhema","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
  { "key": "Wexduanjuv1mp", "name": "🌸短劇┃极品┃", "type": 3, "api": "csp_Wexduanjuvmp", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
  {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"}, 
- {
-    "key":"csp_XBPQ_胖嘟嘟",
-    "name":"🐞嘟嘟┃短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
-    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
-},
+ 
 {
   "key": "cofig",
   "name": "🇨🇳┣☪全✿局┫配置",
