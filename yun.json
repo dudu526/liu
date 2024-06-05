@@ -101,13 +101,60 @@
 {"key":"视频库","name":"视频库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://vidhub1.cc"},
 {"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://v.aikanbot.com"},
 {"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
+{ 
+  "key": "Wexduanjuvop", 
+  "name": "🌸短劇┃秒播┃", 
+  "type": 3, 
+  "api": "csp_Wexduanjuvop",
+  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar"
+}, 
+{ 
+  "key": "Wexduanjuhema", 
+  "name": "🌸短劇┃仙品┃", 
+  "type": 3, 
+  "api": "csp_Wexduanjuhema",
+  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar"
+}, 
+{ 
+  "key": "Wexduanjuv1mp", 
+  "name": "🌸短劇┃极品┃", 
+  "type": 3, 
+  "api": "csp_Wexduanjuvmp", 
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"
+}, 
 {
-  "key": "csp_Nkdy",
-  "name": "🏔┃耐看┃影视",
+  "key":"短剧", 
+  "name":"🌈上头┃短剧",
+  "type":3,
+  "api":"csp_Djuu",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"
+}, 
+{
+  "key": "Wexhuayang",
+  "name": "花花影视",
   "type": 3,
-  "playerType": "2",
-  "api": "csp_Nkdy",
-  "jar":"https://cloud.lxweb.cn/f/VAbjFr/PandaQ240605.jar;md5;c511ab626f97dfe55bff588b5b8ac49c"
+  "api": "csp_Wexhuayang",
+  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar",
+  "searchable": 1,
+  "changeable": 1
+},
+{
+  "key": "Wexjiajia",
+  "name": "佳佳影视",
+  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar",
+  "type": 3,
+  "api": "csp_Wexjiajia",
+  "searchable": 1,
+  "changeable": 1
+},
+{
+  "key": "naikan",
+  "name": "耐看影视",
+  "type": 3,
+  "api": "csp_Naikan",
+  "filterable": 1,
+  "searchable": 1,
+  "ext": "https://nkvod.com/"
 },
 {
   "key": "新视觉网",
@@ -531,17 +578,10 @@
 {"key":"小灯塔地理","name":"🌏地理┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔地理.json"},
 {"key":"小灯塔百科","name":"🌏百科┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔百科.json"},
 {"key":"小灯塔国学","name":"🌏国学┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔国学.json"},
-
 {"key":"演唱会","name":"🅰️演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/演唱会.json"},
 {"key":"MV","name":"🌈歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/歌曲MV.json"},
-
 {"key":"稀饭动漫","name":"🚗稀饭┃动漫","type":3,"api":"csp_Wexxifan","searchable":1,"changeable":1},
 {"key":"暮暮动漫","name":"🚗暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
- { "key": "Wexduanjuvop", "name": "🌸短劇┃秒播┃", "type": 3, "api": "csp_Wexduanjuvop","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
- { "key": "Wexduanjuhema", "name": "🌸短劇┃仙品┃", "type": 3, "api": "csp_Wexduanjuhema","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
- { "key": "Wexduanjuv1mp", "name": "🌸短劇┃极品┃", "type": 3, "api": "csp_Wexduanjuvmp", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"}, 
- {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"}, 
- 
 {
   "key": "cofig",
   "name": "🇨🇳┣☪全✿局┫配置",
