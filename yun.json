@@ -175,7 +175,7 @@
 },
 
 
-
+  {"key": "龙门","name": "⚡┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
   {"key": "星球","name": "⚡星球┃APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
   {"key": "奈飞","name": "⚡鸭飞┃APP","type": 3,"api": "csp_AppYsV2","ext": "https://yanetflix.me/api.php/app/"},
   {"key": "剧兔","name": "⚡剧兔┃APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
