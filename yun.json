@@ -98,37 +98,10 @@
 {"key":"看看影视","name":"看看影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch": 1,"filterable": 0},
 {"key":"米米影视","name":"米米影视","type":3,"api":"csp_WebDM","searchable":1,"quickSearch": 1,"filterable": 0},
 {"key":"厂长资源","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://www.czys.top/"},
-{"key":"视频库","name":"视频库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://vidhub1.cc"},
-{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://v.aikanbot.com"},
-{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
-{ 
-  "key": "Wexduanjuvop", 
-  "name": "🌸短劇┃秒播┃", 
-  "type": 3, 
-  "api": "csp_Wexduanjuvop",
-  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar"
-}, 
-{ 
-  "key": "Wexduanjuhema", 
-  "name": "🌸短劇┃仙品┃", 
-  "type": 3, 
-  "api": "csp_Wexduanjuhema",
-  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar"
-}, 
-{ 
-  "key": "Wexduanjuv1mp", 
-  "name": "🌸短劇┃极品┃", 
-  "type": 3, 
-  "api": "csp_Wexduanjuvmp", 
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt"
-}, 
-{
-  "key":"短剧", 
-  "name":"🌈上头┃短剧",
-  "type":3,
-  "api":"csp_Djuu",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"
-}, 
+{"key":"视频影库","name":"视频影库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://vidhub1.cc"},
+{"key":"机器人","name":"爱看机器","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://v.aikanbot.com"},
+{"key":"素素白白","name":"素白影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
+{"key":"耐看影视","name":"耐看影视","type":3,"api":"csp_Naikan","filterable": 1,"searchable": 1,"ext": "https://nkvod.com/"},
 {
   "key": "Wexhuayang",
   "name": "花花影视",
@@ -148,14 +121,57 @@
   "changeable": 1
 },
 {
-  "key": "naikan",
-  "name": "耐看影视",
-  "type": 3,
-  "api": "csp_Naikan",
-  "filterable": 1,
-  "searchable": 1,
-  "ext": "https://nkvod.com/"
+      "key": "Wexduanjuvop",
+      "name": "短劇秒播",
+      "type": 3,
+      "api": "csp_Wexduanjuvop",
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
+      "searchable": 1,
+      "changeable": 1
 },
+{
+      "key": "Wexduanjuhema",
+      "name": "短劇仙品",
+      "type": 3,
+      "api": "csp_Wexduanjuhema",
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
+      "searchable": 1,
+      "changeable": 1
+},
+{
+      "key": "Wexduanjuv1mp",
+      "name": "短劇极品",
+      "type": 3,
+      "api": "csp_Wexduanjuvmp",
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
+      "searchable": 1,
+      "changeable": 1
+},
+{
+      "key": "vipWexduanju",
+      "name": "短劇精品",
+      "type": 3,
+      "api": "csp_Wexvipduanju",
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
+      "searchable": 1,
+      "changeable": 1
+},
+{
+      "key": "Wexduanjuvip",
+      "name": "短劇良品",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
+      "searchable": 1,
+      "changeable": 1
+},
+{
+    "key":"短剧", 
+    "name":"🌈上头┃短剧",
+    "type":3,
+    "api":"csp_Djuu",
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"
+}, 
 {
   "key": "新视觉网",
   "name": "新视觉网",
