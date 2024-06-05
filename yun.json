@@ -102,13 +102,12 @@
 {"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://v.aikanbot.com"},
 {"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
 {
-  "key": "耐看影视",
-  "name": "耐看影视",
+  "key": "csp_Nkdy",
+  "name": "🏔┃耐看┃影视",
   "type": 3,
-  "api": "csp_AppNK",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
+  "playerType": "2",
+  "api": "csp_Nkdy",
+  "jar":"https://cloud.lxweb.cn/f/VAbjFr/PandaQ240605.jar;md5;c511ab626f97dfe55bff588b5b8ac49c"
 },
 {
   "key": "新视觉网",
