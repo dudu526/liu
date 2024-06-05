@@ -139,15 +139,6 @@
       "changeable": 1
 },
 {
-      "key": "Wexduanjuv1mp",
-      "name": "短劇极品",
-      "type": 3,
-      "api": "csp_Wexduanjuvmp",
-"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
-      "searchable": 1,
-      "changeable": 1
-},
-{
       "key": "vipWexduanju",
       "name": "短劇精品",
       "type": 3,
@@ -164,13 +155,6 @@
 "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
       "searchable": 1,
       "changeable": 1
-},
-{
-    "key":"短剧", 
-    "name":"🌈上头┃短剧",
-    "type":3,
-    "api":"csp_Djuu",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"
 }, 
 {
   "key": "新视觉网",
@@ -627,7 +611,10 @@
 {"name":"线路7","type":0,"url":"https://www.8090g.cn/?url="},
 {"name":"线路8","type":0,"url":"https://jx.yangtu.top?url="},
 {"name":"线路9","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"线路10","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="}
+{"name":"线路10","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"🌎南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"🌐虾迷","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","imgo","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+{"name":"🌐8090","type":0,"url":"https://www.8090g.cn/?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","imgo","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}
 ],
 "rules":[
 {"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
