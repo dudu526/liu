@@ -30,10 +30,14 @@
   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
 },
 {
-  "key": "csp_SP360",
+  "key": "csp_sp_360影视",
   "name": "🅾️主力360【官方】",
+  "api": "csp_SP360",
   "type": 3,
-  "api": "csp_SP360"
+  "filterable": 1,
+  "quickSearch": 1,
+  "searchable": 1,
+  "ext": ""
 },
 {
   "key": "Qtv",
@@ -55,15 +59,6 @@
   "type": 3,
   "api": "csp_Mtv",
   "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
-},
-
-{
-  "key": "nangua",
-  "name": "🎃┃南瓜┃影视",
-  "type": 3,
-  "api": "http://dt.xn--yety82d.love/js/ng_open.js",
-  "playerType": 2,
-  "searchable": 0
 },
 {
   "key": "无忧短剧",
@@ -170,7 +165,14 @@
   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt",
   "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 },
-
+{
+  "key": "nangua",
+  "name": "🎃┃南瓜┃影视",
+  "type": 3,
+  "api": "http://dt.xn--yety82d.love/js/ng_open.js",
+  "playerType": 2,
+  "searchable": 0
+},
 
 
 
@@ -275,6 +277,7 @@
   {"key": "淘片采集","name": "🌠淘片┃采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
   {"key": "飞速资源","name": "🌠飞速┃采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
   {"key": "百度资源","name": "🌠百度┃采集","type": 1,"api": "https://bdzy.tv/api.php/provide/vod/"},
+
 {
     "key": "优质资源",
     "name": "优质🌀采集",
