@@ -103,7 +103,7 @@
 {"key": "米米影视","name": "米米影视","type": 3,"api": "csp_WebDM","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "追影视频","name": "追影视频","type": 3,"api": "csp_WebZY","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "南坊追剧","name": "南坊追剧","type": 3,"api": "csp_WebNF","searchable": 1,"changeable": 1,"ext": "https://www.nfzj.fun"},
-{"key": "农民影视","name": "农民影视","type": 3,"api": "csp_WebNM","searchable": 1,"changeable": 1,"ext": "https://v.nmvod.cn"},
+{"key": "农民影视","name": "农民影视","type": 3,"api": "csp_WexNmys","searchable": 1,"changeable": 1,"ext": "https://v.nmvod.cn"},
 {"key": "视频影库","name": "视频影库","type": 3,"api": "csp_WebVidHub","searchable": 1,"changeable": 1,"ext": "https://vidhub1.cc"},
 {"key": "素白影视","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1},
 {"key": "爱看机器","name": "爱看机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 1,"ext": "https://v.aikanbot.com"},
