@@ -65,6 +65,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
+  "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/xs.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
   "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
 },
 {
@@ -97,16 +98,29 @@
 {"key": "酷看影视","name": "酷看影视","type": 3,"api": "csp_Wexkukantv","searchable": 1,"changeable": 1},
 {"key": "明日影视","name": "明日影视","type": 3,"api": "csp_WexMingriys","searchable": 1,"changeable": 1},
 {"key": "腐剧视频","name": "腐剧视频","type": 3,"api": "csp_WexFujutv","searchable": 1,"changeable": 1},
-{"key": "韩剧视频","name": "韩剧视频","type": 3,"api": "csp_Wexhanjutv","searchable": 1,"changeable": 1},
 {"key": "文才影视","name": "文才影视","type": 3,"api": "csp_Wexwencai","searchable": 1,"changeable": 1},      
 {"key": "看看影视","name": "看看影视","type": 3,"api": "csp_WebIV","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "米米影视","name": "米米影视","type": 3,"api": "csp_WebDM","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "追影视频","name": "追影视频","type": 3,"api": "csp_WebZY","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "南坊追剧","name": "南坊追剧","type": 3,"api": "csp_WebNF","searchable": 1,"changeable": 1,"ext": "https://www.nfzj.fun"},
 {"key": "农民影视","name": "农民影视","type": 3,"api": "csp_WexNmys","searchable": 1,"changeable": 1,"ext": "https://v.nmvod.cn"},
 {"key": "视频影库","name": "视频影库","type": 3,"api": "csp_WebVidHub","searchable": 1,"changeable": 1,"ext": "https://vidhub1.cc"},
 {"key": "素白影视","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1},
 {"key": "爱看机器","name": "爱看机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 1,"ext": "https://v.aikanbot.com"},
+{"key": "地瓜影视","name": "地瓜影视","type": 3,"api": "csp_Wexdiguatv","searchable": 1,"changeable": 1},
+{"key": "啾啾影视","name": "啾啾影视","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable": 1},
+{"key": "星辰影视","name": "星辰影视","type": 3,"api": "csp_WexXingchen","searchable": 1,"changeable": 1},
+{"key": "利播影视","name": "利播影视","type": 3,"api": "csp_Wexlibhd","searchable": 1,"changeable": 1},
+{"key": "纯享影视","name": "纯享影视","type": 3,"api": "csp_WexF4kvm","searchable": 1,"changeable": 1},
+{"key": "两个磁力","name": "两个磁力","type": 3,"api": "csp_Wexbttwo","searchable": 1,"changeable": 1},
+{
+  "key": "追影视频",
+  "name": "追影视频",
+  "type": 3,
+  "api": "csp_WebZY",
+  "searchable": 1,
+  "quickSearch": 1,
+  "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/xs.jar;md5;dfa413850c16ddd79d05c62f23cbd35e"
+},
 {
   "key": "八八影视",
   "name": "八八影视",
@@ -119,62 +133,7 @@
   "siteUrl": "https://api.kpyun6.cn",
   "deviceId": "b0d43379a488e74d"}
 },
-{
-  "key": "地瓜影视",
-  "name": "地瓜影视",
-  "type": 3,
-  "api": "csp_Wexdiguatv",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "闪电影视",
-  "name": "闪电影视",
-  "type": 3,
-  "api": "csp_Wexshandian",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "啾啾影视",
-  "name": "啾啾影视",
-  "type": 3,
-  "api": "csp_Wexjiohub",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "星辰影视",
-  "name": "星辰影视",
-  "type": 3,
-  "api": "csp_WexXingchen",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "利播影视",
-  "name": "利播影视",
-  "type": 3,
-  "api": "csp_Wexlibhd",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "纯享影视",
-  "name": "纯享影视",
-  "type": 3,
-  "api": "csp_WexF4kvm",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "两个磁力",
-  "name": "两个磁力",
-  "type": 3,
-  "api": "csp_Wexbttwo",
-  "searchable": 1,
-  "changeable": 1
-},
+
 {
   "key": "csp_Nkdy",
   "name": "耐看影视",
