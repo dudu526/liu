@@ -111,24 +111,6 @@
   "jar": "https://cloud.lxweb.cn/f/VAbjFr/PandaQ240605.jar;md5;c511ab626f97dfe55bff588b5b8ac49c"
 },
 {
-  "key": "Wexhuayang",
-  "name": "花花影视",
-  "type": 3,
-  "api": "csp_Wexhuayang",
-  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "Wexjiajia",
-  "name": "佳佳影视",
-  "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar",
-  "type": 3,
-  "api": "csp_Wexjiajia",
-  "searchable": 1,
-  "changeable": 1
-},
-{
       "key": "Wexduanjuvop",
       "name": "短劇秒播",
       "type": 3,
@@ -191,22 +173,6 @@
   "type": 3,
   "api": "csp_XBPQ",   
   "ext": "https://gitlab.com/dokiss1/tvbox/-/raw/master/json/七七影视.json"
-},
-{
-  "key": "糯米",
-  "name": "糯米秒播",
-  "type": 3,
-  "api": "csp_Nmys",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt",
-  "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-},
-{
-  "key": "萌米",
-  "name": "萌米多线",
-  "type": 3,
-  "api": "csp_AppTT",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt",
-  "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 },
 {
   "key": "nangua",
