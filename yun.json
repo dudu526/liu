@@ -87,6 +87,14 @@
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
 },
 {"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
+{
+            "key": "精品短剧",
+            "name": "精品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvip",
+            "searchable": 1,
+            "changeable": 1
+        },
 {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "天天影视","name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"ext": "http://op.ysdqjs.cn"},
 {"key": "热播影视","name": "热播影视","type": 3,"api": "csp_AppRB","searchable": 1,"quickSearch": 1,"ext": "http://v.rbotv.cn"},
