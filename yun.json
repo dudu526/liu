@@ -105,16 +105,15 @@
 {"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_Wexsaohuo","searchable": 1,"changeable": 1},
 {"key": "在线之家","name": "在线之家","type": 3,"api": "csp_Wexzxzj","searchable": 1,"changeable": 1},
 {
-  "key": "八八影视",
-  "name": "八八影视",
-  "type": 3,
-  "api": "csp_AppEight",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": {
-  "siteUrl": "https://api.kpyun6.cn",
-  "deviceId": "b0d43379a488e74d"}
+    "key":"eight",
+    "name":"影视|八八",
+    "type":3,
+    "api":"csp_AppEight",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":0,
+    "playerType":2,
+    "ext":"https://api.kpyun6.cn"
 },
 {
   "key": "csp_Nkdy",
@@ -557,7 +556,7 @@
     "ext": "https://gitee.com/lyun_1_0/tb/edit/master/lib/a8yy.js"
 },
 {"key":"演唱会","name":"🅰️演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/演唱会.json"},
-{"key":"MV","name":"🌈歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/歌曲MV.json"},
+{"key":"MV","name":"🅰️歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/歌曲MV.json"},
 {"key":"少儿","name":"🅰️少儿┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/少儿合集.json"},
 {"key":"小学课堂","name":"🅰️小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小学课堂.json"},
 {"key":"初中课堂","name":"🅰️初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/初中课堂.json"},
