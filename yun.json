@@ -87,14 +87,7 @@
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
 },
 {"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-{
-            "key": "精品短剧",
-            "name": "精品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvip",
-            "searchable": 1,
-            "changeable": 1
-        },
+{"key": "精品短剧","name": "精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
 {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "天天影视","name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"ext": "http://op.ysdqjs.cn"},
 {"key": "热播影视","name": "热播影视","type": 3,"api": "csp_AppRB","searchable": 1,"quickSearch": 1,"ext": "http://v.rbotv.cn"},
@@ -187,17 +180,7 @@
   "playerType": 2,
   "searchable": 0
 },
-{
-  "key": "小苹果弹幕",
-  "name": "弹幕｜小苹果",
-  "type": 3,
-  "api": "csp_Xpg",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {"danmu": true},
-  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
-},
+
 
   {"key": "龙门","name": "⚡┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
   {"key": "星球","name": "⚡┣星球┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
@@ -559,6 +542,36 @@
   "changeable":0,
   "style":{"type":"rect","ratio":1.433}
 },
+{
+    "key": "js_酷狗MV",
+    "name": "酷狗","type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/kugouMV.js"
+},
+{
+    "key":"csp_xpath_kuqimv",
+    "name":"酷奇","type":3,
+    "api":"csp_XPath",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
+},
+{
+    "key": "js_a8音乐",
+    "name": "A8",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/edit/master/lib/a8yy.js"
+},
+{"key":"演唱会","name":"🅰️演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/演唱会.json"},
+{"key":"MV","name":"🌈歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/歌曲MV.json"},
 {"key":"少儿","name":"🅰️少儿┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/少儿合集.json"},
 {"key":"小学课堂","name":"🅰️小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小学课堂.json"},
 {"key":"初中课堂","name":"🅰️初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/初中课堂.json"},
@@ -567,8 +580,6 @@
 {"key":"小灯塔地理","name":"🌏地理┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔地理.json"},
 {"key":"小灯塔百科","name":"🌏百科┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔百科.json"},
 {"key":"小灯塔国学","name":"🌏国学┃小灯塔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小灯塔国学.json"},
-{"key":"演唱会","name":"🅰️演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/演唱会.json"},
-{"key":"MV","name":"🌈歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/歌曲MV.json"},
 {"key":"稀饭动漫","name":"🚗稀饭┃动漫","type":3,"api":"csp_Wexxifan","searchable":1,"changeable":1},
 {"key":"暮暮动漫","name":"🚗暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
 {
