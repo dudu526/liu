@@ -164,14 +164,7 @@
   "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/xs.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
   "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
 },
-{
-  "key": "nangua",
-  "name": "🎃南瓜┃影视",
-  "type": 3,
-  "api": "http://dt.xn--yety82d.love/js/ng_open.js",
-  "playerType": 2,
-  "searchable": 0
-},
+
 
 
   {"key": "龙门","name": "⚡┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
@@ -253,6 +246,7 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
 },
 
+  {"key": "nangua1","name": "🌠南瓜┃影视","type": 3,"api": "http://dt.xn--yety82d.love/js/ng_open.js","playerType": 2,"searchable": 0},
   {"key": "极客资源","name": "🌠极客┃影视","type": 1,"api": "https://www.jkdy.cc/api.php/provide/vod/"},
   {"key": "映迷资源","name": "🌠映迷┃影视","type": 1,"api": "https://www.inmi.app/api.php/provide/vod/"},
   {"key": "秒播资源","name": "🌠秒播┃影视","type": 1,"api": "https://www.nvxvn.com/api.php/provide/vod/"},
