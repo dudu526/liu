@@ -144,42 +144,6 @@
   "jar": "https://cloud.lxweb.cn/f/VAbjFr/PandaQ240605.jar;md5;c511ab626f97dfe55bff588b5b8ac49c"
 },
 {
-      "key": "Wexduanjuvop",
-      "name": "短劇秒播",
-      "type": 3,
-      "api": "csp_Wexduanjuvop",
-"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
-      "searchable": 1,
-      "changeable": 1
-},
-{
-      "key": "Wexduanjuhema",
-      "name": "短劇仙品",
-      "type": 3,
-      "api": "csp_Wexduanjuhema",
-"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
-      "searchable": 1,
-      "changeable": 1
-},
-{
-      "key": "vipWexduanju",
-      "name": "短劇精品",
-      "type": 3,
-      "api": "csp_Wexvipduanju",
-"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
-      "searchable": 1,
-      "changeable": 1
-},
-{
-      "key": "Wexduanjuvip",
-      "name": "短劇良品",
-      "type": 3,
-      "api": "csp_Wexduanjuvip",
-"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e",
-      "searchable": 1,
-      "changeable": 1
-}, 
-{
   "key": "新视觉网",
   "name": "新视觉网",
   "type": 3,
