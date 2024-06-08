@@ -59,7 +59,7 @@
 },
 {
     "key":"短剧tv",
-    "name":"🍡短剧tv",
+    "name":"🍡短剧TV",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -70,7 +70,8 @@
     "播放数组":"\"more text-muted pull-right\">&&</ul>",
     "播放链接":"http+://www.duanjutv.cc+href='&&'",
     "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
-    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"},"jar":"./XBPQ.jar"
+    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"},
+    "jar":"http://74.120.175.78/JK/XYQTVBox/XBPQ.jar"
 },
 {
     "key":"短剧吧",
@@ -80,7 +81,8 @@
     "ext":{
     "简介":"醉卧东风祝您观影愉快",
     "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-    "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"},"jar":"./XBPQ.jar"
+    "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"},
+    "jar":"http://74.120.175.78/JK/XYQTVBox/XBPQ.jar"
 },
 {
     "key":"短剧天堂",
@@ -95,7 +97,8 @@
     "嗅探词": ".mp4#.m3u8#.flv",
     "分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5",
     "分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
-    "分类ID":"/vodtype/&&.html"},"jar":"./XBPQ.jar"
+    "分类ID":"/vodtype/&&.html"},
+    "jar":"http://74.120.175.78/JK/XYQTVBox/XBPQ.jar"
 },
 {
     "key":"短剧网",
@@ -106,7 +109,7 @@
     "简介":"醉卧东风祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
     "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"},
-    "jar":"./XBPQ.jar"
+    "jar":"http://74.120.175.78/JK/XYQTVBox/XBPQ.jar"
 },
 {
   "key": "无忧短剧",
