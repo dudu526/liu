@@ -70,8 +70,7 @@
     "播放数组":"\"more text-muted pull-right\">&&</ul>",
     "播放链接":"http+://www.duanjutv.cc+href='&&'",
     "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
-    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}
-    
+    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
 },
 {
     "key":"短剧吧",
@@ -255,42 +254,42 @@
 
 {
     "key":"dr_腾迅",
-    "name":"🎄腾讯┃影视",
+    "name":"🎄┣腾讯┫影视",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
 },
 {
     "key":"优",
-    "name":"🎄优酷┃影视",
+    "name":"🎄┣优酷┫影视",
     "type":3,
     "api":"http://tv.nxog.top/m/js/nxog.js",
     "ext":"http://tv.nxog.top/m/js/yy.js"
 },
 {
     "key":"dr_芒果",
-    "name":"🎄芒果┃影视",
+    "name":"🎄┣芒果┫影视",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Mtv.js"
 },
 {
     "key":"dr_奇异",
-    "name":"🎄奇异┃影视",
+    "name":"🎄┣奇异┫影视",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/iqy.js"
 },
 {
     "key":"dr_搜狗",
-    "name":"🎄搜狗┃视频",
+    "name":"🎄┣搜狗┫视频",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Sgou.js"
 },
 {
     "key":"dr_卫士",
-    "name":"🎄360┃视频",
+    "name":"🎄┣360┫视频",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
@@ -473,7 +472,7 @@
 },
 {
     "key": "卧龙资源",
-    "name": "🌠┣卧龙🌀采集",
+    "name": "🌠┣卧龙┫采集",
     "type": 1,
     "api": "https://wolongzyw.com/api.php/provide/vod/",
     "playurl": "https://jx.wolongm3u8.com:65/m3u8.php?url="
@@ -487,7 +486,7 @@
 },
 {
     "key": "速播资源",
-    "name": "🌠┣速播🌀采集",
+    "name": "🌠┣速播┫采集",
     "type": 1,
     "api": "https://subocaiji.com/api.php/provide/vod",
     "playurl": "https://subojiexi.com/play/?url="
