@@ -666,12 +666,6 @@
       "api": "https://catbox.n13.club/t7/iktv.php"
     },
     {
-      "key": "T4-tangdou",
-      "name": "音乐-糖豆(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/tangdou.php"
-    },
-    {
       "key": "yinyuetai",
       "name": "音乐-音悦(T4)",
       "type": 4,
