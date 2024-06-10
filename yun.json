@@ -61,7 +61,7 @@
 {"key": "精品短剧","name": "精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
 {
     "key":"短剧tv",
-    "name":"🍡短剧TV",
+    "name":"短剧TV",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -76,7 +76,7 @@
 },
 {
     "key":"短剧吧",
-    "name":"🍡短剧吧",
+    "name":"短剧吧",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -86,7 +86,7 @@
 },
 {
     "key":"短剧天堂",
-    "name":"🍡短剧天堂",
+    "name":"短剧天堂",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -101,7 +101,7 @@
 },
 {
     "key":"短剧网",
-    "name":"🍡短剧网",
+    "name":"短剧网",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
