@@ -317,7 +317,7 @@
   {"key": "三八资源","name": "🌠┣三八┫影视","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
   {"key": "淘片采集","name": "🌠┣淘片┫采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
   {"key": "飞速资源","name": "🌠┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
-  {"key": "百度资源","name": "🌠┣百度┫采集","type": 1,"api": "https://bdzy.tv/api.php/provide/vod/"},
+ 
 
 {
     "key": "优质资源",
@@ -527,6 +527,29 @@
     "playurl": "https://jx.ylzy.me/dplayer/?url="
 },
 
+{"key":"T4-yugaopian","name":"🍭影视-预告片(T4)","type":4,"api":"https://catbox.n13.club/t7/yugaopian.php"},
+{"key":"T4-剧圈","name":"💁影视-剧圈(T4)","type":4,"api":"https://catbox.n13.club/t7/juquan.php"},
+{"key":"T4-黑狐","name":"📡影视-黑狐(T4)","type":4,"api":"https://catbox.n13.club/t7/heihu.php"},
+{"key":"T4-极光","name":"🍑影视-极光(T4)","type":4,"api":"https://catbox.n13.club/t7/jiguang.php"},
+{"key":"T4-fj","name":"🍅影视-腐剧(T4)","type":4,"api":"https://catbox.n13.club/t7/fuju.php"},
+{"key":"T4-caiji","name":"🦅影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t7/caiji.php"},
+{"key":"T4-xinshijue","name":"🦊影视-新视觉(T4)","type":4,"api":"https://catbox.n13.club/t7/xinshijue.php"},
+{"key":"T4-saohuo","name":"🥕影视-骚火(T4)","type":4,"api":"https://catbox.n13.club/t7/saohuo.php"},
+{"key":"T4-mingri","name":"🍐影视-明日(T4)","type":4,"api":"https://catbox.n13.club/t7/mingri.php"},
+{"key":"T4-yzys","name":"🍋影视-柚子(T4)","type":4,"api":"https://catbox.n13.club/t7/yzys.php"},
+{"key":"T4-cntv","name":"🇨🇳央视全频道","type":4,"api":"https://catbox.n13.club/t7/cntv.php"},
+{"key":"T4-bmtv","name":"🏧MTV大全","type":4,"api":"https://catbox.n13.club/t7/bili.php?id=bMTV"},
+{"key":"T4-tangdou","name":"🍬糖豆广场舞","type":4,"api":"https://catbox.n13.club/t7/tangdou.php"},
+{"key":"djmv","name":"🚌车载音乐","type":4,"api":"https://catbox.n13.club/t7/djmv.php"},
+{"key":"T4-6v","name":"⭕️磁力-6V","type":4,"api":"https://catbox.n13.club/t7/6v.php"},
+{"key":"T4-哔嘀","name":"⭕️磁力-哔嘀","type":4,"api":"https://catbox.n13.club/t7/bdys.php"},
+{"key":"T4-pptv","name":"🥥皮皮影视","type":4,"api":"https://catbox.n13.club/t7/pptv.php"},
+{"key":"T4-iktv","name":"🎧音乐ktv","type":4,"api":"https://catbox.n13.club/t7/iktv.php"},
+{"key":"T4-xiaoyi","name":"🧕小姨音乐","type":4,"api":"https://catbox.n13.club/t7/wy.php"},
+{"key":"T4-MV","name":"🧚‍♂️音乐酷奇","type":4,"api":"https://catbox.n13.club/t7/mv2.php"},
+{"key":"T4-xiaogou","name":"🐶小狗音乐","type":4,"api":"https://catbox.n13.club/t7/xiaogou.php"},
+{"key":"T4-djuu","name":"🎷DJ串烧","type":4,"api":"https://catbox.n13.club/t7/djuu.php"},
+{"key":"T4-a8","name":"🎯A8音乐网","type":4,"api":"https://catbox.n13.club/t7/a8.php"},
 {
   "key": "Yinyuetai",
   "name": "音悦台🎵MV",
@@ -558,15 +581,6 @@
   "style":{"type":"rect","ratio":1.433}
 },
 {
-    "key": "js_酷狗MV",
-    "name": "酷狗","type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/kugouMV.js"
-},
-{
     "key":"csp_xpath_kuqimv",
     "name":"酷奇","type":3,
     "api":"csp_XPath",
@@ -575,18 +589,6 @@
     "filterable":1,
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
 },
-{
-    "key": "js_a8音乐",
-    "name": "A8",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://gitee.com/lyun_1_0/tb/edit/master/lib/a8yy.js"
-},
-{"key":"演唱会","name":"🅰️演唱会┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/演唱会.json"},
-{"key":"MV","name":"🅰️歌曲┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/歌曲MV.json"},
 {"key":"少儿","name":"🅰️少儿┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/少儿合集.json"},
 {"key":"小学课堂","name":"🅰️小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/小学课堂.json"},
 {"key":"初中课堂","name":"🅰️初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/初中课堂.json"},
