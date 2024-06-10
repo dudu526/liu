@@ -579,18 +579,6 @@
       "api": "https://catbox.n13.club/t7/yugaopian.php"
     },
     {
-      "key": "yinyue",
-      "name": "音乐-258(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/yyyy.php"
-    },
-    {
-      "key": "djmv",
-      "name": "音乐-DJMV(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/djmv.php"
-    },
-    {
       "key": "T4-剧圈",
       "name": "影视-剧圈(T4)",
       "type": 4,
@@ -620,24 +608,14 @@
       "type": 4,
       "api": "https://catbox.n13.club/t7/jiguang.php"
     },
-    {
-      "key": "T4-fj",
-      "name": "影视-腐剧(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/fuju.php"
-    },
+    
     {
       "key": "T4-caiji",
       "name": "影视-采集(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t7/caiji.php"
     },
-    {
-      "key": "T4-wencai",
-      "name": "影视-文才(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/wencai.php"
-    },
+    
     {
       "key": "T4-xinshijue",
       "name": "影视-新视觉(T4)",
@@ -650,29 +628,12 @@
       "type": 4,
       "api": "https://catbox.n13.club/t7/saohuo.php"
     },
-    {
-      "key": "T4-jojo",
-      "name": "影视-jojo(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/jojo.php"
-    },
+   
     {
       "key": "T4-mmdj",
       "name": "短剧-MM(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t7/mmdj.php"
-    },
-    {
-      "key": "T4-hanju",
-      "name": "影视-韩剧(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/hanju.php"
-    },
-    {
-      "key": "T4-yzys",
-      "name": "影视-柚子(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/yzys.php"
     },
     {
       "key": "T4-pptv",
@@ -681,136 +642,22 @@
       "api": "https://catbox.n13.club/t7/pptv.php"
     },
     {
-      "key": "T4-dyxs",
-      "name": "影视-先生(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/dyxs.php"
-    },
-    {
-      "key": "T4-xiongdi",
-      "name": "影视-兄弟(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/xiongdi.php"
-    },
-    {
       "key": "T4-mingri",
       "name": "影视-明日(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t7/mingri.php"
     },
     {
-      "key": "T4-jrkan",
-      "name": "其他-jr看球(T4)",
+      "key": "yinyue",
+      "name": "音乐-258(T4)",
       "type": 4,
-      "api": "https://catbox.n13.club/t7/jrkan.php"
+      "api": "https://catbox.n13.club/t7/yyyy.php"
     },
     {
-      "key": "T4-suishenting",
-      "name": "其他-随身听(T4)",
+      "key": "djmv",
+      "name": "音乐-DJMV(T4)",
       "type": 4,
-      "api": "https://catbox.n13.club/t7/suishenting.php"
-    },
-    {
-      "key": "T4-6v",
-      "name": "磁力-6V(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/6v.php"
-    },
-    {
-      "key": "T4-zmp4",
-      "name": "磁力-MP4(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/zmp4.php"
-    },
-    {
-      "key": "T4-哔嘀",
-      "name": "磁力-哔嘀(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/bdys.php"
-    },
-    {
-      "key": "T4-樱花",
-      "name": "动漫-樱花(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/yinghua.php"
-    },
-    {
-      "key": "T4-dongman",
-      "name": "动漫-巴士(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/dm84.php"
-    },
-    {
-      "key": "T4-xifan",
-      "name": "动漫-稀饭(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/xifan.php"
-    },
-    {
-      "key": "T4-jijiu",
-      "name": "其他-急救(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/jijiu.php"
-    },
-    {
-      "key": "T4-qingting",
-      "name": "音乐-蜻蜓(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/qingting.php"
-    },
-    {
-      "key": "T4-qingfeng",
-      "name": "音乐-清风(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/qingfengdj.php"
-    },
-    {
-      "key": "T4-qiertiyu",
-      "name": "体育-企鹅(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/qietiyu.php"
-    },
-    {
-      "key": "T4-bookan",
-      "name": "听书-博看(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/bookan.php"
-    },
-    {
-      "key": "T4-tingshu",
-      "name": "其他-275听书(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/275ts.php"
-    },
-    {
-      "key": "T4-360kq",
-      "name": "其他-看球(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/360kq.php"
-    },
-    {
-      "key": "T4-cctv",
-      "name": "其他-央视(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/cctv.php"
-    },
-    {
-      "key": "T4-cntv",
-      "name": "其他-央视2(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/cntv.php"
-    },
-    {
-      "key": "T4-blh",
-      "name": "儿童-贝乐虎(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/beilehu.php"
-    },
-    {
-      "key": "tuxiaobei",
-      "name": "儿童-兔小贝(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/tuxiaobei.php"
+      "api": "https://catbox.n13.club/t7/djmv.php"
     },
     {
       "key": "T4-iktv",
@@ -855,34 +702,10 @@
       "api": "https://catbox.n13.club/t7/djuu.php"
     },
     {
-      "key": "T4-a8",
-      "name": "音乐-A8(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/a8.php"
-    },
-    {
-      "key": "T4-jieshuo",
-      "name": "B站-解说(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/bili.php?id=影视解说"
-    },
-    {
       "key": "T4-bmtv",
       "name": "B站-MTV(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t7/bili.php?id=bMTV"
-    },
-    {
-      "key": "T4-Blixs",
-      "name": "B站-相声(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/bili.php?id=Blixs"
-    },
-    {
-      "key": "T4-Blixq",
-      "name": "B站-戏曲(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t7/bili.php?id=Blixq"
     },
     {
       "key": "T4-Bliych",
@@ -895,6 +718,104 @@
       "name": "B站-mybili(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t7/bili.php?id=我的哔哩"
+    },
+    {
+      "key": "T4-樱花",
+      "name": "动漫-樱花(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/yinghua.php"
+    },
+    {
+      "key": "T4-dongman",
+      "name": "动漫-巴士(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/dm84.php"
+    },
+    {
+      "key": "T4-xifan",
+      "name": "动漫-稀饭(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/xifan.php"
+    },
+    {
+      "key": "T4-qiertiyu",
+      "name": "体育-企鹅(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/qietiyu.php"
+    },
+    {
+      "key": "T4-jrkan",
+      "name": "其他-jr看球(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/jrkan.php"
+    },
+     {
+      "key": "T4-360kq",
+      "name": "其他-看球(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/360kq.php"
+    },
+    {
+      "key": "T4-suishenting",
+      "name": "其他-随身听(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/suishenting.php"
+    },
+    {
+      "key": "T4-bookan",
+      "name": "听书-博看(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/bookan.php"
+    },
+   {
+      "key": "T4-qingting",
+      "name": "音乐-蜻蜓(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/qingting.php"
+    },
+    {
+      "key": "T4-qingfeng",
+      "name": "音乐-清风(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/qingfengdj.php"
+    },
+   
+    {
+      "key": "T4-cctv",
+      "name": "其他-央视(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/cctv.php"
+    },
+    {
+      "key": "T4-cntv",
+      "name": "其他-央视2(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/cntv.php"
+    },
+    {
+      "key": "T4-blh",
+      "name": "儿童-贝乐虎(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/beilehu.php"
+    },
+    {
+      "key": "tuxiaobei",
+      "name": "儿童-兔小贝(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/tuxiaobei.php"
+    },
+    
+    {
+      "key": "T4-Blixs",
+      "name": "B站-相声(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/bili.php?id=Blixs"
+    },
+    {
+      "key": "T4-Blixq",
+      "name": "B站-戏曲(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t7/bili.php?id=Blixq"
     },
     {
       "key": "T4-bili",
