@@ -577,7 +577,6 @@
 {"key": "T4-djuu","name": "音乐-DJUU(T4)","type": 4,"api": "https://catbox.n13.club/t7/djuu.php"},
 {"key": "T4-bmtv","name": "B站-MTV(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=bMTV"},
 {"key": "T4-Bliych","name": "B站-演唱会(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=Bliych"},
-{"key": "T4-mybili","name": "B站-mybili(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=我的哔哩"},
 {"key": "T4-樱花","name": "动漫-樱花(T4)","type": 4,"api": "https://catbox.n13.club/t7/yinghua.php"},
 {"key": "T4-dongman","name": "动漫-巴士(T4)","type": 4,"api": "https://catbox.n13.club/t7/dm84.php"},
 {"key": "T4-xifan","name": "动漫-稀饭(T4)","type": 4,"api": "https://catbox.n13.club/t7/xifan.php"},
