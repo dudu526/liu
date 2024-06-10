@@ -585,8 +585,6 @@
 {"key": "T4-cntv","name": "其他-央视2(T4)","type": 4,"api": "https://catbox.n13.club/t7/cntv.php"},
 {"key": "T4-Blixs","name": "B站-相声(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=Blixs"},
 {"key": "T4-Blixq","name": "B站-戏曲(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=Blixq"},
-{"key": "T4-bili","name": "B站-哔哩(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php"},
-{"key": "T4-waiyu","name": "B站-外语(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=waiyu"},
 {"key": "T4-bili1","name": "B站-幼儿(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=少儿教育"},
 {"key": "T4-bili2","name": "B站-小学(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=小学课堂"},
 {"key": "T4-bili3","name": "B站-初中(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=初中课堂"},
@@ -597,8 +595,7 @@
 {"key": "T4-小灯塔国学","name": "B站-小灯塔国学(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=小灯塔国学"}, 
 {"key": "T4-球类合集","name": "B站-球类合集(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=球类合集"},
 {"key": "T4-球星合集","name": "B站-球星合集(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=球星合集"},
-{"key": "T4-whzb","name": "游戏(T4)","type": 4,"api": "https://catbox.n13.club/t7/whzb.php"},
-   
+
 {
   "key": "cofig",
   "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
