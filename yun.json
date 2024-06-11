@@ -29,7 +29,48 @@
   "filterable": 1,
   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
 },
-
+{
+    "key":"dr_卫士",
+    "name":"🎄🅾️主力360【官方】",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
+},
+{
+    "key":"dr_腾迅",
+    "name":"🐧腾讯【官方】",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
+},
+{
+    "key":"优",
+    "name":"🎄┣优酷┫影视",
+    "type":3,
+    "api":"http://tv.nxog.top/m/js/nxog.js",
+    "ext":"http://tv.nxog.top/m/js/yy.js"
+},
+{
+    "key":"dr_芒果",
+    "name":"🥭芒果【官方】",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Mtv.js"
+},
+{
+    "key":"dr_奇异",
+    "name":"🥝爱奇艺【官方】",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/iqy.js"
+},
+{
+    "key":"dr_搜狗",
+    "name":"🎄┣搜狗┫视频",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Sgou.js"
+},
 {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "天天影视","name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"ext": "http://op.ysdqjs.cn"},
 {"key": "热播影视","name": "热播影视","type": 3,"api": "csp_AppRB","searchable": 1,"quickSearch": 1,"ext": "http://v.rbotv.cn"},
@@ -186,34 +227,7 @@
   "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/xs.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
   "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
 },
-{
-  "key": "csp_sp_360影视",
-  "name": "🅾️主力360【官方】",
-  "api": "csp_SP360",
-  "type": 3,
-  "jar": "http://box.iqinu.com/jar/lm0430.jar;md5;342a40fd461adf4eb9ca7bbfcdd9263b"
-},
-{
-  "key": "Qtv",
-  "name": "🐧腾讯【官方】",
-  "type": 3,
-  "api": "csp_Qtv",
-  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
-},
-{
-  "key": "Itv",
-  "name": "🥝爱奇艺【官方】",
-  "type": 3,
-  "api": "csp_Itv",
-  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
-},
-{
-  "key": "Mtv",
-  "name": "🥭芒果【官方】",
-  "type": 3,
-  "api": "csp_Mtv",
-  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/0821.jar"
-},
+
 
   {"key": "自由","name": "⚡┣自由┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.freeys.cc/api.php/v1.vod"},
   {"key": "沐沐","name": "⚡┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
@@ -253,49 +267,6 @@
   {"key": "何以","name": "⚡┣何以┫直连","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "北川","name": "⚡┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
   {"key":"nangua1","name":"⚡┣南瓜┫影视","type": 3,"api": "http://dt.xn--yety82d.love/js/ng_open.js","playerType": 2,"searchable": 0},
- 
-{
-    "key":"dr_腾迅",
-    "name":"🎄┣腾讯┫影视",
-    "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
-},
-{
-    "key":"优",
-    "name":"🎄┣优酷┫影视",
-    "type":3,
-    "api":"http://tv.nxog.top/m/js/nxog.js",
-    "ext":"http://tv.nxog.top/m/js/yy.js"
-},
-{
-    "key":"dr_芒果",
-    "name":"🎄┣芒果┫影视",
-    "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Mtv.js"
-},
-{
-    "key":"dr_奇异",
-    "name":"🎄┣奇异┫影视",
-    "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/iqy.js"
-},
-{
-    "key":"dr_搜狗",
-    "name":"🎄┣搜狗┫视频",
-    "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Sgou.js"
-},
-{
-    "key":"dr_卫士",
-    "name":"🎄┣360┫视频",
-    "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
-},
 
 
   {"key": "努努影视","name": "🌠┣努努┫影视","type": 1,"api": "https://www.nuuub.com/api.php/provide/vod/"},
