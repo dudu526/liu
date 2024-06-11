@@ -25,7 +25,7 @@
 },
 {
     "key":"dr_卫士",
-    "name":"🎄🅾️主力360【官方】",
+    "name":"🅾️主力360【官方】",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
@@ -36,13 +36,6 @@
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
-},
-{
-    "key":"优",
-    "name":"🎄┣优酷┫影视",
-    "type":3,
-    "api":"http://tv.nxog.top/m/js/nxog.js",
-    "ext":"http://tv.nxog.top/m/js/yy.js"
 },
 {
     "key":"dr_芒果",
@@ -64,6 +57,13 @@
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Sgou.js"
+},
+{
+    "key":"优",
+    "name":"🎄┣优酷┫影视",
+    "type":3,
+    "api":"http://tv.nxog.top/m/js/nxog.js",
+    "ext":"http://tv.nxog.top/m/js/yy.js"
 },
 {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "天天影视","name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"ext": "http://op.ysdqjs.cn"},
@@ -92,11 +92,11 @@
 {"key": "两个磁力","name": "两个磁力","type": 3,"api": "csp_Wexbttwo","searchable": 1,"changeable": 1},
 {"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_Wexsaohuo","searchable": 1,"changeable": 1},
 {"key": "在线之家","name": "在线之家","type": 3,"api": "csp_Wexzxzj","searchable": 1,"changeable": 1},
-{"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-{"key": "精品短剧","name": "精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
+{"key": "星芽短剧","name": "🎄星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
+{"key": "精品短剧","name": "🎄精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
 {
     "key":"短剧tv",
-    "name":"短剧TV",
+    "name":"🎄短剧TV",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -111,7 +111,7 @@
 },
 {
     "key":"短剧吧",
-    "name":"短剧吧",
+    "name":"🎄短剧吧",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -121,7 +121,7 @@
 },
 {
     "key":"短剧天堂",
-    "name":"短剧天堂",
+    "name":"🎄短剧天堂",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -136,7 +136,7 @@
 },
 {
     "key":"短剧网",
-    "name":"短剧网",
+    "name":"🎄短剧网",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -146,7 +146,7 @@
 },
 {
     "key": "无忧短剧",
-    "name": "无忧短剧",
+    "name": "🎄无忧短剧",
     "type": 3,
     "api": "csp_Duanj",
     "searchable": 1,
@@ -155,7 +155,7 @@
 },
 {
     "key":"csp_XBPQ_胖嘟嘟",
-    "name":"嘟嘟短剧",
+    "name":"🎄嘟嘟短剧",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -526,7 +526,6 @@
     "filterable":1,
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
 },
-{"key": "yinyue","name": "音乐-258(T4)","type": 4,"api": "https://catbox.n13.club/t7/yyyy.php"},
 {"key": "djmv","name": "音乐-DJMV(T4)","type": 4,"api": "https://catbox.n13.club/t7/djmv.php"},
 {"key": "T4-iktv","name": "音乐-iktv(T4)","type": 4,"api": "https://catbox.n13.club/t7/iktv.php"},
 {"key": "yinyuetai","name": "音乐-音悦(T4)","type": 4,"api": "https://catbox.n13.club/t7/yyt.php"},
@@ -534,8 +533,6 @@
 {"key": "MV","name": "音乐-酷奇(T4)","type": 4,"api": "https://catbox.n13.club/t7/mv2.php"},
 {"key": "T4-xiaogou","name": "音乐-小狗(T4)","type": 4,"api": "https://catbox.n13.club/t7/xiaogou.php"},
 {"key": "T4-djuu","name": "音乐-DJUU(T4)","type": 4,"api": "https://catbox.n13.club/t7/djuu.php"},
-{"key": "T4-bmtv","name": "B站-MTV(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=bMTV"},
-{"key": "T4-Bliych","name": "B站-演唱会(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=Bliych"},
 {"key": "T4-樱花","name": "动漫-樱花(T4)","type": 4,"api": "https://catbox.n13.club/t7/yinghua.php"},
 {"key": "T4-dongman","name": "动漫-巴士(T4)","type": 4,"api": "https://catbox.n13.club/t7/dm84.php"},
 {"key": "T4-xifan","name": "动漫-稀饭(T4)","type": 4,"api": "https://catbox.n13.club/t7/xifan.php"},
