@@ -261,8 +261,7 @@
   {"key": "北川","name": "⚡┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
   {"key":"nangua1","name":"⚡┣南瓜┫影视","type": 3,"api": "http://dt.xn--yety82d.love/js/ng_open.js","playerType": 2,"searchable": 0},
 
-  {"key": "综合采集","name": "♻️综合┃采集","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list"},
-  {"key": "左岸影视","name": "♻️左岸┃视频","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/from/seven/?ac=list"},
+  
   
   {"key": "猫咪影视","name": "♻️猫咪┃视频","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod"},
   {"key": "90S影视","name": "🌠九零┃影视","type": 1,"api": "https://oknnews.com/api.php/provide/vod/"},
@@ -288,11 +287,11 @@
   {"key": "淘片采集","name": "🌠┣淘片┫采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
   {"key": "飞速资源","name": "🌠┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
 {
-            "key": "华为吧资源",
-            "name": "微吧🌀采集",
-            "type": 1,
-            "api": "https://hw8.live/api.php/provide/vod/",
-            "playurl": "https://dp.hw8.live/player/?url="
+    "key": "华为吧资源",
+    "name": "华为🌀采集",
+    "type": 1,
+    "api": "https://hw8.live/api.php/provide/vod/",
+    "playurl": "https://dp.hw8.live/player/?url="
 },
 {
     "key": "优质资源",
