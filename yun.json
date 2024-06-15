@@ -602,6 +602,9 @@
   "name": "短剧001",
   "type": 3,
   "api": "csp_XBPQ",
+  "searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
   "ext": {
   "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
   "分类": "短剧&#短剧列表&",
