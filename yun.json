@@ -75,8 +75,7 @@
 {"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1},
 {"key": "酷看影视","name": "酷看影视","type": 3,"api": "csp_Wexkukantv","searchable": 1,"changeable": 1},
 {"key": "明日影视","name": "明日影视","type": 3,"api": "csp_WexMingriys","searchable": 1,"changeable": 1},
-{"key": "腐剧视频","name": "腐剧视频","type": 3,"api": "csp_WexFujutv","searchable": 1,"changeable": 1},
-{"key": "文才影视","name": "文才影视","type": 3,"api": "csp_Wexwencai","searchable": 1,"changeable": 1},      
+{"key": "腐剧视频","name": "腐剧视频","type": 3,"api": "csp_WexFujutv","searchable": 1,"changeable": 1}, 
 {"key": "看看影视","name": "看看影视","type": 3,"api": "csp_WebIV","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "米米影视","name": "米米影视","type": 3,"api": "csp_WebDM","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "农民影视","name": "农民影视","type": 3,"api": "csp_WexNmys","searchable": 1,"changeable": 1,"ext": "https://v.nmvod.cn"},
@@ -172,15 +171,6 @@
     "ext":"http://www.tvyb03.com"
 },
 {
-  "key": "csp_Nkdy",
-  "name": "耐看影视",
-  "type": 3,
-  "playerType": "2",
-  "api": "csp_Nkdy",
-  "ext": "https://nkvod.com/",
-  "jar": "https://cloud.lxweb.cn/f/VAbjFr/PandaQ240605.jar;md5;c511ab626f97dfe55bff588b5b8ac49c"
-},
-{
   "key": "新视觉网",
   "name": "新视觉网",
   "type": 3,
@@ -193,13 +183,6 @@
   "type": 3,
   "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
   "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/剧圈圈.js"
-},
-{
-  "key": "可可",
-  "name": "可可多线",
-  "type": 3,
-  "api": "csp_Kekys",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt"
 },
 {
   "key": "七七影视",
@@ -217,6 +200,63 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"
+},
+{
+  "key": "文采",
+  "name": "💮文采┃秒播",
+  "type": 3,
+  "api": "csp_Jpys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key": "可可",
+  "name": "👻可可┃多线",
+  "type": 3,
+  "api": "csp_Kekys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key": "小点",
+  "name": "💥小点┃多线",
+  "type": 3,
+  "api": "csp_Xdys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0
+},
+{
+  "key": "蛋蛋",
+  "name": "🍓蛋蛋┃多线",
+  "type": 3,
+  "api": "csp_Cddys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key": "原创",
+  "name": "☀原创┃不卡",
+  "type": 3,
+  "api": "csp_YCyz",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
+  "timeout": 15,
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
 },
 
  
