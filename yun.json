@@ -258,8 +258,42 @@
   "quickSearch": 1,
   "changeable": 1
 },
-
- 
+{
+      "key": "Wexhuaruitv",
+      "name": "🌺花蕊┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexhuaruitv",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718180909261/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+},
+{
+      "key": "Wexjiazitv",
+      "name": "🥁甲子┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexjiazitv",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718180909261/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+},
+{
+      "key": "Wexyuyueys",
+      "name": "⛈️雨落┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexyuyueys",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718180909261/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+},
+{
+      "key": "Wexbaipiao",
+      "name": "🌟星星┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718180909261/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+}, 
   {"key": "沐沐","name": "⚡┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
   {"key": "龙门","name": "⚡┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
   {"key": "星球","name": "⚡┣星球┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
