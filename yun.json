@@ -79,12 +79,10 @@
 {"key": "文才影视","name": "文才影视","type": 3,"api": "csp_Wexwencai","searchable": 1,"changeable": 1},      
 {"key": "看看影视","name": "看看影视","type": 3,"api": "csp_WebIV","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "米米影视","name": "米米影视","type": 3,"api": "csp_WebDM","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "南坊追剧","name": "南坊追剧","type": 3,"api": "csp_WebNF","searchable": 1,"changeable": 1,"ext": "https://www.nfzj.fun"},
 {"key": "农民影视","name": "农民影视","type": 3,"api": "csp_WexNmys","searchable": 1,"changeable": 1,"ext": "https://v.nmvod.cn"},
 {"key": "视频影库","name": "视频影库","type": 3,"api": "csp_WebVidHub","searchable": 1,"changeable": 1,"ext": "https://vidhub1.cc"},
 {"key": "素白影视","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1},
 {"key": "爱看机器","name": "爱看机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 1,"ext": "https://v.aikanbot.com"},
-{"key": "地瓜影视","name": "地瓜影视","type": 3,"api": "csp_Wexdiguatv","searchable": 1,"changeable": 1},
 {"key": "啾啾影视","name": "啾啾影视","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable": 1},
 {"key": "星辰影视","name": "星辰影视","type": 3,"api": "csp_WexXingchen","searchable": 1,"changeable": 1},
 {"key": "利播影视","name": "利播影视","type": 3,"api": "csp_Wexlibhd","searchable": 1,"changeable": 1},
@@ -92,11 +90,20 @@
 {"key": "两个磁力","name": "两个磁力","type": 3,"api": "csp_Wexbttwo","searchable": 1,"changeable": 1},
 {"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_Wexsaohuo","searchable": 1,"changeable": 1},
 {"key": "在线之家","name": "在线之家","type": 3,"api": "csp_Wexzxzj","searchable": 1,"changeable": 1},
-{"key": "星芽短剧","name": "🎄星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-{"key": "精品短剧","name": "🎄精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
+{"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
+{"key": "精品短剧","name": "精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
+{
+    "key": "无忧短剧",
+    "name": "无忧短剧",
+    "type": 3,
+    "api": "csp_Duanj",
+    "searchable": 1,
+    "changeable": 0,
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+},
 {
     "key":"短剧tv",
-    "name":"🎄短剧TV",
+    "name":"抖音短剧",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -111,7 +118,7 @@
 },
 {
     "key":"短剧吧",
-    "name":"🎄短剧吧",
+    "name":"短剧吧网",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -121,7 +128,7 @@
 },
 {
     "key":"短剧天堂",
-    "name":"🎄短剧天堂",
+    "name":"短剧天堂",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -136,7 +143,7 @@
 },
 {
     "key":"短剧网",
-    "name":"🎄短剧网",
+    "name":"短剧网香",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -145,17 +152,8 @@
     "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}
 },
 {
-    "key": "无忧短剧",
-    "name": "🎄无忧短剧",
-    "type": 3,
-    "api": "csp_Duanj",
-    "searchable": 1,
-    "changeable": 0,
-    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-},
-{
     "key":"csp_XBPQ_胖嘟嘟",
-    "name":"🎄嘟嘟短剧",
+    "name":"胖嘟短剧",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
