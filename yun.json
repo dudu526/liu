@@ -535,15 +535,15 @@
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
 },
 {"key": "djmv","name": "音乐-DJMV(T4)","type": 4,"api": "https://catbox.n13.club/t7/djmv.php"},
-{"key": "T4-iktv","name": "音乐-iktv(T4)","type": 4,"api": "https://catbox.n13.club/t7/iktv.php"},
+
 {"key": "yinyuetai","name": "音乐-音悦(T4)","type": 4,"api": "https://catbox.n13.club/t7/yyt.php"},
 {"key": "xiaoyi","name": "音乐-小姨(T4)","type": 4,"api": "https://catbox.n13.club/t7/wy.php"},
 {"key": "MV","name": "音乐-酷奇(T4)","type": 4,"api": "https://catbox.n13.club/t7/mv2.php"},
 {"key": "T4-xiaogou","name": "音乐-小狗(T4)","type": 4,"api": "https://catbox.n13.club/t7/xiaogou.php"},
 {"key": "T4-djuu","name": "音乐-DJUU(T4)","type": 4,"api": "https://catbox.n13.club/t7/djuu.php"},
 {"key": "T4-樱花","name": "动漫-樱花(T4)","type": 4,"api": "https://catbox.n13.club/t7/yinghua.php"},
-{"key": "T4-dongman","name": "动漫-巴士(T4)","type": 4,"api": "https://catbox.n13.club/t7/dm84.php"},
-{"key": "T4-xifan","name": "动漫-稀饭(T4)","type": 4,"api": "https://catbox.n13.club/t7/xifan.php"},
+
+
 {"key": "T4-qingting","name": "音乐-蜻蜓(T4)","type": 4,"api": "https://catbox.n13.club/t7/qingting.php"},
 {"key": "T4-cctv","name": "其他-央视(T4)","type": 4,"api": "https://catbox.n13.club/t7/cctv.php"},
 {"key": "T4-cntv","name": "其他-央视2(T4)","type": 4,"api": "https://catbox.n13.club/t7/cntv.php"},
