@@ -211,15 +211,14 @@
   "ext": "https://gitlab.com/dokiss1/tvbox/-/raw/master/json/七七影视.json"
 },
 {
-  "key": "影探蓝光",
-  "name": "影探蓝光",
-  "type": 3,
-  "api": "csp_App",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/xs.jar;md5;dfa413850c16ddd79d05c62f23cbd35e",
-  "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
+    "key":"影探蓝光",
+    "name":"影探蓝光",
+    "type":3,
+    "api":"csp_App",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"
 },
 
   {"key": "自由","name": "⚡┣自由┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.freeys.cc/api.php/v1.vod"},
