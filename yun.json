@@ -597,7 +597,21 @@
 {"key": "T4-xiaogou","name": "音乐-小狗(T4)","type": 4,"api": "https://catbox.n13.club/t7/xiaogou.php"},
 {"key": "T4-djuu","name": "音乐-DJUU(T4)","type": 4,"api": "https://catbox.n13.club/t7/djuu.php"},
 {"key": "T4-qingting","name": "音乐-蜻蜓(T4)","type": 4,"api": "https://catbox.n13.club/t7/qingting.php"},
-{"key":"影趣视听","name":"影趣视听","type":1,"api":"https://www.interesting-tv.com/rukujiekou98hjH9h.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
+{
+  "key": "duanju001",
+  "name": "短剧001",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+  "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
+  "分类": "短剧&#短剧列表&",
+  "分类值": "duanju&",
+  "副标题": "<div class=\"v-item-bottom\">&&</div>",
+  "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
+  "导演": "导演:&&</div>",
+  "主演": "主演:&&</div>",
+  "简介": "<p>&&</p>"}
+},	
 {"key": "T4-cctv","name": "其他-央视(T4)","type": 4,"api": "https://catbox.n13.club/t7/cctv.php"},
 {"key": "T4-cntv","name": "其他-央视2(T4)","type": 4,"api": "https://catbox.n13.club/t7/cntv.php"},
 {"key": "T4-bili1","name": "B站-幼儿(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=少儿教育"},
