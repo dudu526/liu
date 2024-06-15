@@ -53,18 +53,28 @@
 },
 {
     "key":"dr_搜狗",
-    "name":"🎄┣搜狗┫视频",
+    "name":"🦊┣搜狗┫视频",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Sgou.js"
 },
 {
     "key":"优",
-    "name":"🎄┣优酷┫影视",
+    "name":"🧲┣优酷┫影视",
     "type":3,
     "api":"http://tv.nxog.top/m/js/nxog.js",
     "ext":"http://tv.nxog.top/m/js/yy.js"
 },
+{
+    "key": "无忧短剧",
+    "name": "无忧短剧",
+    "type": 3,
+    "api": "csp_Duanj",
+    "searchable": 1,
+    "changeable": 0,
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
+},
+{"key": "精品短剧","name": "精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
 {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "天天影视","name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"ext": "http://op.ysdqjs.cn"},
 {"key": "热播影视","name": "热播影视","type": 3,"api": "csp_AppRB","searchable": 1,"quickSearch": 1,"ext": "http://v.rbotv.cn"},
@@ -90,16 +100,6 @@
 {"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_Wexsaohuo","searchable": 1,"changeable": 1},
 {"key": "在线之家","name": "在线之家","type": 3,"api": "csp_Wexzxzj","searchable": 1,"changeable": 1},
 {"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-{"key": "精品短剧","name": "精品短剧","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
-{
-    "key": "无忧短剧",
-    "name": "无忧短剧",
-    "type": 3,
-    "api": "csp_Duanj",
-    "searchable": 1,
-    "changeable": 0,
-    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-},
 {
     "key":"短剧tv",
     "name":"抖音短剧",
@@ -203,7 +203,7 @@
 },
 {
   "key": "文采",
-  "name": "💮文采┃秒播",
+  "name": "文采秒播",
   "type": 3,
   "api": "csp_Jpys",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
@@ -214,7 +214,7 @@
 },
 {
   "key": "可可",
-  "name": "👻可可┃多线",
+  "name": "可可多线",
   "type": 3,
   "api": "csp_Kekys",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
@@ -226,7 +226,7 @@
 },
 {
   "key": "小点",
-  "name": "💥小点┃多线",
+  "name": "小点多线",
   "type": 3,
   "api": "csp_Xdys",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
@@ -237,7 +237,7 @@
 },
 {
   "key": "蛋蛋",
-  "name": "🍓蛋蛋┃多线",
+  "name": "蛋蛋多线",
   "type": 3,
   "api": "csp_Cddys",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
@@ -248,7 +248,7 @@
 },
 {
   "key": "原创",
-  "name": "☀原创┃不卡",
+  "name": "原创不卡",
   "type": 3,
   "api": "csp_YCyz",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
