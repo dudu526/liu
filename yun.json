@@ -895,7 +895,8 @@
 }],
 
 "parses":[
-{"name":"聚合","type":3,"url":"Demo"},
+{"name":"🌐智能聚合","type":3,"url":"Demo"},
+{"name":"🌐自动聚合","type":3,"url":"Web"},
 {
       "name": "小鱼解析",
       "type": 1,
@@ -938,14 +939,8 @@
 {"name":"线路7","type":0,"url":"https://www.8090g.cn/?url="},
 {"name":"线路8","type":0,"url":"https://jx.yangtu.top?url="},
 {"name":"线路9","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"线路10","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-{"name":"🌎南瓜","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
-{
-  "name": "💕推荐0",
-  "type": 1,
-  "url": "http://jxxcc-cc.dianshia.top:8821/api/?key=UAOfSBFIaFI3IvLi8r&url=",
-  "header": {"User-Agent": "okhttp/3.12.11"}
-}
+{"name":"线路10","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="}
+
 ],
 "rules":[
 {"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
