@@ -67,6 +67,17 @@
     "ext":"http://tv.nxog.top/m/js/yy.js"
 },
 {
+            "key": "荐片",
+            "name": "磁力｜荐片",
+            "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api2.rinhome.com"
+},
+{
             "key": "南瓜影视",
             "name": "南瓜影视",
             "type": 3,
