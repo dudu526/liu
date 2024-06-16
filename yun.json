@@ -862,14 +862,14 @@
     "简介": "<p>&&</p>"}
 },
 {
-    "key": "csp_Bili短剧",
-    "name": "🅱️哔哩┃短剧",
+    "key": "csp_Bili合集",
+    "name": "🅱️哔哩┃合集",
     "type": 3,
     "api": "csp_Bili",
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://rihou.vip:55/lib/Bili短剧.json"
+    "ext": "https://cloud.lxweb.cn/f/kpNqhp/Bili.json"
 },
 {
     "key": "MV",
