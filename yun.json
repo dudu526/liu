@@ -1,6 +1,6 @@
 {
 
-  "spider":"https://gitee.com/lyun_1_0/tb/raw/master/lib/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
+  //"spider":"https://gitee.com/lyun_1_0/tb/raw/master/lib/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
   "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;6ee323d5574fd9408bd8a4332c3431c4",
 
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
@@ -519,31 +519,13 @@
   {"key": "皮虾","name": "⚡┣皮虾┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://aikun.tv/api.php/app/"},
   {"key": "神马","name": "⚡┣神马┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.shenmaysk.com/api.php/app/"},
   {"key": "小马","name": "⚡┣小马┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
- {
-            "key": "自由影视",
-            "name": "⚡自由┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.freeys.cc/api.php/v1.vod"
-        },
+ 
   {"key": "老蟹","name": "⚡┣老蟹┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://www.ajj001.top/api.php/app/"},
   {"key": "柠檬","name": "⚡┣柠檬┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://mf.songshu.cyou/api.php/app/"},
   {"key": "星易","name": "⚡┣星影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.xingyiying.com/api.php/v1.vod"},
   {"key": "迪影","name": "⚡┣爱迪┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://adys.tv/xgapp.php/v1/"},
   {"key": "视站","name": "⚡┣影库┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://xn--p3t583cbin.top/api.php/app/"},
-  {
-            "key": "影馆影视",
-            "name": "⚡影馆┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://4kdyg.top/api.php/v1.vod"
-        },
+  
   {"key": "银河","name": "⚡┣银河┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
   {"key": "美剧","name": "⚡┣美剧┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.69mj.com/xgapp.php/v2/"},
   {"key": "大米","name": "⚡┣大米┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://damifi.com/api.php/app/"},
