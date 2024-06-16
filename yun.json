@@ -855,7 +855,7 @@
     "filterable": 1,
     "ext": {
     "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
-    "分类": "短剧一FF$1#短剧二YZ$2#短剧三XL$3#短剧四1080$4",
+    "分类": "短剧&1#短剧四1080$4",
     "分类值": "duanju&",
     "副标题": "<div class=\"v-item-bottom\">&&</div>",
     "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
@@ -865,7 +865,7 @@
 },
 {
     "key": "csp_Bili短剧",
-    "name": "哔哩🅱️短剧",
+    "name": "🅱️哔哩┃短剧",
     "type": 3,
     "api": "csp_Bili",
     "searchable": 0,
