@@ -822,14 +822,7 @@
     "filterable":1,
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
 },
-{"key": "djmv","name": "音乐-DJMV(T4)","type": 4,"api": "https://catbox.n12.club/t7/djmv.php"},
 
-{"key": "yinyuetai","name": "音乐-音悦(T4)","type": 4,"api": "https://catbox.n12.club/t7/yyt.php"},
-{"key": "xiaoyi","name": "音乐-小姨(T4)","type": 4,"api": "https://catbox.n12.club/t7/wy.php"},
-{"key": "MV","name": "音乐-酷奇(T4)","type": 4,"api": "https://catbox.n12.club/t7/mv2.php"},
-{"key": "T4-xiaogou","name": "音乐-小狗(T4)","type": 4,"api": "https://catbox.n12.club/t7/xiaogou.php"},
-{"key": "T4-djuu","name": "音乐-DJUU(T4)","type": 4,"api": "https://catbox.n12.club/t7/djuu.php"},
-{"key": "T4-qingting","name": "音乐-蜻蜓(T4)","type": 4,"api": "https://catbox.n12.club/t7/qingting.php"},
 {
   "key": "duanju001",
   "name": "短剧001",
@@ -848,16 +841,7 @@
   "主演": "主演:&&</div>",
   "简介": "<p>&&</p>"}
 },	
-{"key": "T4-cctv","name": "其他-央视(T4)","type": 4,"api": "https://catbox.n14.club/t7/cctv.php"},
-{"key": "T4-cntv","name": "其他-央视2(T4)","type": 4,"api": "https://catbox.n14.club/t7/cntv.php"},
-{"key": "T4-bili1","name": "B站-幼儿(T4)","type": 4,"api": "https://catbox.n14.club/t7/bili.php?id=少儿教育"},
-{"key": "T4-bili2","name": "B站-小学(T4)","type": 4,"api": "https://catbox.n14.club/t7/bili.php?id=小学课堂"},
-{"key": "T4-bili3","name": "B站-初中(T4)","type": 4,"api": "https://catbox.n14.club/t7/bili.php?id=初中课堂"},
-{"key": "T4-bili4","name": "B站-高中(T4)","type": 4,"api": "https://catbox.n14.club/t7/bili.php?id=高中课堂"},
-{"key": "T4-小灯塔科学","name": "B站-小灯塔科学(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=小灯塔科学"},
-{"key": "T4-小灯塔地理","name": "B站-小灯塔地理(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=小灯塔地理"},
-{"key": "T4-小灯塔百科","name": "B站-小灯塔百科(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=小灯塔百科"},
-{"key": "T4-小灯塔国学","name": "B站-小灯塔国学(T4)","type": 4,"api": "https://catbox.n13.club/t7/bili.php?id=小灯塔国学"}, 
+
 {
   "key": "cofig",
   "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
