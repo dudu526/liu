@@ -786,16 +786,14 @@
       
 },        
 {
-    "key":"MTV",
-    "name":"🎧明星┃MV",
-    "type":3,
-    "api":"csp_Bili",
-    "style":{"type":"rect","ratio":1.597},
-    "searchable":0,
-    "quickSearch":0,
-    "changeable":0,
-    "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
-}, 
+    "key": "Iktv",
+    "name": "🎵KTV┃K歌",
+    "type": 3,
+    "api": "csp_Iktv",
+    "searchable": 1,
+    "changeable": 0,
+    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/ktv.jar"
+},
 {
     "key":"music",
     "name": "🎵酷狗┃音乐",
