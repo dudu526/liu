@@ -899,7 +899,7 @@
 {"name":"🌐自动聚合","type":3,"url":"Demo"},
 
 {
-      "name": "小鱼解析",
+      "name": "🐠小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -931,15 +931,13 @@
           "XALS",
           "YuMi-vip"]}
 },
-{"name": "线路㊎","type": 0,"url": "https://jx.5566jiexi.com/?url="},
-{"name": "线路㊍","type": 0,"url": "https://www.yemu.xyz/?url="},
-{"name": "线路㊌","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
-{"name": "线路㊋","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
-{"name": "线路㊏","type": 0,"url": "https://www.8090g.cn/?url="},
-{"name": "线路㊐","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
-{"name": "线路Ⓞ","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
+{"name": "五六解析㊎","type": 0,"url": "https://jx.5566jiexi.com/?url="},
+{"name": "夜幕解析㊍","type": 0,"url": "https://www.yemu.xyz/?url="},
+{"name": "九游解析㊌","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
+{"name": "猫咪解析㊋","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
+{"name": "八九解析㊏","type": 0,"url": "https://www.8090g.cn/?url="},
 {
-    "name":"咸鱼",
+    "name":"咸鱼解析㊐",
     "type":0,
     "url":"https://jx.aidouer.net/?url=",
     "ext":{
@@ -948,7 +946,7 @@
     "referer":"https://jiejie.uk/"}}
 },
 {
-    "name":"虾米",
+    "name":"🏁琉芸★全能嗅探★",
     "type":0,
     "url":"https://jx.xmflv.com/?url=",
     "ext":{
