@@ -781,7 +781,7 @@
 },
 {
     "key": "Yinyuetai",
-    "name": "音悦台🎵MV",
+    "name": "🎧音悦┃MV",
     "type": 3,
     "api": "https://gitee.com/dongchenys/liu/raw/master/js/yinyuetai.js",
     "searchable": 1,
@@ -801,7 +801,7 @@
 }, 
 {
     "key":"music",
-    "name": "🎵酷狗音乐",
+    "name": "🎵酷狗┃音乐",
     "type": 3,
     "api":"csp_Music",
     "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
@@ -811,7 +811,8 @@
 },
 {
     "key":"csp_xpath_kuqimv",
-    "name":"酷奇","type":3,
+    "name":"🎵酷奇┃音乐",
+    "type":3,
     "api":"csp_XPath",
     "searchable":1,
     "quickSearch":1,
