@@ -568,7 +568,7 @@
   {"key": "飞速资源","name": "🌠┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
 {
     "key": "华为吧资源",
-    "name": "华为🌀采集",
+    "name": "🌠┣华为┫采集",
     "type": 1,
     "api": "https://hw8.live/api.php/provide/vod/",
     "playurl": "https://dp.hw8.live/player/?url="
@@ -843,7 +843,7 @@
     "线路数组": "data-dropdown-value=&&</div>",
     "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
     "分类url": "http://mp5.hz.cz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "非凡短剧$1#优质短剧$2#新浪短剧$3#高清短剧$4"}
+    "分类": "短剧一FF$1#短剧二YZ$2#短剧三XL$3#短剧四1080$4"}
 },
 {
     "key": "duanju001",
