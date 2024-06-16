@@ -895,41 +895,15 @@
 }],
 
 "parses":[
+    
 {"name":"🌐智能聚合","type":3,"url":"Web"},   
 {"name":"🌐自动聚合","type":3,"url":"Demo"},
-
 {
-      "name": "🐠小鱼解析",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"]}
+  "name": "🐠小鱼解析",
+  "type": 1,
+  "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+  "ext": {
+  "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}
 },
 {"name": "五六解析㊎","type": 0,"url": "https://jx.5566jiexi.com/?url="},
 {"name": "夜幕解析㊍","type": 0,"url": "https://www.yemu.xyz/?url="},
@@ -940,8 +914,7 @@
     "name":"咸鱼解析㊐",
     "type":0,
     "url":"https://jx.aidouer.net/?url=",
-    "ext":{
-    "header":{
+    "ext":{"header":{
     "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
     "referer":"https://jiejie.uk/"}}
 },
@@ -949,8 +922,7 @@
     "name":"🏁琉芸★全能嗅探★",
     "type":0,
     "url":"https://jx.xmflv.com/?url=",
-    "ext":{
-    "header":{
+    "ext":{"header":{
     "user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}
 }],
 
