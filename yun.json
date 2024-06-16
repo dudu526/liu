@@ -840,8 +840,107 @@
   "导演": "导演:&&</div>",
   "主演": "主演:&&</div>",
   "简介": "<p>&&</p>"}
+},
+{
+    "key": "csp_Bili短剧",
+    "name": "哔哩🅱️短剧",
+    "type": 3,
+    "api": "csp_Bili",
+    
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://rihou.vip:55/lib/Bili短剧.json"
+},
+{
+    "key": "MV",
+    "name": "🅰️歌曲┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext":"https://tv.nxog.top/m/Bilibili/歌曲MV.json"
 },	
-
+{
+    "key": "少儿",
+    "name": "🅰️少儿┃合集",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext":"https://tv.nxog.top/m/Bilibili/少儿合集.json"
+},
+{
+    "key": "小学课堂",
+    "name": "🅰️小学┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext":"https://tv.nxog.top/m/Bilibili/小学课堂.json"
+},
+{
+    "key": "初中课堂",
+    "name": "🅰️初中┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext":"https://tv.nxog.top/m/Bilibili/初中课堂.json"
+},
+{
+    "key": "高中课堂",
+    "name": "🅰️高中┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/高中课堂.json"
+},
+{
+    "key":"小灯塔科学",
+    "name":"🌏科学┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔科学.json"
+},
+{
+    "key":"小灯塔地理",
+    "name":"🌏地理┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔地理.json"
+},
+{
+    "key":"小灯塔百科",
+    "name":"🌏百科┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔百科.json"
+},
+{
+    "key":"小灯塔国学",
+    "name":"🌏国学┃小灯塔",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔国学.json"
+},
 {
   "key": "cofig",
   "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
