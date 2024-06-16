@@ -822,18 +822,38 @@
     "filterable":1,
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
 },
-
+{
+    "key": "短剧分享",
+    "name": "💻短剧┃分享",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+     "站名": "短剧分享",
+    "主页url": "http://mp5.hz.cz/",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "影片状态": "备注：&&</div>",
+    "影片类型": "video-info-aux\">&&立即播放",
+    "搜索模式": "1",
+    "搜索url": "http://mp5.hz.cz/index.php/vod/search.html?wd={wd}",
+    "搜索数组": "module-item-pic\">&&</div>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "",
+    "搜索图片": "data-src=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "分类url": "http://mp5.hz.cz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "非凡短剧$1#优质短剧$2#新浪短剧$3#高清短剧$4"}
+},
 {
   "key": "duanju001",
   "name": "短剧001",
   "type": 3,
   "api": "csp_XBPQ",
-  "searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
   "ext": {
   "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
- "分类": "短剧&",
+  "分类": "短剧&",
   "分类值": "duanju&",
   "副标题": "<div class=\"v-item-bottom\">&&</div>",
   "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
@@ -854,7 +874,7 @@
 },
 {
     "key": "MV",
-    "name": "🅰️歌曲┃哔哩",
+    "name": "🅱️歌曲┃哔哩",
     "type": 3,
     "api": "csp_Bili",
     "searchable": 0,
