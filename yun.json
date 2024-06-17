@@ -1,7 +1,7 @@
 {
 
-  //"spider":"https://gitee.com/lyun_1_0/tb/raw/master/lib/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;6ee323d5574fd9408bd8a4332c3431c4",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+  //"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;6ee323d5574fd9408bd8a4332c3431c4",
 
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
