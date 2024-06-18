@@ -73,6 +73,7 @@
     "name": "🍎┣苹果┫不卡",
     "type": 3,
     "api": "csp_LiteApple",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -225,12 +226,12 @@
     "changeable": 1,
     "ext": "https://auete.pro/"
 },
-
 {
     "key": "天天影视",
     "name": "天天影视",
     "type": 3,
     "api": "csp_AppTT",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -240,6 +241,7 @@
     "name": "追剧影视",
     "type": 3,
     "api": "csp_AppZJ",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -249,6 +251,7 @@
     "name": "快看影视",
     "type": 3,
     "api": "csp_Kuaikan",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -258,6 +261,7 @@
     "name": "胖虎影视",
     "type": 3,
     "api": "csp_Panghu",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -268,6 +272,7 @@
     "name": "剧圈影视",
     "type": 3,
     "api": "csp_Juqq",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -277,6 +282,7 @@
     "name": " 忍者影视",
     "type": 3,
     "api": "csp_AppRZ",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -287,6 +293,7 @@
     "name": "毛驴影视",
     "type": 3,
     "api": "csp_MaoLv",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -296,6 +303,7 @@
     "name": "圣城影视",
     "type": 3,
     "api": "csp_SC1080",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -305,6 +313,7 @@
     "name": " Voflix",
     "type": 3,
     "api": "csp_Voflix",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -315,6 +324,7 @@
     "name": "兄弟影视",
     "type": 3,
     "api": "csp_Wexxiongdiys",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -323,6 +333,7 @@
     "name": "明日影视",
     "type": 3,
     "api": "csp_WexMingriys",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -331,6 +342,7 @@
     "name": "腐剧视频",
     "type": 3,
     "api": "csp_WexFujutv",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -339,6 +351,7 @@
     "name": "地瓜影视",
     "type": 3,
     "api": "csp_Wexdiguatv",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },      
@@ -347,6 +360,7 @@
     "name": "啾啾影视",
     "type": 3,
     "api": "csp_Wexjiohub",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -355,6 +369,7 @@
     "name": "星辰影视",
     "type": 3,
     "api": "csp_WexXingchen",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -363,6 +378,7 @@
     "name": "农民影视",
     "type": 3,
     "api": "csp_WexNmys",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -371,6 +387,7 @@
     "name": "纯享影视",
     "type": 3,
     "api": "csp_WexF4kvm",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -379,6 +396,7 @@
     "name": "两个磁力",
     "type": 3,
     "api": "csp_Wexbttwo",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -387,6 +405,7 @@
     "name": "骚火影视",
     "type": 3,
     "api": "csp_Wexsaohuo",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -395,6 +414,7 @@
     "name": "看看影视",
     "type": 3,
     "api": "csp_WebIV",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
@@ -404,6 +424,7 @@
     "name": "米米影视",
     "type": 3,
     "api": "csp_WebDM",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
@@ -413,6 +434,7 @@
     "name": "闪电影视",
     "type": 3,
     "api": "csp_Wexshandian",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -421,6 +443,7 @@
     "name": "愉悦影视",
     "type": 3,
     "api": "csp_Wexyuyueys",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -429,6 +452,7 @@
     "name": "花蕊影视",
     "type": 3,
     "api": "csp_Wexhuaruitv",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -437,6 +461,7 @@
     "name": "甲子影视",
     "type": 3,
     "api": "csp_Wexjiazitv",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -445,6 +470,7 @@
     "name": "视频影库",
     "type": 3,
     "api": "csp_WebVidHub",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0,
@@ -455,6 +481,7 @@
     "name": "素白影视",
     "type": 3,
     "api": "csp_Subaibai",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -463,6 +490,7 @@
     "name": "爱看机器",
     "type": 3,
     "api": "csp_Ikanbot",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
