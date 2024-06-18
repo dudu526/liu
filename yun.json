@@ -268,45 +268,10 @@
     "ext":"http://tv.nxog.top/m/js/yy.js"
 },
 {
-    "key": "精品短剧",
-    "name": "精品短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvip",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "星芽短剧",
-    "name": "星芽短剧",
-    "type": 3,
-    "api": "csp_AppXY",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
-},
-{
-    "key": "南瓜影视",
-    "name": "南瓜影视",
-    "type": 3,
-    "api": "csp_WexNgys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
-{
     "key": "天天影视",
     "name": "天天影视",
     "type": 3,
     "api": "csp_AppTT",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
-    "key": "热播影视",
-    "name": "热播影视",
-    "type": 3,
-    "api": "csp_AppRB",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -321,38 +286,10 @@
     "filterable": 1
 },
 {
-    "key": "厂长资源",
-    "name": "厂长资源",
-    "type": 3,
-    "api": "csp_Czsapp",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://www.czys.top/"
-},
-{
-    "key": "低端影视",
-    "name": "低端影视",
-    "type": 3,
-    "api": "csp_Ddys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "快看影视",
     "name": "快看影视",
     "type": 3,
     "api": "csp_Kuaikan",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
-    "key": "苹果影视",
-    "name": "苹果影视",
-    "type": 3,
-    "api": "csp_LiteApple",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -396,15 +333,6 @@
     "filterable": 1
 },
 {
-    "key": "可可影视",
-    "name": " 可可影视",
-    "type": 3,
-    "api": "csp_Keke",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "圣城影视",
     "name": "圣城影视",
     "type": 3,
@@ -428,14 +356,6 @@
     "name": "兄弟影视",
     "type": 3,
     "api": "csp_Wexxiongdiys",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "酷看影视",
-    "name": "酷看影视",
-    "type": 3,
-    "api": "csp_Wexkukantv",
     "searchable": 1,
     "changeable": 1
 },
@@ -488,14 +408,6 @@
     "changeable": 1
 },
 {
-    "key": "利播影视",
-    "name": "利播影视",
-    "type": 3,
-    "api": "csp_Wexlibhd",
-    "searchable": 1,
-    "changeable": 1
-},
-{
     "key": "纯享影视",
     "name": "纯享影视",
     "type": 3,
@@ -516,14 +428,6 @@
     "name": "骚火影视",
     "type": 3,
     "api": "csp_Wexsaohuo",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "在线之家",
-    "name": "在线之家",
-    "type": 3,
-    "api": "csp_Wexzxzj",
     "searchable": 1,
     "changeable": 1
 },
@@ -578,6 +482,51 @@
     "changeable": 1
 },
 {
+    "key": "视频库",
+    "name": "视频影库",
+    "type": 3,
+    "api": "csp_WebVidHub",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "https://vidhub1.cc"
+},
+{
+    "key": "素白白",
+    "name": "素白影视",
+    "type": 3,
+    "api": "csp_Subaibai",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "机器人",
+    "name": "爱看机器",
+    "type": 3,
+    "api": "csp_Ikanbot",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://v.aikanbot.com"
+},
+{
+    "key": "精品短剧",
+    "name": "精品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvip",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "星芽短剧",
+    "name": "星芽短剧",
+    "type": 3,
+    "api": "csp_AppXY",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+},
+{
     "key": "秒播短剧",
     "name": "秒播短剧",
     "type": 3,
@@ -616,34 +565,6 @@
     "api": "csp_Wexduanjuvip",
     "searchable": 1,
     "changeable": 1
-},
-{
-    "key": "视频库",
-    "name": "视频影库",
-    "type": 3,
-    "api": "csp_WebVidHub",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "https://vidhub1.cc"
-},
-{
-    "key": "素白白",
-    "name": "素白影视",
-    "type": 3,
-    "api": "csp_Subaibai",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "机器人",
-    "name": "爱看机器",
-    "type": 3,
-    "api": "csp_Ikanbot",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://v.aikanbot.com"
 },
 {
     "key":"短剧tv",
@@ -723,13 +644,6 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/xinshijue.json"
 },
 {
-    "key": "csp_Juqq",
-    "name": "剧圈影视",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/剧圈圈.js"
-},
-{
     "key": "七七影视",
     "name": "七七影视",
     "type": 3,
@@ -745,39 +659,6 @@
     "filterable": 0,
     "api":"https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
     "ext":"https://cloud.lxweb.cn/f/jKKYSy/yt.js"
-},
-{
-    "key": "文采",
-    "name": "文采秒播",
-    "type": 3,
-    "api": "csp_Jpys",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
-    "key": "小点",
-    "name": "小点多线",
-    "type": 3,
-    "api": "csp_Xdys",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-},
-{
-    "key": "蛋蛋",
-    "name": "蛋蛋多线",
-    "type": 3,
-    "api": "csp_Cddys",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
 },
 
 
