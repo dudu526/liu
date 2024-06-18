@@ -21,6 +21,7 @@
     "name": "🎬┣影视┫荐片",
     "type": 3,
     "api": "csp_JianPian",
+    "jar": "./lib/liuyun.jar",
     "playerType": 1, 
     "searchable": 1,
     "quickSearch": 1,
