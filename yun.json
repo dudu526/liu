@@ -29,6 +29,16 @@
     "ext": "http://api2.rinhome.com"
 },
 {
+    "key": "蚂蚁",
+    "name": "🐜 蚂蚁 ",
+    "type": 3,
+    "api": "csp_Mayiys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "http://rzys.xyz"
+},
+{
     "key": "短剧",
     "name": "🌈┣上头┫短剧",
     "type": 3,
@@ -616,31 +626,54 @@
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
 },
 {
-    "key":"tvyb",
-    "name":"影视云播",
-    "type":3,
-    "api":"csp_WebTVB",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":0,
-    "ext":"http://www.tvyb03.com"
+    "key": "zztong",
+    "name": "饭团影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+    "ext": {
+    "简介": "【饭团影院】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
+    "线路标题": "[替换:索索线路>>公众号神仙APP]",
+    "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}
 },
 {
     "key": "七七影视",
     "name": "七七影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "./lib/liuyun.jar",   
-    "ext": "https://gitlab.com/dokiss1/tvbox/-/raw/master/json/七七影视.json"
+    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar", 
+    "ext": {
+    "主页url": "https://www.77ys.me/",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "影片状态": "备注：&&</div>",
+    "影片类型": "module-info-tag\">&&立即播放",
+    "搜索模式": "1",
+    "搜索url": "https://www.77ys.me/vodsearch/--.html?wd={wd}",
+    "搜索数组": "module-card-item-class\">&&</a>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "note\">&&</div>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "data-dropdown-value=&&</div>[不包含:KK线路#BF线路#FF线路#YZ线路]",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "分类url": "https://www.77ys.me/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
-    "key":"drpy_js_yt",
-    "name":"影探|4K",
-    "type":3,
-    "jar": "./lib/liuyun.jar",
-    "api":"https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
-    "ext":"https://cloud.lxweb.cn/f/jKKYSy/yt.js"
+    "key": "神仙影视",
+    "name": "神仙影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#4K电影$36#邵氏电影$37"}
 },
 {
     "key":"dr_卫士",
@@ -742,6 +775,14 @@
   {"key": "三八资源","name": "🌠┣三八┫影视","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
   {"key": "淘片采集","name": "🌠┣淘片┫采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
   {"key": "飞速资源","name": "🌠┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
+{
+            "key": "业余采集A",
+            "name": "🍀┃业余┃去广",
+            "type": 1,
+            "api": "http://127.0.0.1:10079/p/0/proxy/https://yyff.540734621.xyz/api.php/provide/vod/?",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+            
+        },
 {
     "key": "华为吧资源",
     "name": "🌠┣华为┫采集",
