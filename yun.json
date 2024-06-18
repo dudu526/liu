@@ -29,23 +29,6 @@
     "ext": "http://api2.rinhome.com"
 },
 {
-            "key": "蚂蚁",
-            "name": "🐜 蚂蚁 ",
-            "type": 3,
-            "api": "csp_Mayiys",
-            "jar": "https://yydf.540734621.xyz/txt/yydf.jar",
-            "ext": "http://rzys.xyz"
-        },
-{
-    "key": "wumao",
-    "name": "┣五毛┫影视",
-    "type": 1,
-    "api": "https://wap.wumao.xyz/api.php/tvbox",
-    "searchable": 0,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "短剧",
     "name": "🌈┣上头┫短剧",
     "type": 3,
@@ -774,6 +757,15 @@
   {"key": "三八资源","name": "🌠┣三八┫影视","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},
   {"key": "淘片采集","name": "🌠┣淘片┫采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html"},
   {"key": "飞速资源","name": "🌠┣飞速┫采集","type": 1,"api": "https://feisuzy.com/api.php/provide/vod/"},
+  {
+      "key": "wumao",
+      "name": "五毛|影视",
+      "type": 1,
+      "api": "https://wap.wumao.xyz/api.php/tvbox",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1
+}, 
 {
             "key": "业余采集A",
             "name": "🍀┃业余┃去广",
