@@ -346,69 +346,77 @@
     "filterable": 0
 },
 {
-            "key": "愉悦影视",
-            "name": "愉悦影视",
-            "type": 3,
-            "api": "csp_Wexyuyueys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "花蕊影视",
-            "name": "花蕊影视",
-            "type": 3,
-            "api": "csp_Wexhuaruitv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "甲子影视",
-            "name": "甲子影视",
-            "type": 3,
-            "api": "csp_Wexjiazitv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "秒播短剧",
-            "name": "秒播短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvop",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "仙品短剧",
-            "name": "仙品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuhema",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "极品短剧",
-            "name": "极品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvmp",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "精品短剧",
-            "name": "精品短剧",
-            "type": 3,
-            "api": "csp_Wexvipduanju",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "良品短剧",
-            "name": "良品短剧",
-            "type": 3,
-            "api": "csp_Wexduanjuvip",
-            "searchable": 1,
-            "changeable": 1
-        },
+    "key": "闪电影视",
+    "name": "闪电影视",
+    "type": 3,
+    "api": "csp_Wexshandian",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "愉悦影视",
+    "name": "愉悦影视",
+    "type": 3,
+    "api": "csp_Wexyuyueys",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "花蕊影视",
+    "name": "花蕊影视",
+    "type": 3,
+    "api": "csp_Wexhuaruitv",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "甲子影视",
+    "name": "甲子影视",
+    "type": 3,
+    "api": "csp_Wexjiazitv",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "秒播短剧",
+    "name": "秒播短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvop",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "仙品短剧",
+    "name": "仙品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuhema",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "极品短剧",
+    "name": "极品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvmp",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "精品短剧",
+    "name": "精品短剧",
+    "type": 3,
+    "api": "csp_Wexvipduanju",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "良品短剧",
+    "name": "良品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvip",
+    "searchable": 1,
+    "changeable": 1
+},
 {
     "key": "视频库",
     "name": "视频影库",
@@ -532,6 +540,9 @@
     "key":"drpy_js_yt",
     "name":"🌙影探|4K",
     "type":3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
     "api":"https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
     "ext":"https://cloud.lxweb.cn/f/jKKYSy/yt.js"
 },
