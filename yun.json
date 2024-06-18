@@ -998,6 +998,7 @@
     "name": "💻短剧┃分享",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -1025,6 +1026,7 @@
     "name": "💻短剧┃爽网",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -1104,46 +1106,6 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/高中课堂.json"
-},
-{
-    "key":"小灯塔科学",
-    "name":"🌏科学┃小灯塔",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔科学.json"
-},
-{
-    "key":"小灯塔地理",
-    "name":"🌏地理┃小灯塔",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔地理.json"
-},
-{
-    "key":"小灯塔百科",
-    "name":"🌏百科┃小灯塔",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔百科.json"
-},
-{
-    "key":"小灯塔国学",
-    "name":"🌏国学┃小灯塔",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔国学.json"
 },
 {
   "key": "cofig",
