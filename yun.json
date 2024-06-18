@@ -935,13 +935,17 @@
     "简介": "<p>&&</p>"}
 },
 {
-    "key": "csp_Bili合集",
-    "name": "🅱️哔哩┃合集",
+    "key": "csp_Bili短剧",
+    "name": "🅱️短剧┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "searchable": 0,
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+      },
+    "searchable": 1,
     "quickSearch": 0,
-    "filterable": 1,
+    "changeable": 0,
     "ext": "https://cloud.lxweb.cn/f/kpNqhp/Bili.json"
 },
 {
@@ -949,9 +953,13 @@
     "name": "🅱️歌曲┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "searchable": 0,
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+      },
+    "searchable": 1,
     "quickSearch": 0,
-    "filterable": 1,
+    "changeable": 0,
     "ext":"https://cloud.lxweb.cn/f/MRWJHG/MTV.json"
 },	
 {
