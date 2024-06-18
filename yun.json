@@ -30,13 +30,39 @@
 },
 {
     "key": "蚂蚁",
-    "name": "🐜 蚂蚁 ",
+    "name": "🐜 ┣蚂蚁┫影视 ",
     "type": 3,
     "api": "csp_Mayiys",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
     "ext": "http://rzys.xyz"
+},
+{
+    "key": "wumao",
+    "name": "┣五毛┫影视",
+    "type": 1,
+    "api": "https://wap.wumao.xyz/api.php/tvbox",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+},
+{
+			"key": "追剧",
+			"name": "追剧┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://app.kzjtv.com$$$null$$$1"
 },
 {
     "key": "短剧",
@@ -630,9 +656,7 @@
     "name": "饭团影院",
     "type": 3,
     "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+    "jar": "./lib/liuyun.jar",
     "ext": {
     "简介": "【饭团影院】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
     "线路标题": "[替换:索索线路>>公众号神仙APP]",
@@ -644,12 +668,8 @@
     "name": "七七影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar", 
+    "jar": "./lib/liuyun.jar",
     "ext": {
-    "主页url": "https://www.77ys.me/",
-    "导演": "导演：&&</div>",
-    "主演": "主演：&&</div>",
-    "影片状态": "备注：&&</div>",
     "影片类型": "module-info-tag\">&&立即播放",
     "搜索模式": "1",
     "搜索url": "https://www.77ys.me/vodsearch/--.html?wd={wd}",
@@ -668,9 +688,7 @@
     "name": "神仙影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
+    "jar": "./lib/liuyun.jar",
     "ext": {
     "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#4K电影$36#邵氏电影$37"}
