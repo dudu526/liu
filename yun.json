@@ -69,16 +69,6 @@
     "ext": "https://www.80yy3.com/"
 },
 {
-    "key": "苹果",
-    "name": "🍎┣苹果┫不卡",
-    "type": 3,
-    "api": "csp_LiteApple",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "厂长",
     "name": "📔┣厂长┫不卡",
     "type": 3,
