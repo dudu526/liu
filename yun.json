@@ -29,16 +29,13 @@
     "ext": "http://api2.rinhome.com"
 },
 {
-    "key": "蚂蚁",
-    "name": "🐜 ┣蚂蚁┫影视 ",
-    "type": 3,
-    "api": "csp_Mayiys",
-    "jar": "https://yydf.540734621.xyz/txt/yydf.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "http://rzys.xyz"
-},
+            "key": "蚂蚁",
+            "name": "🐜 蚂蚁 ",
+            "type": 3,
+            "api": "csp_Mayiys",
+            "jar": "https://yydf.540734621.xyz/txt/yydf.jar",
+            "ext": "http://rzys.xyz"
+        },
 {
     "key": "wumao",
     "name": "┣五毛┫影视",
