@@ -492,6 +492,7 @@
     "name": "精品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -500,6 +501,7 @@
     "name": "星芽短剧",
     "type": 3,
     "api": "csp_AppXY",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0
@@ -509,6 +511,7 @@
     "name": "秒播短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -517,6 +520,7 @@
     "name": "仙品短剧",
     "type": 3,
     "api": "csp_Wexduanjuhema",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -525,6 +529,7 @@
     "name": "极品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvmp",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -533,6 +538,7 @@
     "name": "精品短剧",
     "type": 3,
     "api": "csp_Wexvipduanju",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -541,6 +547,7 @@
     "name": "良品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
+    "jar": "./lib/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -549,6 +556,7 @@
     "name":"抖音短剧",
     "type":3,
     "api":"csp_XBPQ",
+    "jar": "./lib/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
@@ -564,6 +572,7 @@
     "name":"短剧吧网",
     "type":3,
     "api":"csp_XBPQ",
+    "jar": "./lib/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
@@ -574,6 +583,7 @@
     "name":"短剧天堂",
     "type":3,
     "api":"csp_XBPQ",
+    "jar": "./lib/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
@@ -589,6 +599,7 @@
     "name":"短剧网香",
     "type":3,
     "api":"csp_XBPQ",
+    "jar": "./lib/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
@@ -599,6 +610,7 @@
     "name":"胖嘟短剧",
     "type":3,
     "api":"csp_XBPQ",
+    "jar": "./lib/liuyun.jar",
     "ext":{
     "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
@@ -615,26 +627,18 @@
     "ext":"http://www.tvyb03.com"
 },
 {
-    "key": "新视觉网",
-    "name": "新视觉网",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/xinshijue.json"
-},
-{
     "key": "七七影视",
     "name": "七七影视",
     "type": 3,
-    "api": "csp_XBPQ",   
+    "api": "csp_XBPQ",
+    "jar": "./lib/liuyun.jar",   
     "ext": "https://gitlab.com/dokiss1/tvbox/-/raw/master/json/七七影视.json"
 },
 {
     "key":"drpy_js_yt",
     "name":"🌙影探|4K",
     "type":3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
+    "jar": "./lib/liuyun.jar",
     "api":"https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
     "ext":"https://cloud.lxweb.cn/f/jKKYSy/yt.js"
 },
