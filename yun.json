@@ -636,7 +636,7 @@
 },
 {
     "key":"drpy_js_yt",
-    "name":"🌙影探|4K",
+    "name":"影探|4K",
     "type":3,
     "jar": "./lib/liuyun.jar",
     "api":"https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
