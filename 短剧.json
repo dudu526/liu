@@ -3,33 +3,13 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
 "sites": [
 
-{
-    "key":"csp_豆瓣",
-    "name":"🎬┣豆瓣┫推荐┃",
-    "type": 3,
-    "api": "csp_DouDou",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-},
-{
-    "key": "荐片",
-    "name": "🎬┣影视┫荐片",
-    "type": 3,
-    "api": "csp_JianPian",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "playerType": 1, 
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "http://api2.rinhome.com"
-},
+
 {
     "key":"短剧tv",
     "name":"🎆抖音短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
@@ -45,7 +25,7 @@
     "name":"🎆短剧吧网",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
@@ -56,7 +36,7 @@
     "name":"🎆短剧天堂",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
@@ -72,7 +52,7 @@
     "name":"🎆短剧网香",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
@@ -83,7 +63,7 @@
     "name":"🎆胖嘟短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
@@ -93,7 +73,7 @@
     "name": "💻短剧┃分享",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -121,7 +101,7 @@
     "name": "💻短剧┃爽网",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -140,7 +120,7 @@
     "name": "🎆精品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -149,7 +129,7 @@
     "name": "🎆星芽短剧",
     "type": 3,
     "api": "csp_AppXY",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0
@@ -159,7 +139,7 @@
     "name": "🎆秒播短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -168,7 +148,7 @@
     "name": "🎆仙品短剧",
     "type": 3,
     "api": "csp_Wexduanjuhema",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -177,7 +157,7 @@
     "name": "🎆极品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvmp",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -186,7 +166,7 @@
     "name": "💮精品短剧",
     "type": 3,
     "api": "csp_Wexvipduanju",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -195,7 +175,7 @@
     "name": "💮良品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    //"jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
