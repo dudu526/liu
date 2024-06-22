@@ -195,16 +195,16 @@
     "分类": "短剧$5"}
 },
 {
-    "key": "L芸黑木耳",
-    "name": "🍇┃L芸1┃短剧",
+    "key": "L芸闪电",
+    "name": "🍇┃L芸01┃短剧",
     "type": 1,
-    "api": "https://heimuer.tv/api.php/provide/vod/",
-    "playurl": "https://player.heimuer.tv/index.html?url=",
-    "categories": ["短剧","古装","虐恋","逆袭","神豪","重生","复仇","穿越","甜宠","强者"]
-},
+    "api": "https://shandianzy.com/api.php/provide/vod/",
+    "playurl": "https://www.shankubf.com/m3u8/?url=",
+    "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"] 
+},	
 {
     "key": "L芸360",
-    "name": "🍇┃L芸2┃短剧 ",
+    "name": "🍇┃L芸02┃短剧 ",
     "type": 1,
     "api": "https://360zy.com/api.php/provide/vod",
     "playUrl": "https://bofang.360jiexi.com/?url=",
@@ -212,7 +212,7 @@
 },
 {
     "key": "L芸闪电",
-    "name": "🍇┃L芸3┃短剧",
+    "name": "🍇┃L芸03┃短剧",
     "type": 1,
     "api": "https://shandianzy.com/api.php/provide/vod/",
     "playurl": "https://www.shankubf.com/m3u8/?url=",
@@ -220,7 +220,7 @@
 },	
 {
     "key": "L芸优质",
-    "name": "🍇┃L芸4┃短剧",
+    "name": "🍇┃L芸04┃短剧",
     "type": 0,
     "api": "https://api.1080zyku.com/inc/ldg_api.php",
     "playurl": "https://vip.zykbf.com/?url=",
@@ -228,7 +228,7 @@
 },
 {
     "key": "L芸豪华",
-    "name": "🍇┃L芸5┃短剧",
+    "name": "🍇┃L芸05┃短剧",
     "type": 1,
     "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
     "playurl": "https://hhjiexi.com/play/?url=",
@@ -237,14 +237,14 @@
 
 {
     "key": "L芸飞速",
-    "name": "🍇┃L芸6┃短剧 ",
+    "name": "🍇┃L芸06┃短剧 ",
     "type": 1,
     "api": "https://feisuzy.com/api.php/provide/vod/",
     "categories": [ "短剧" ] 
 },
 {   
     "key": "L芸最大",
-    "name": "🍇┃L芸7┃短剧",
+    "name": "🍇┃L芸07┃短剧",
     "type": 1,
     "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8",
     "playurl": "https://jx.zuidplay.com/m3u8Player/?url=",
@@ -252,7 +252,7 @@
 },
 {
     "key": "L芸乐视",
-    "name": "🍇┃L芸8┃短剧",    
+    "name": "🍇┃L芸08┃短剧",    
     "type": 1,
     "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
     "playurl": "https://leshivideoplayurl.com/?url=",         
@@ -260,70 +260,43 @@
 },
 {
     "key": "L芸天空", 
-    "name": "🍇┃L芸9┃短剧", 
+    "name": "🍇┃L芸09┃短剧", 
     "type": 1,
     "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
     "playurl": "https://jx.huishij.com/yun/?url=",
     "categories": ["短剧"] 
 },
-
-
-
-
-
 {
     "key": "可可",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸10┃短剧",
     "type": 3,
     "api": "csp_Kekys",
     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
     "timeout": 15,
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
+    "categories": ["短剧"] 
 },
 {
     "key": "小点",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸11┃短剧",
     "type": 3,
     "api": "csp_Xdys",
     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
+    "categories": ["短剧"] 
 },
-
-
-
-
-
-
-        
-        
-        {
-            "key": "FreeOK",
-            "name": "🍇┃L芸1┃短剧",
-            "type": 3,
-            "api": "csp_FreeOK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
-
-
+{
+    "key": "FreeOK",
+    "name": "🍇┃L芸12┃短剧",
+    "type": 3,
+    "api": "csp_FreeOK",
+    "categories": ["短剧"]
+},
 {
     "key": "胖虎影视",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸13┃短剧",
     "type": 3,
     "api": "csp_Panghu",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://physvod.com"
+    "ext": "https://physvod.com",
+    "categories": ["短剧"]
 },
 
 {
