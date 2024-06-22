@@ -298,118 +298,134 @@
     "ext": "https://physvod.com",
     "categories": ["短剧"]
 },
-
 {
     "key": "忍者影视",
-    "name": " 🍇┃L芸1┃短剧",
+    "name": " 🍇┃L芸14┃短剧",
     "type": 3,
     "api": "csp_AppRZ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
+    "categories": ["短剧"],
     "ext": "http://rzys.xyz/"
 },
-
-
-
 {
     "key": "兄弟影视",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸15┃短剧",
     "type": 3,
     "api": "csp_Wexxiongdiys",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
+    "categories": ["短剧"]
 },
-
-
 {
     "key": "地瓜影视",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸16┃短剧",
     "type": 3,
     "api": "csp_Wexdiguatv",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
+    "categories": ["短剧"]
 },      
-
-
 {
     "key": "农民影视",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸17┃短剧",
     "type": 3,
     "api": "csp_WexNmys",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
+    "categories": ["短剧"]
 },
-
-
-
-
-
-
 {
     "key": "愉悦影视",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸18┃短剧",
     "type": 3,
     "api": "csp_Wexyuyueys",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
+    "categories": ["短剧"]
 },
 {
     "key": "花蕊影视",
-    "name": "🍇┃L芸1┃短剧",
+    "name": "🍇┃L芸19┃短剧",
     "type": 3,
     "api": "csp_Wexhuaruitv",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
+    "categories": ["短剧"]
 },
-
-
-
-
-
-
-  
-  
-  
-  
-  {"key": "剧兔","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
-  
-  
-  
-  {"key": "小马","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
-  {"key": "老蟹","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "http://www.ajj001.top/api.php/app/"},
-  {"key": "柠檬","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "http://mf.songshu.cyou/api.php/app/"},
-  
-  
-  {"key": "视站","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "https://xn--p3t583cbin.top/api.php/app/"},
-  
-  
-  
-  {"key": "思古","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "https://siguyy.cn/api.php/app/"},
- 
-  {"key": "千神","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "https://www.56aq.com/api.php/app/"},
- 
-  
-  {"key": "少泽","name": "🍇┃L芸1┃短剧","type": 3,"api": "csp_AppYsV2","ext": "https://yk.shaozeyy.com/api.php/app/"},
-  
-  
-  {"key": "金蝉","name": "🍇┃L芸1┃短剧","type": 1,"api": "https://www.jcys.bf/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-  {"key": "剧狗","name": "🍇┃L芸1┃短剧","type": 1,"api": "https://www.youmuz.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-  
-  
-  {"key": "何以","name": "🍇┃L芸1┃短剧","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-  
-  
-  
-  
-
-
+{
+    "key": "剧兔",
+    "name": "🍇┃L芸1┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://www.zjtu.one/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "小马",
+    "name": "🍇┃L芸20┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://mas.szyyds.cn/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "老蟹",
+    "name": "🍇┃L芸21┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://www.ajj001.top/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "柠檬",
+    "name": "🍇┃L芸22┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://mf.songshu.cyou/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "视站",
+    "name": "🍇┃L芸23┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://xn--p3t583cbin.top/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "思古",
+    "name": "🍇┃L芸24┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://siguyy.cn/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "千神",
+    "name": "🍇┃L芸25┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://www.56aq.com/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "少泽",
+    "name": "🍇┃L芸26┃短剧",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://yk.shaozeyy.com/api.php/app/",
+    "categories": ["短剧"]
+},
+{
+    "key": "金蝉",
+    "name": "🍇┃L芸27┃短剧",
+    "type": 1,
+    "api": "https://www.jcys.bf/api.php/provide/vod/",
+    "categories": ["短剧"]
+},
+{
+    "key": "剧狗",
+    "name": "🍇┃L芸28┃短剧",
+    "type": 1,
+    "api": "https://www.youmuz.cn/api.php/provide/vod/",
+    "categories": ["短剧"]
+},
+{
+    "key": "csp_何以",
+    "name": "🅱️何以┃短剧",
+    "type": 1,
+    "api": "https://www.heyik.cn/api.php/provide/vod/",
+    "categories": ["短剧"]
+},
 {
     "key": "csp_Bili短剧",
     "name": "🅱️短剧┃哔哩",
