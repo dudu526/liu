@@ -6,15 +6,14 @@
 
 "sites":[
 {
-    "key": "荐片",
+    "key": "机器人",
     "name": "🎬┣影视┫荐片",
     "type": 3,
-    "api": "csp_JianPian",
-    "playerType": 1, 
+    "api": "csp_Ikanbot",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,
-    "ext": "http://api2.rinhome.com"
+    "changeable": 1,
+    "ext": "https://v.aikanbot.com"
 },
 
 {
@@ -22,14 +21,12 @@
     "name": " 🎬┣影探┫短剧",
     "type": 3,
     "api": "csp_AppYsV2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
+    "categories": ["微短剧4K","现代都市","年代穿越","古装仙侠","成长逆袭"], 
     "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
 },
 {
     "key":"短剧tv",
-    "name":"🎆┣抖音短剧",
+    "name":"🎆┣抖音┫短剧",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -44,7 +41,7 @@
 },
 {
     "key":"短剧吧",
-    "name":"🎆┣短剧吧网",
+    "name":"🎆┣短剧┫吧网",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -54,7 +51,7 @@
 },
 {
     "key":"短剧天堂",
-    "name":"🎆┣短剧天堂",
+    "name":"🎆┣短剧┫天堂",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -69,7 +66,7 @@
 },
 {
     "key":"短剧网",
-    "name":"🎆┣短剧网香",
+    "name":"🎆┣短剧┫网香",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -79,7 +76,7 @@
 },
 {
     "key":"csp_XBPQ_胖嘟嘟",
-    "name":"🎆┣胖嘟短剧",
+    "name":"🎆┣胖嘟┫短剧",
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
@@ -88,7 +85,7 @@
 },
 {
     "key": "短剧分享",
-    "name": "🎆┣短剧┃分享",
+    "name": "🎆┣短剧┫分享",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -115,7 +112,7 @@
 },
 {
     "key": "duanju001",
-    "name": "🎆┣短剧┃爽网",
+    "name": "🎆┣短剧┫爽网",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -133,7 +130,7 @@
 },
 {
     "key": "精品短剧",
-    "name": "🎆┣精品短剧",
+    "name": "🎆┣精品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
     "searchable": 1,
@@ -141,7 +138,7 @@
 },
 {
     "key": "星芽短剧",
-    "name": "🎆┣星芽短剧",
+    "name": "🎆┣星芽┫短剧",
     "type": 3,
     "api": "csp_AppXY",
     "searchable": 1,
@@ -150,7 +147,7 @@
 },
 {
     "key": "秒播短剧",
-    "name": "🎆┣秒播短剧",
+    "name": "🎆┣秒播┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
     "searchable": 1,
@@ -158,7 +155,7 @@
 },
 {
     "key": "仙品短剧",
-    "name": "🎆┣仙品短剧",
+    "name": "🎆┣仙品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuhema",
     "searchable": 1,
@@ -166,7 +163,7 @@
 },
 {
     "key": "极品短剧",
-    "name": "🎆┣极品短剧",
+    "name": "🎆┣极品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvmp",
     "searchable": 1,
@@ -174,7 +171,7 @@
 },
 {
     "key": "精品短剧",
-    "name": "🎆┣精品短剧",
+    "name": "🎆┣精品┫短剧",
     "type": 3,
     "api": "csp_Wexvipduanju",
     "searchable": 1,
@@ -182,7 +179,7 @@
 },
 {
     "key": "良品短剧",
-    "name": "🎆┣良品短剧",
+    "name": "🎆┣良品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
     "searchable": 1,
@@ -190,7 +187,7 @@
 },
 {
     "key": "神仙影视",
-    "name": "🎆┣神仙影视",
+    "name": "🎆┣神仙┫短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -328,17 +325,7 @@
 },
 
 
-{
-    "key": "机器人",
-    "name": "🌙爱看机器",
-    "type": 3,
-    "api": "csp_Ikanbot",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://v.aikanbot.com"
-},
+
 
 
 
