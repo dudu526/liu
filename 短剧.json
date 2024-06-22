@@ -1,8 +1,7 @@
 {
 
   "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;f825a0ce4269de14fdeab22d9418472e",
-  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718523928408/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
-
+ 
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
@@ -20,7 +19,7 @@
 
 {
     "key": " 影探VIP",
-    "name": " 影探VIP",
+    "name": " 🎬┣影探┫短剧",
     "type": 3,
     "api": "csp_AppYsV2",
     "searchable": 1,
@@ -28,8 +27,176 @@
     "changeable": 1,
     "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
 },
-
-
+{
+    "key":"短剧tv",
+    "name":"🎆┣抖音短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "简介":"祝您观影愉快",
+    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+    "线路标题":"<h3*>&&</h3>",
+    "线路数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放链接":"http+://www.duanjutv.cc+href='&&'",
+    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
+    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
+},
+{
+    "key":"短剧吧",
+    "name":"🎆┣短剧吧网",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "简介":"祝您观影愉快",
+    "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
+    "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"} 
+},
+{
+    "key":"短剧天堂",
+    "name":"🎆┣短剧天堂",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "简介":"祝您观影愉快",
+    "搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
+    "分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html",
+    "免嗅": "0",
+    "嗅探词": ".mp4#.m3u8#.flv",
+    "分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5",
+    "分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
+    "分类ID":"/vodtype/&&.html"}
+},
+{
+    "key":"短剧网",
+    "name":"🎆┣短剧网香",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "简介":"祝您观影愉快",
+    "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
+    "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}
+},
+{
+    "key":"csp_XBPQ_胖嘟嘟",
+    "name":"🎆┣胖嘟短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
+    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
+},
+{
+    "key": "短剧分享",
+    "name": "🎆┣短剧┃分享",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "站名": "短剧分享",
+    "主页url": "http://mp5.hz.cz/",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "影片状态": "备注：&&</div>",
+    "影片类型": "video-info-aux\">&&立即播放",
+    "搜索模式": "1",
+    "搜索url": "http://mp5.hz.cz/index.php/vod/search.html?wd={wd}",
+    "搜索数组": "module-item-pic\">&&</div>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "",
+    "搜索图片": "data-src=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "分类url": "http://mp5.hz.cz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "短剧一FF$1#短剧二YZ$2#短剧三XL$3#短剧四1080$4"}
+},
+{
+    "key": "duanju001",
+    "name": "🎆┣短剧┃爽网",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
+    "分类": "短剧首页$1#短剧列表$2#排行榜$3#",
+    "分类值": "duanju&",
+    "副标题": "<div class=\"v-item-bottom\">&&</div>",
+    "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
+    "导演": "导演:&&</div>",
+    "主演": "主演:&&</div>",
+    "简介": "<p>&&</p>"}
+},
+{
+    "key": "精品短剧",
+    "name": "🎆┣精品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvip",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "星芽短剧",
+    "name": "🎆┣星芽短剧",
+    "type": 3,
+    "api": "csp_AppXY",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+},
+{
+    "key": "秒播短剧",
+    "name": "🎆┣秒播短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvop",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "仙品短剧",
+    "name": "🎆┣仙品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuhema",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "极品短剧",
+    "name": "🎆┣极品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvmp",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "精品短剧",
+    "name": "🎆┣精品短剧",
+    "type": 3,
+    "api": "csp_Wexvipduanju",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "良品短剧",
+    "name": "🎆┣良品短剧",
+    "type": 3,
+    "api": "csp_Wexduanjuvip",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "神仙影视",
+    "name": "🎆┣神仙影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "短剧$5"}
+},
 
 
 
@@ -172,146 +339,7 @@
     "changeable": 1,
     "ext": "https://v.aikanbot.com"
 },
-{
-    "key": "精品短剧",
-    "name": "精品短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvip",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "星芽短剧",
-    "name": "星芽短剧",
-    "type": 3,
-    "api": "csp_AppXY",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
-},
-{
-    "key": "秒播短剧",
-    "name": "秒播短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvop",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "仙品短剧",
-    "name": "仙品短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuhema",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "极品短剧",
-    "name": "极品短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvmp",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "精品短剧",
-    "name": "精品短剧",
-    "type": 3,
-    "api": "csp_Wexvipduanju",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "良品短剧",
-    "name": "良品短剧",
-    "type": 3,
-    "api": "csp_Wexduanjuvip",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key":"短剧tv",
-    "name":"抖音短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-    "线路标题":"<h3*>&&</h3>",
-    "线路数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放链接":"http+://www.duanjutv.cc+href='&&'",
-    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
-    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
-},
-{
-    "key":"短剧吧",
-    "name":"短剧吧网",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-    "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"} 
-},
-{
-    "key":"短剧天堂",
-    "name":"短剧天堂",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
-    "分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html",
-    "免嗅": "0",
-    "嗅探词": ".mp4#.m3u8#.flv",
-    "分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5",
-    "分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
-    "分类ID":"/vodtype/&&.html"}
-},
-{
-    "key":"短剧网",
-    "name":"短剧网香",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
-    "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"}
-},
-{
-    "key":"csp_XBPQ_胖嘟嘟",
-    "name":"胖嘟短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "ext":{
-    "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
-    "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
-},
 
-
-{
-    "key": "神仙影视",
-    "name": "神仙影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "ext": {
-    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "短剧$5"}
-},
 
 
   
@@ -349,53 +377,7 @@
   
   
 
-{
-    "key": "短剧分享",
-    "name": "💻短剧┃分享",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "站名": "短剧分享",
-    "主页url": "http://mp5.hz.cz/",
-    "导演": "导演：&&</div>",
-    "主演": "主演：&&</div>",
-    "影片状态": "备注：&&</div>",
-    "影片类型": "video-info-aux\">&&立即播放",
-    "搜索模式": "1",
-    "搜索url": "http://mp5.hz.cz/index.php/vod/search.html?wd={wd}",
-    "搜索数组": "module-item-pic\">&&</div>",
-    "搜索标题": "alt=\"&&\"",
-    "搜索副标题": "",
-    "搜索图片": "data-src=\"&&\"",
-    "搜索链接": "href=\"&&\"",
-    "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "http://mp5.hz.cz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "短剧一FF$1#短剧二YZ$2#短剧三XL$3#短剧四1080$4"}
-},
-{
-    "key": "duanju001",
-    "name": "💻短剧┃爽网",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
-    "分类": "短剧首页$1#短剧列表$2#排行榜$3#",
-    "分类值": "duanju&",
-    "副标题": "<div class=\"v-item-bottom\">&&</div>",
-    "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
-    "导演": "导演:&&</div>",
-    "主演": "主演:&&</div>",
-    "简介": "<p>&&</p>"}
-},
+
 {
     "key": "csp_Bili短剧",
     "name": "🅱️短剧┃哔哩",
