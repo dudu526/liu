@@ -15,7 +15,6 @@
     "changeable": 1,
     "ext": "https://v.aikanbot.com"
 },
-
 {
     "key": " 影探VIP",
     "name": " 🎬┣影探┫短剧",
@@ -24,8 +23,7 @@
     "categories": ["微短剧4K","热门短剧"], 
     "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
 },
-{"key":"T4-mmdj","name":"👯妹妹短剧","type":4,"api":"https://catbox.n13.club/t9/mmdj.php"},
- {
+{
   "key": "免费爽短剧",
   "name": "🐽爽短剧",
   "type": 3,
@@ -38,10 +36,7 @@
     "直接播放": "1",
     "搜索url": "https://www.mianfeishuangju.com/search/{wd}/",
     "分类url": "https://www.mianfeishuangju.com/categories/{cateId}/{catePg}/",
-    "分类": "反转爽剧$fanzhuanshaungju#古装仙侠$guzhuangxianxia#现代穿越$niandaichuanyue#现代都市$xiandaidoushi#女恋总裁$nvlianzongcai#脑洞悬疑$categories/naodongxuanyi#爽剧合集$shuangjuheji"
-  } 
- 
-  
+    "分类": "反转爽剧$fanzhuanshaungju#古装仙侠$guzhuangxianxia#现代穿越$niandaichuanyue#现代都市$xiandaidoushi#女恋总裁$nvlianzongcai#脑洞悬疑$categories/naodongxuanyi#爽剧合集$shuangjuheji"}  
 },  
 {
     "key":"短剧tv",
@@ -473,7 +468,7 @@
     "跳转播放链接":"varurlDecode(var player_*url\":\"&&\")",
     "搜索url":"https://www.nbhuiding.com/search/{wd}----------{pg}---.html",
     "分类url":"https://www.nbhuiding.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[https://www.nbhuiding.com/list/{cateId}.html]",
-    "分类":"网红短剧$34#国产剧$13#国产剧$13#香港剧$14#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#综艺$3#大陆综艺$25#港台综艺$27#午夜剧场$33"}
+    "分类":"网红短剧$34#国产剧$13#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#大陆综艺$25#午夜剧场$33"}
 }, 
 {
     "key":" 一起看",
