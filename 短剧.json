@@ -488,7 +488,10 @@
     "分类":"电影&电视剧&综艺&动漫&短剧",
     "分类值":"1&2&3&4&30"}
 },
+{"key":"T4-douban","name":"🍳豆瓣推荐","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
 {"key":"T4-yugaopian","name":"🍭影视-预告片(T4)","type":4,"api":"https://catbox.n13.club/t9/yugaopian.php"},
+{"key":"T4-jp","name":"🚧T4荐片","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
+{"key":"T4-南瓜","name":"🎃南瓜影视","type":4,"api":"https://catbox.n13.club/t9/nangua.php"},
 {"key":"T4-剧圈","name":"💁影视-剧圈(T4)","type":4,"api":"https://catbox.n13.club/t9/juquan.php"},
 {"key":"T4-黑狐","name":"📡影视-黑狐(T4)","type":4,"api":"https://catbox.n13.club/t9/heihu.php"},
 {"key":"T4-极光","name":"🍑影视-极光(T4)","type":4,"api":"https://catbox.n13.club/t9/jiguang.php"},
