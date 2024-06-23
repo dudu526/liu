@@ -1,20 +1,26 @@
 {"urls":[
-   {"name": "🏡【主仓线】","url": "https://cloud.lxweb.cn/f/qmBZse/yun.json"},
+ {"name": "🏡【主仓线】","url": "https://cloud.lxweb.cn/f/qmBZse/yun.json"},
 {"name": "🏡【主备用1】","url": "https://gitee.com/lyun_1_0/tb/raw/master/yun.json"},
-{"name": "🏡【魔盒线】","url": "https://notabug.org/liuyun/H--2024/raw/master/魔盒.json"},
 {"name": "🏆【主备用2】","url": "https://notabug.org/liuyun/H--2024/raw/master/yun.json"},
 {"name": "🍚饭太硬","url": "http://www.饭太硬.com/tv"},
 {"name": "🐱肥猫咪","url": "http://肥猫.live"},
-{"name": "🐶OK猫接口","url": "http://ok321.top/ok"},
-{"name":"😹影视资源","url":"http://bp.tvbox.cam"},
-{"name":"橘子柚","url":"https://juziyou.vip/tv"},
-{"name": "🐳分享者接口","url": "http://hucongrong.web3v.work/风水/fxz/fxz.json"},
+{"name": "🐶祥子影视","url": "http://xzweb.top/祥子影视/main/xzys2024.json"},
 {"name": "🎊奇乐技术网🎊","url": "https://json.qlkjy.cn/ql.json"},
 {"name": "🎪影影主仓Gn","url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Gn.json"},
 {"name": "🚀放牛线路","url": "http://tvbox.王二小放牛娃.xyz"},
-{"name": "📢tv欧歌线路1📢","url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"},
+{"name": "📢tv欧歌线路1📢","url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌"},
 {"name": "⛲乐看无忧网⛲","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},	
 {"name": "📌量帅接口","url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
+{"url": "https://gitlab.com/guot55/bh/-/raw/main/pg/bh.json","name": "🐹月光宝盒"},  
+{"url": "http://dp.sxtv.top:88/img","name": "🐹神仙线路"},
+{"url":"https://yydf.540734621.xyz/QQ/yydf2024.json","name": "🐹业余线路"},
+
+{"url":"https://gitee.com/lyun_1_0/tb/raw/master/短剧.json","name":"🅱️短剧大全"},
+{"url":"https://gitee.com/dongchenliu/liu/raw/master/hd.json","name":"🐈东辰"},
+{
+    "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+    "name": "🐹吾爱线路"
+},
 {"name":"🐔少儿不易","url":"https://cloud.lxweb.cn/f/abX1u6/少儿不易.json"},
 {"name": "🔞午夜福利院🔞","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/18sexN.json"}
 
