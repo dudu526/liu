@@ -559,7 +559,7 @@
     "api": "csp_Duanj",
     "searchable": 1,
     "changeable": 0,
-    "jar": "./danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
 },
 {
     "key":"短剧吧",
@@ -709,7 +709,7 @@
   {"key": "迪影","name": "⚡┣爱迪┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://adys.tv/xgapp.php/v1/"},
   {"key": "视站","name": "⚡┣影库┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://xn--p3t583cbin.top/api.php/app/"},
   {"key": "银河","name": "⚡┣银河┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
-  {"key": "美剧","name": "⚡┣美剧┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.69mj.com/xgapp.php/v2/"},
+ 
   {"key": "大米","name": "⚡┣大米┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://damifi.com/api.php/app/"},
   {"key": "思古","name": "⚡┣思古┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://siguyy.cn/api.php/app/"},
   {"key": "零刻","name": "⚡┣零刻┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"},
@@ -726,8 +726,7 @@
   {"key": "小宝","name": "⚡┣小宝┫影视","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "何以","name": "⚡┣何以┫直连","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "北川","name": "⚡┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
-  
-  {"key": "白菜","name": "🌠┣白菜┫视频","type": 3,"api": "csp_AppYsV2","ext": "http://www.4kgod6.club/api.php/app/"},
+  {"key": "白菜","name": "⚡┣白菜┫视频","type": 3,"api": "csp_AppYsV2","ext": "http://www.4kgod6.club/api.php/app/"},
   
 {
     "key": "Yinyuetai",
