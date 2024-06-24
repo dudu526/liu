@@ -38,21 +38,7 @@
     "分类url": "https://www.mianfeishuangju.com/categories/{cateId}/{catePg}/",
     "分类": "反转爽剧$fanzhuanshaungju#古装仙侠$guzhuangxianxia#现代穿越$niandaichuanyue#现代都市$xiandaidoushi#女恋总裁$nvlianzongcai#脑洞悬疑$categories/naodongxuanyi#爽剧合集$shuangjuheji"}  
 },  
-{
-    "key":"短剧tv",
-    "name":"🎆┣抖音┫短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-    "线路标题":"<h3*>&&</h3>",
-    "线路数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放链接":"http+://www.duanjutv.cc+href='&&'",
-    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
-    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
-},
+
 {
     "key":"短剧吧",
     "name":"🎆┣短剧┫吧网",
@@ -143,6 +129,15 @@
     "简介": "<p>&&</p>"}
 },
 {
+    "key": "神仙影视",
+    "name": "🎆┣神仙┫短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "短剧$5"}
+},
+{
     "key": "精品短剧",
     "name": "🎆┣精品┫短剧",
     "type": 3,
@@ -164,6 +159,7 @@
     "name": "🎆┣秒播┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
     "searchable": 1,
     "changeable": 1
 },
@@ -172,6 +168,7 @@
     "name": "🎆┣仙品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuhema",
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
     "searchable": 1,
     "changeable": 1
 },
@@ -180,14 +177,7 @@
     "name": "🎆┣极品┫短剧",
     "type": 3,
     "api": "csp_Wexduanjuvmp",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "精品短剧",
-    "name": "🎆┣精品┫短剧",
-    "type": 3,
-    "api": "csp_Wexvipduanju",
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
     "searchable": 1,
     "changeable": 1
 },
@@ -445,15 +435,24 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://cloud.lxweb.cn/f/kpNqhp/Bili.json"
-},{
-    "key": "神仙影视",
-    "name": "🎆┣神仙┫短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "短剧$5"}
 },
+{
+    "key":"短剧tv",
+    "name":"🎆┣抖音┫短剧",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+    "ext":{
+    "简介":"祝您观影愉快",
+    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+    "线路标题":"<h3*>&&</h3>",
+    "线路数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放数组":"\"more text-muted pull-right\">&&</ul>",
+    "播放链接":"http+://www.duanjutv.cc+href='&&'",
+    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
+    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
+},
+
 {
     "key":"星空影视2",
     "name":"⭐星空福利",
