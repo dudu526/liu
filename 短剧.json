@@ -25,7 +25,7 @@
 },
 {
   "key": "免费爽短剧",
-  "name": "🐽爽短剧",
+  "name": "🎆┣免费┫爽短剧",
   "type": 3,
   "api": "csp_XBPQ",
  
@@ -199,15 +199,7 @@
     "searchable": 1,
     "changeable": 1
 },
-{
-    "key": "神仙影视",
-    "name": "🎆┣神仙┫短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "短剧$5"}
-},
+
 {
     "key": "L芸闪电",
     "name": "🍇┃L芸01┃短剧",
@@ -453,6 +445,14 @@
     "quickSearch": 0,
     "changeable": 0,
     "ext": "https://cloud.lxweb.cn/f/kpNqhp/Bili.json"
+},{
+    "key": "神仙影视",
+    "name": "🎆┣神仙┫短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+    "分类": "短剧$5"}
 },
 {
     "key":"星空影视2",
