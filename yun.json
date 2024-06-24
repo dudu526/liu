@@ -29,13 +29,14 @@
     "ext": "http://api2.rinhome.com"
 },
 {
-    "key": "短剧",
-    "name": "🌈┣上头┫短剧",
+    "key": " 影探VIP",
+    "name": " 影探VIP",
     "type": 3,
-    "api": "csp_Djuu",
+    "api": "csp_AppYsV2",
     "searchable": 1,
     "quickSearch": 1,
-    "changeable": 1
+    "changeable": 1,
+    "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
 },
 {
     "key": "酷看",
@@ -552,20 +553,13 @@
     "changeable": 1
 },
 {
-    "key":"短剧tv",
-    "name":"抖音短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar": "./lib/liuyun.jar",
-    "ext":{
-    "简介":"祝您观影愉快",
-    "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-    "线路标题":"<h3*>&&</h3>",
-    "线路数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放数组":"\"more text-muted pull-right\">&&</ul>",
-    "播放链接":"http+://www.duanjutv.cc+href='&&'",
-    "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
-    "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}  
+    "key": "无忧短剧",
+    "name": "无忧短剧",
+    "type": 3,
+    "api": "csp_Duanj",
+    "searchable": 1,
+    "changeable": 0,
+    "jar": "./danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
 },
 {
     "key":"短剧吧",
@@ -699,16 +693,7 @@
     "api":"http://tv.nxog.top/m/js/nxog.js",
     "ext":"http://tv.nxog.top/m/js/yy.js"
 },
-{
-    "key": " 影探VIP",
-    "name": " 影探VIP",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
-},
+
   {"key": "沐沐","name": "⚡┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
   {"key": "龙门","name": "⚡┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
   {"key": "星球","name": "⚡┣星球┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
