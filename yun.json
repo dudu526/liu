@@ -1,6 +1,6 @@
 {
 
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
+  "spider": "https://cloud.lxweb.cn/f/GW6ycg/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
   
 
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
@@ -27,7 +27,7 @@
 },
 {
     "key": "铁剧影视",
-    "name": "铁剧影视",
+    "name": "🎆┣铁剧┫影视",
     "type": 3,
     "api": "csp_AppBr",
     "searchable": 1,
@@ -36,12 +36,74 @@
 },
 {
     "key": "笙歌影视",
-    "name": "笙歌影视",
+    "name": "🎆┣笙歌┫影视",
     "type": 3,
     "api": "csp_AppYY",
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0
+},
+{
+    "key": "酷看影视",
+    "name": "🎆┣酷看┫影视",
+    "type": 3,
+    "api": "csp_Wexkukantv",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "视觉影视",
+    "name": "🎆┣视觉┫影视",
+    "type": 3,
+    "api": "csp_Xinsj",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "可可影视",
+    "name": "🎆┣可可┫影视",
+    "type": 3,
+    "api": "csp_Keke",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "低端影视",
+    "name": "🎆┣低端┫影视",
+    "type": 3,
+    "api": "csp_Ddys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "热播影视",
+    "name": "🎆┣热播┫影视",
+    "type": 3,
+    "api": "csp_AppRB",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "南瓜影视",
+    "name": "🎆┣南瓜┫影视",
+    "type": 3,
+    "api": "csp_WexNgys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key": "大米星球",
+    "name": "🎆┣大米┫星球",
+    "type": 3,
+    "api": "csp_AppDaMi",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
 },
 {
     "key": "疯狗影视",
@@ -140,7 +202,6 @@
     "searchable": 1,
     "changeable": 1
 },
- 
 {
     "key": "啾啾影视",
     "name": "🎆┣啾啾┫影视",
@@ -266,6 +327,16 @@
     "quickSearch": 1,
     "changeable": 1,
     "ext": "https://v.aikanbot.com"
+},
+{
+    "key": "摩托影视",
+    "name": "🎆┣摩托┫影视",
+    "type": 3,
+    "api": "csp_App",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
 },
 {
     "key": "精品短剧",
@@ -413,82 +484,11 @@
     "changeable": 1
 },
 {
-    "key": "酷看",
-    "name": "💡┣酷看┫秒播",
-    "type": 3,
-    "api": "csp_Kkys",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
-    "key": "原创",
-    "name": "☀┣原创┫不卡",
-    "type": 3,
-    "api": "csp_YCyz",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "playerType": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
-    "key": "视觉",
-    "name": "👓┣视觉┫多线",
-    "type": 3,
-    "api": "csp_Xinsj",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://www.80yy3.com/"
-},
-{
-    "key": "厂长",
-    "name": "📔┣厂长┫不卡",
-    "type": 3,
-    "api": "csp_NewCz",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://czzy.top/"
-},
-{
-    "key": "低端",
-    "name": "⏮️┣低端┫外剧",
-    "type": 3,
-    "api": "csp_Ddrk",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "playerType": "2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
     "key": "文采",
     "name": "💮┣文采┫秒播",
     "type": 3,
     "api": "csp_Jpys",
     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
-    "key": "可可",
-    "name": "👻┣可可┫多线",
-    "type": 3,
-    "api": "csp_Kekys",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
     "playerType": 2,
     "searchable": 1,
     "quickSearch": 1,
@@ -504,19 +504,6 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 0
-},
-{
-    "key": "热播",
-    "name": "📺┣热播┫多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
 },
 {
     "key": "萌米",
@@ -538,52 +525,6 @@
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1
-},
-{
-    "key": "比特",
-    "name": "🍄┣比特┫秒播",
-    "type": 3,
-    "api": "csp_Bttwoo",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
-    "key": "南瓜",
-    "name": "🎃┣南瓜┫多线",
-    "type": 3,
-    "api": "csp_NanGua",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-},
-{
-    "key": "Lib",
-    "name": "🌟┣立播┫不卡",
-    "type": 3,
-    "api": "csp_Libvio",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://www.libvio.cc/"
-},
-{
-    "key": "Auete",
-    "name": "🏝┣奥特┫无广",
-    "type": 3,
-    "api": "csp_Auete",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
-    "timeout": 15,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://auete.pro/"
 },
 {
     "key":"dr_卫士",
