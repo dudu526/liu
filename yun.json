@@ -12,7 +12,7 @@
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
     "api": "https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
-    "ext": "https://cloud.lxweb.cn/f/mG1rfj/douban.js"
+    "ext": "https://cloud.lxweb.cn/f/VlGqUr/douBan.js"
 },
 {
     "key":"csp_豆瓣",
@@ -36,12 +36,12 @@
     "播放链接":"https://m.douban.com+href=\"&&\""}
 },
 {
-    "key": "铁剧影视",
-    "name": "🎆┣铁剧┫影视",
+    "key": "南瓜影视",
+    "name": "🎆┣南瓜┫影视",
     "type": 3,
-    "api": "csp_AppBr",
+    "api": "csp_WexNgys",
     "searchable": 1,
-    "quickSearch": 0,
+    "quickSearch": 1,
     "filterable": 0
 },
 {
@@ -96,15 +96,6 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-},
-{
-    "key": "南瓜影视",
-    "name": "🎆┣南瓜┫影视",
-    "type": 3,
-    "api": "csp_WexNgys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
 },
 {
     "key": "大米星球",
@@ -539,6 +530,20 @@
     "quickSearch": 1,
     "filterable": 1
 },
+{
+    "key": "铁剧影视",
+    "name": "🎆┣铁剧┫影视",
+    "type": 3,
+    "api": "csp_AppBr",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+},
+{"key":"T4-荐片","name":"🚧┣荐片┫影视(T4)","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
+{"key":"T4-黑狐","name":"📡┣黑狐┫影视(T4)","type":4,"api":"https://catbox.n13.club/t9/heihu.php"},
+{"key":"T4-极光","name":"🍑┣极光┫影视(T4)","type":4,"api":"https://catbox.n13.club/t9/jiguang.php"},
+{"key":"T4-mmdj","name":"👯┣妹妹┫短剧(T4)","type":4,"api":"https://catbox.n13.club/t9/mmdj.php"},
+
 
 {
     "key":"dr_卫士",
