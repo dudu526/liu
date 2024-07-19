@@ -1,6 +1,6 @@
 {
 
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;52022ec8a68de9810629e8e4c83c7a87",
   
 
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
@@ -125,13 +125,14 @@
     "filterable": 1
 },
 {
-    "key": "追剧影视",
-    "name": "🎆┣追剧┫影视",
+    "key": "追忆影视",
+    "name": "🎆┣追忆┫影视",
     "type": 3,
-    "api": "csp_AppZJ",
+    "api": "csp_AppYsV2",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1
+    "filterable": 1,
+    "ext": "http://110.42.7.101:1122/api.php/app/"
 },
 {
     "key": "快看影视",
@@ -861,7 +862,21 @@
 
 {"name": "夜幕解析㊍","type": 0,"url": "https://www.yemu.xyz/?url="},
 {"name": "猫咪解析㊋","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
-
+{
+    "name": "推荐3",
+    "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
+    "type": "1",
+    "status": "normal",
+    "type_text": "Type 1",
+    "status_text": "正常"
+},
+{
+    "name": "推荐6",
+    "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
+    "type": 1,
+    "ext": {"flag": ["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","xiguatv","mytv","dsj","FYNB","NBY","BTJSON"],
+    "header": {"User-Agent": "Dalvik/2.1.0"}}
+},
 {
     "name":"🏁琉芸★全能嗅探★",
     "type":0,
