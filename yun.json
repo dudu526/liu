@@ -11,8 +11,8 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
-    "ext": "https://cloud.lxweb.cn/f/VlGqUr/douBan.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/douban.js"
 },
 {
     "key":"csp_豆瓣",
@@ -584,8 +584,8 @@
     "key":"优",
     "name":"🧲优酷【官方】",
     "type":3,
-    "api":"https://cloud.lxweb.cn/f/yYYOTE/dry2.js",
-    "ext":"https://cloud.lxweb.cn/f/616xFw/yuku.js"
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/lib/yku.js"
 },
 
 {
@@ -742,7 +742,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://cloud.lxweb.cn/f/kpNqhp/Bili.json"
+    "ext": "https://notabug.org/liuyun/H--2024/raw/master/json/BiLi.json"
 },
 {
     "key": "MV",
@@ -756,7 +756,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext":"https://cloud.lxweb.cn/f/MRWJHG/MTV.json"
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/lib/MTV.json"
 },	
 {
     "key": "少儿",
