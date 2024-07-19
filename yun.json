@@ -467,6 +467,16 @@
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"
 },
 {
+    "key": "在线短剧",
+    "name": "在线短剧",
+    "type": 3,
+    "api": "csp_Duanju",
+    "searchable": 1,
+    "changeable": 0,
+    "style": {"type": "rect","ratio": 1.433},
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danmu.jar;md5;924bd95dce1cd389c13fe5e19eedf8ba"
+},
+{
     "key": "精品短剧",
     "name": "🎆┣精品┫短剧",
     "type": 3,
