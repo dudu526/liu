@@ -298,9 +298,11 @@
     "key": "甲子影视",
     "name": "🎆┣甲子┫影视",
     "type": 3,
-    "api": "csp_Wexjiazitv",
+    "api": "csp_AppYsV2",
     "searchable": 1,
-    "changeable": 1
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": " http://122.228.84.103:5825/api.php/app/"
 },
 {
     "key": "视频库",
@@ -539,10 +541,7 @@
     "quickSearch": 0,
     "filterable": 0
 },
-{"key":"T4-荐片","name":"🚧┣荐片┫影视(T4)","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
-{"key":"T4-黑狐","name":"📡┣黑狐┫影视(T4)","type":4,"api":"https://catbox.n13.club/t9/heihu.php"},
-{"key":"T4-极光","name":"🍑┣极光┫影视(T4)","type":4,"api":"https://catbox.n13.club/t9/jiguang.php"},
-{"key":"T4-mmdj","name":"👯┣妹妹┫短剧(T4)","type":4,"api":"https://catbox.n13.club/t9/mmdj.php"},
+
 
 
 {
@@ -861,17 +860,8 @@
 {"name":"🌐自动聚合","type":3,"url":"Demo"},
 
 {"name": "夜幕解析㊍","type": 0,"url": "https://www.yemu.xyz/?url="},
-{"name": "九游解析㊌","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
 {"name": "猫咪解析㊋","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
-{"name": "八九解析㊏","type": 0,"url": "https://www.8090g.cn/?url="},
-{
-    "name":"咸鱼解析㊐",
-    "type":0,
-    "url":"https://jx.aidouer.net/?url=",
-    "ext":{"header":{
-    "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
-    "referer":"https://jiejie.uk/"}}
-},
+
 {
     "name":"🏁琉芸★全能嗅探★",
     "type":0,
