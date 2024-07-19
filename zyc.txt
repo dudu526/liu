@@ -1,0 +1,11 @@
+{
+  "urls": [
+  
+    {"name": "🚸《影视》","url": "https://cloud.lxweb.cn/f/qmBZse/yun.json"},
+    {"name": "🚸《短剧》","url": "https://cloud.lxweb.cn/f/9Vyku1/短剧.json"},
+    {"name": "🚸《魔盒》","url": "https://cloud.lxweb.cn/f/OWP1Cb/魔盒.json"},
+    {"name": "🚸《采集》","url": "https://cloud.lxweb.cn/f/nKEGs6/采集.json"},
+    {"name": "🚸《休闲》","url": "https://cloud.lxweb.cn/f/a0Ayi6/休闲.json"},
+    {"name": "🚸《学习》","url": "https://cloud.lxweb.cn/f/7Q1pFr/学习.json"}
+]
+}
