@@ -496,7 +496,7 @@
     "name":"🎆┣短剧┫吧网",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
@@ -507,7 +507,7 @@
     "name":"🎆┣短剧┫天堂",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    
     "ext":{
     "简介":"祝您观影愉快",
     "搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
@@ -523,7 +523,7 @@
     "name":"🎆┣短剧┫网香",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
@@ -534,7 +534,7 @@
     "name":"🎆┣胖嘟┫短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    
     "ext":{
     "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
@@ -544,7 +544,7 @@
     "name": "🎆┣饭团┫影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+   
     "ext": {
     "简介": "【饭团影院】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
     "线路标题": "[替换:索索线路>>公众号神仙APP]",
@@ -563,14 +563,14 @@
     "搜索数组": "<div class=\"thumb\"&&</li>",
     "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content\"&&</div>",
     "分类url": "https://www.88tvs.cn/vodshow/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$dianying#电剧集$juji#动漫$dongman#综艺$zongyi#短剧$duanju"}
+    "分类": "电剧集$juji#动漫$dongman#综艺$zongyi#短剧$duanju"}
 },
 {
     "key": "神仙影┫视",
     "name": "🎆┣神仙影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+   
     "ext": {
     "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#4K电影$36#邵氏电影$37"}
