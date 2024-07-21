@@ -1016,8 +1016,11 @@
 {"name":"🌐自动聚合","type":3,"url":"Demo"},
 {
     "name":"爱酷解析㊎",
-    "type":1,
-    "url":"https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url="
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url=",
+    "ext": {  
+    "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],  
+    "header": {    "User-Agent": "okhttp/4.1.0"  }}
 },
 {"name": "夜幕解析㊍","type": 0,"url": "https://www.yemu.xyz/?url="},
 {"name": "猫咪解析㊌","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
@@ -1036,41 +1039,7 @@
     "ext": {"flag": ["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","xiguatv","mytv","dsj","FYNB","NBY","BTJSON"],
     "header": {"User-Agent": "Dalvik/2.1.0"}}
 },
-{
-            "name": "弹幕播放",
-            "type": 0,
-            "url": "https://www.ikdmjx.com/?url="
-        },
-        {
-            "name": "线路㊎",
-            "type": 0,
-            "url": "https://jx.5566jiexi.com/?url="
-        },
-        {
-            "name": "线路㊍",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "线路㊌",
-            "type": 0,
-            "url": "https://jx.xyflv.cc/?url="
-        },
-        {
-            "name": "线路㊋",
-            "type": 0,
-            "url": "https://www.pouyun.com/?url="
-        },
-        {
-            "name": "线路㊏",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url="
-        },
-        {
-            "name": "线路㊐",
-            "type": 0,
-            "url": "http://jx.playerjy.com/?url="
-        },
+
 {
     "name":"虾米Ⓐ",
     "type":0,
