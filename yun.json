@@ -1036,7 +1036,41 @@
     "ext": {"flag": ["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","xiguatv","mytv","dsj","FYNB","NBY","BTJSON"],
     "header": {"User-Agent": "Dalvik/2.1.0"}}
 },
-
+{
+            "name": "弹幕播放",
+            "type": 0,
+            "url": "https://www.ikdmjx.com/?url="
+        },
+        {
+            "name": "线路㊎",
+            "type": 0,
+            "url": "https://jx.5566jiexi.com/?url="
+        },
+        {
+            "name": "线路㊍",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "线路㊌",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url="
+        },
+        {
+            "name": "线路㊋",
+            "type": 0,
+            "url": "https://www.pouyun.com/?url="
+        },
+        {
+            "name": "线路㊏",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="
+        },
+        {
+            "name": "线路㊐",
+            "type": 0,
+            "url": "http://jx.playerjy.com/?url="
+        },
 {
     "name":"虾米Ⓐ",
     "type":0,
