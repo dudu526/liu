@@ -1015,6 +1015,14 @@
 {"name":"🌐智能聚合","type":3,"url":"Web"},   
 {"name":"🌐自动聚合","type":3,"url":"Demo"},
 
+{
+    "name":"爱酷解析㊎",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url=",
+    "ext": {  
+    "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],  
+    "header": {    "User-Agent": "okhttp/4.1.0"  }}
+},
 {"name": "夜幕解析㊍","type": 0,"url": "https://www.yemu.xyz/?url="},
 {"name": "猫咪解析㊌","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
 {
@@ -1031,14 +1039,6 @@
     "type": 1,
     "ext": {"flag": ["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","xiguatv","mytv","dsj","FYNB","NBY","BTJSON"],
     "header": {"User-Agent": "Dalvik/2.1.0"}}
-},
-{
-    "name":"爱酷解析㊎",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url=",
-    "ext": {  
-    "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],  
-    "header": {    "User-Agent": "okhttp/4.1.0"  }}
 },
 {
     "name":"虾米Ⓐ",
