@@ -6,6 +6,6 @@
     {"name": "🚸《魔盒》","url": "https://gitee.com/lyun_1_0/tb/raw/master/魔盒.json"},
     {"name": "🚸《采集》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/采集.json"},
     {"name": "🚸《休闲》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/休闲.json"},
-    {"name": "🚸《学习》","url": "https://notabug.org/liuyun/H--2024/raw/master/%e5%ad%a6%e4%b9%a0.json"}
+    {"name": "🚸《学习》","url": "https://gitee.com/lyun_1_0/tb/raw/master/%E5%AD%A6%E4%B9%A0.json"}
 ]
 }
