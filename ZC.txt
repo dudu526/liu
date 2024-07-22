@@ -1,7 +1,8 @@
 {
 "storeHouse": [
 
-{"sourceName":"⑨🕵流云影视多仓库","sourceUrl":"https://notabug.org/liuyun/H-2023/raw/master/%e9%b8%b3%e9%b8%af%e6%88%8f%e6%b0%b4.json"},
+{"sourceName":"⑨🕵流云影视多仓库","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/%E4%BA%91%E4%BB%93.json"},
+{"sourceName":"⑨🕵鸳鸯多仓库","sourceUrl":"https://notabug.org/liuyun/H-2023/raw/master/%e9%b8%b3%e9%b8%af%e6%88%8f%e6%b0%b4.json"},
 {"sourceName":"🏮🏮金鹰多仓库🏮🏮","sourceUrl":"http://530.my3v.work/99668.json"},
 {"sourceName":"〇🎊TVBOX官方仓库","sourceUrl":"https://gitlab.com/dokiss/tvbox/-/raw/main/TVBOX官仓.json"},
 {"sourceName":"①🍱挺好分享多仓库","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
