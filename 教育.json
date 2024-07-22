@@ -33,17 +33,6 @@
     "播放标题":"alt=\"&&\"",
     "播放链接":"https://m.douban.com+href=\"&&\""}
 },
-
-{
-    "key": "英语学习大全",
-    "name": "📚英语学习大全🅱️",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/TDYesag0Y3kc.json"
-},
 {
    "key": "学生全版本教材辅导",
     "name": "📚学生全版本教材辅导",
@@ -54,9 +43,19 @@
     "filterable": 1,
     "ext": "http://154.37.152.74:8888/down/7MXRrrob1lXh.json"
 },
+{
+    "key": "英语学习大全",
+    "name": "📚英语大全",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/TDYesag0Y3kc.json"
+},
 {  
     "key": "小学到高中语文教学",
-    "name": "📚小学到高中语文教学",
+    "name": "📚语文教学",
     "type": 3,
     "api": "csp_Bili",
     "searchable":0,
@@ -67,65 +66,65 @@
 },
 {
     "key": "小学到高中数学教学",
-    "name": "📚小学到高中数学教学",
+    "name": "📚数学教学",
     "type": 3,
     "api": "csp_Bili",
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/1SEK4EW5mFFM.json",
-   "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
+    "ext": "http://154.37.152.74:8888/down/1SEK4EW5mFFM.json"
+   
 },
 {
     "key": "小学到高中英语教学",
-    "name": "📚小学到高中英语教学",
+    "name": "📚英语教学",
     "type": 3,
     "api": "csp_Bili",
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/Vh0Sh2Zzmy88.json",
-    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
+    "ext": "http://154.37.152.74:8888/down/Vh0Sh2Zzmy88.json" 
 },
 {
     "key": "初中到高中物理教学",
-    "name": "📚初中到高中物理教学",
+    "name": "📚物理教学",
     "type": 3,
     "api": "csp_Bili",
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/fN48lcwCueV8.json",
-    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "ext": "http://154.37.152.74:8888/down/fN48lcwCueV8.json"
+   
+},
 {
     "key": "初中到高中化学教学",
-    "name": "📚初中到高中化学教学",
+    "name": "📚化学教学",
     "type": 3,
     "api": "csp_Bili",
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/P4k1p7MQa7V9.json",
-    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "ext": "http://154.37.152.74:8888/down/P4k1p7MQa7V9.json"
+},
 {
     "key": "初中到高中史地教学",
-    "name": "初中到高中史地教学",
+    "name": "史地教学",
     "type": 3,
     "api": "csp_Bili",
     "searchable":0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/gtPly7FMlpMX.json",
-    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "ext": "http://154.37.152.74:8888/down/gtPly7FMlpMX.json"
+},
 { 
    "key":"幼儿教育",
-   "name":"📚🌏幼儿启蒙教育专区",
+   "name":"🌏幼儿教育",
    "type":3,
    "api":"csp_Bili",
    "searchable":0,
    "quickSearch":1,
    "filterable":1,
-   "ext":"http://154.37.152.74:8888/down/FOazGcXRDEb1.json","jar": ""
+   "ext":"http://154.37.152.74:8888/down/FOazGcXRDEb1.json"
 },      
 {	 
    "key": "宝宝巴士",
@@ -145,7 +144,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext":"http://154.37.152.74:8888/down/pERutiySfKL8.json", "jar":""
+    "ext":"http://154.37.152.74:8888/down/pERutiySfKL8.json"
 },  
 {
     "key":"幼儿启蒙",
@@ -155,7 +154,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/2uQwMbbfd7Lu.json","jar": ""
+    "ext":"http://154.37.152.74:8888/down/2uQwMbbfd7Lu.json"
 }, 
 { 
     "key":"幼儿百",
@@ -165,7 +164,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/Zs7AHpJlGRrN.json","jar": ""
+    "ext":"http://154.37.152.74:8888/down/Zs7AHpJlGRrN.json"
 },  
 { 
     "key":"幼儿古诗",
@@ -175,7 +174,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/eKqdj2Trl0N1.json","jar": ""
+    "ext":"http://154.37.152.74:8888/down/eKqdj2Trl0N1.json"
 },
 {
     "key":"幼小衔接",
@@ -185,7 +184,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/9Fc2xwT6xV8j.json","jar": ""
+    "ext":"http://154.37.152.74:8888/down/9Fc2xwT6xV8j.json"
 },
 {     
     "key":"幼儿国学",
@@ -195,8 +194,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/8NyFfuA6FVpn.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/8NyFfuA6FVpn.json"
+    
 },
 {
     "key":"小灯塔科学",
@@ -206,7 +205,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/SJplMqzt6CHR.txt","jar": ""
+    "ext":"http://154.37.152.74:8888/down/SJplMqzt6CHR.txt"
 },
 {
     "key":"小灯塔地理",
@@ -216,7 +215,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/tNQIW9nbUZCN.json","jar": ""
+    "ext":"http://154.37.152.74:8888/down/tNQIW9nbUZCN.json"
 },
 { 
     "key": "灯塔地理",
@@ -226,7 +225,6 @@
     "searchable": 0,
     "quickSearch": 1,
     "filterable": 1,
-    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
     "ext": "http://154.37.152.74:8888/down/LOcl8qbhgrJR.json"
 },
 {
@@ -237,7 +235,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/WsXEC9HNslz3.json","jar": ""
+    "ext":"http://154.37.152.74:8888/down/WsXEC9HNslz3.json"
 },  
 { 
     "key": "小灯塔百科",
@@ -247,7 +245,7 @@
     "searchable": 0,
     "quickSearch": 1,
     "filterable": 1,
-    "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
+    
     "ext": "http://154.37.152.74:8888/down/ZSUbOCO3KRHu.json"
 },
 {
@@ -258,7 +256,7 @@
     "searchable": 0,
     "quickSearch": 1,
     "filterable": 1,
-    "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
+   
     "ext": "http://154.37.152.74:8888/down/X1SyvrQdOCa1.json"
 },
 
@@ -270,8 +268,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/YEqBhZzgZYFX.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/YEqBhZzgZYFX.json"
+  
 },
 {
     "key":"儿童识字",
@@ -281,8 +279,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/9f2Rzk4HAwYm.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/9f2Rzk4HAwYm.json"
+  
 },
 {
     "key":"儿童英语",
@@ -292,8 +290,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/lppoKKljwPCb.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/lppoKKljwPCb.json"
+  
 },
 {           
     "key":"儿童硬笔",
@@ -303,8 +301,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/QI50tGzMR8UY.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/QI50tGzMR8UY.json"
+   
 },
 {
     "key":"儿童思维",
@@ -314,8 +312,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/0ptQiLYTBIQP.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/0ptQiLYTBIQP.json"
+    
 },
 {
     "key":"儿童口才",
@@ -325,8 +323,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/RnVV4pAGCfFd.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/RnVV4pAGCfFd.json"
+   
 },
 {
     "key":"儿童编程",
@@ -336,8 +334,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/TzXvyMWv0rcs.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/TzXvyMWv0rcs.json"
+   
 },
 {
     "key":"儿童武术",
@@ -347,8 +345,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/7j6leMAwcTS1.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/7j6leMAwcTS1.json"
+   
 },
 {
     "key":"兴趣培养",
@@ -358,8 +356,8 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/PsLWGhoV0Hmz.json",
-    "jar": ""
+    "ext":"http://154.37.152.74:8888/down/PsLWGhoV0Hmz.json"
+ 
 },
 {
 	"key":"csp_儿童早教",
@@ -379,7 +377,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext":"http://154.37.152.74:8888/down/MyV0xeIjAo9r.json", "jar":""
+    "ext":"http://154.37.152.74:8888/down/MyV0xeIjAo9r.json"
 },  
 {
 	"key":"csp_知识乐园",
@@ -393,7 +391,7 @@
 },
 { 
     "key": "学堂",
-    "name": "📚幼儿到高中全科教学",
+    "name": "📚全科教学",
     "type": 3,
     "api": "csp_Bili",
     "searchable":0,
@@ -403,18 +401,8 @@
     "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
 },
 {
-    "key": "小学初高中课程",
-    "name": "📚小学初高中课程",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/9FAkKu6X17a7.json"
-},
-{
     "key": "小学初高中北师大版课程",
-    "name": "📚小学初高中北师大版课程",
+    "name": "📚北师大课程",
     "type": 3,
     "api": "csp_Bili",
     "searchable": 1,
@@ -424,7 +412,7 @@
 },  
 {
     "key": "小学初高中苏教版课程",
-    "name": "📚小学初高中苏教版课程",
+    "name": "📚苏教版课程",
     "type": 3,
     "api": "csp_Bili",
     "searchable": 1,
@@ -434,7 +422,7 @@
 },   
 {
     "key": "沪教版课程",
-    "name": "📚小学初高中沪教版课程",
+    "name": "📚沪教版课程",
     "type": 3,
     "api": "csp_Bili",
     "searchable": 1,
@@ -1049,7 +1037,7 @@
     "filterable":1,
     "ext":"http://154.37.152.74:8888/down/o9DNqfC51glg.json"
 },
-{"key": "csp_Yj1211","name": "🛰🅱️网红直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1 }, 
+
 {
     "key": "魔都动漫",
     "name": "📺魔都动漫",
@@ -1091,95 +1079,11 @@
     "filterable": 0,
     "ext":"https://jihulab.com/ymz1231/json/-/raw/main/央视经典.json"
 },
-{      
-    "key": "QQ单独采集json接口",
-	"name": "💞📺腾讯视频",
-	"type": 1,
-	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qq/?ac=list ",
-	"searchable": 1,
-    "playUrl": "https://jx.xmflv.com/?url=",
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": ""
-},
-{
-    "key": "qiyi单独采集json接口",
-	"name": "💞📺爱奇艺",
-	"type": 1,
-	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qiyi/?ac=list",
-	"searchable": 1,
-    "playUrl": "https://jx.xmflv.com/?url=",
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": ""
-},
-{
-    "key": " youku单独采集json接口",
-	"name": "💞📺 优酷视频",
-	"type": 1,
-	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/youku/?ac=list",
-	"searchable": 1,
-    "playUrl": "https://jx.xmflv.com/?url=",
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": ""
-},
-{
-    "key": " mgtv单独采集json接口",
-	"name": "💞📺 芒果视频",
-	"type": 1,
-	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/mgtv/?ac=list",
-	"searchable": 1,
-    "playUrl": "https://jx.xmflv.com/?url=",
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": ""
-},
-{
-    "key": " sohu单独采集json接口",
-	"name": "️💞📺 搜狐视频",
-	"type": 1,
-	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/sohu/?ac=list",
-	"searchable": 1,
-    "playUrl": "https://jx.aidouer.net/?url=",
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": ""
-},
-   
-	
-        {    
-            
-      "key": "VIP影视",
-      "name": "📡📺 眉飞色舞",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/VIP影视.json"
-    },
-    {
-      
-      "key": "csp_xpath___动漫巴士",
-      "name": "📡📺家庭幸福动漫影院",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/动漫巴士.json"
-    },
-    {
-        
- 
-  "key":"法治报道","name":"📡📺法治报道","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/TPVjZqqjb6YG.json"},
-		{
-  "key":"欢天喜地","name":"📡📺欢天喜地","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {
     
-      "key": "佳偶天成",
-      "name": "📡📺佳偶天成",
+      "key": "天成",
+      "name": "📡📺天成",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -1187,7 +1091,7 @@
       "filterable": 0,
       "ext": "http://154.37.152.74:8888/down/MozkWIOUYQRu.json"
     
-    }],
+ }],
 
    "parses":[
     
