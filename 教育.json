@@ -35,7 +35,7 @@
 },
 {
    "key": "学生全版本教材辅导",
-    "name": "📚学生全版本教材辅导",
+    "name": "📚全版本教材辅导",
     "type": 3,
     "api": "csp_Bili",
     "searchable": 1,
@@ -400,36 +400,7 @@
     "ext": "http://154.37.152.74:8888/down/nMvSwuJWRFGA.json",
     "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
 },
-{
-    "key": "小学初高中北师大版课程",
-    "name": "📚北师大课程",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/sfuoigFJQEZ2.json"
-},  
-{
-    "key": "小学初高中苏教版课程",
-    "name": "📚苏教版课程",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/xb88BYh830BJ.json"
-},   
-{
-    "key": "沪教版课程",
-    "name": "📚沪教版课程",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "http://154.37.152.74:8888/down/KWWOv1jhdMzv.json"
-},
+
 {
     "key": "哔哩小学",
     "name": "🅱️小学同步教育课堂",
@@ -571,7 +542,7 @@
 }, 
 {
     "key":"学生考试课外辅导",
-    "name":"🛰学生考试课外辅导",
+    "name":"🛰考试课外辅导",
     "type":3,
     "api":"csp_Bili",
     "searchable":1,
