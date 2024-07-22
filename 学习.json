@@ -34,923 +34,902 @@
     "播放链接":"https://m.douban.com+href=\"&&\""}
 },
 
-  {
- "key": "英语学习大全",
-      "name": "📚🅱️英语学习大全🅱️",
-      "type": 3,
-      "api": "csp_Bili",
-     
-     
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/TDYesag0Y3kc.json"
-    },
-    
-        {
-
-
+{
+    "key": "英语学习大全",
+    "name": "📚英语学习大全🅱️",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/TDYesag0Y3kc.json"
+},
+{
    "key": "学生全版本教材辅导",
-      "name": "📚🅱️学生全版本教材辅导",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/7MXRrrob1lXh.json"
-    },
-    
-        {
-    
-  
-    
-"key": "小学到高中语文教学",
-"name": "📚♻️小学到高中语文教学",
-"type": 3,
-"api": "csp_Bili",
-"searchable":0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "http://154.37.152.74:8888/down/0LK88dfQ7ACw.json",
-"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "name": "📚学生全版本教材辅导",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/7MXRrrob1lXh.json"
+},
+{  
+    "key": "小学到高中语文教学",
+    "name": "📚小学到高中语文教学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable":0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/0LK88dfQ7ACw.json",
+    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
+},
 {
-
-
-"key": "小学到高中数学教学",
-"name": "📚♻️小学到高中数学教学",
-"type": 3,
-"api": "csp_Bili",
-"searchable":0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "http://154.37.152.74:8888/down/1SEK4EW5mFFM.json",
-"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "key": "小学到高中数学教学",
+    "name": "📚小学到高中数学教学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable":0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/1SEK4EW5mFFM.json",
+   "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
+},
 {
-
-
-"key": "小学到高中英语教学",
-"name": "📚♻️小学到高中英语教学",
-"type": 3,
-"api": "csp_Bili",
-"searchable":0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "http://154.37.152.74:8888/down/Vh0Sh2Zzmy88.json",
-"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "key": "小学到高中英语教学",
+    "name": "📚小学到高中英语教学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable":0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/Vh0Sh2Zzmy88.json",
+    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
+},
 {
-
-"key": "初中到高中物理教学",
-"name": "📚♻️初中到高中物理教学",
-"type": 3,
-"api": "csp_Bili",
-"searchable":0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "http://154.37.152.74:8888/down/fN48lcwCueV8.json",
-"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "key": "初中到高中物理教学",
+    "name": "📚初中到高中物理教学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable":0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/fN48lcwCueV8.json",
+    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
 {
-
-
-"key": "初中到高中化学教学",
-"name": "📚♻️初中到高中化学教学",
-"type": 3,
-"api": "csp_Bili",
-"searchable":0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "http://154.37.152.74:8888/down/P4k1p7MQa7V9.json",
-"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "key": "初中到高中化学教学",
+    "name": "📚初中到高中化学教学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable":0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/P4k1p7MQa7V9.json",
+    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
 {
-
-"key": "初中到高中史地教学",
-"name": "📚♻️初中到高中史地教学",
-"type": 3,
-"api": "csp_Bili",
-"searchable":0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "http://154.37.152.74:8888/down/gtPly7FMlpMX.json",
-"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "key": "初中到高中史地教学",
+    "name": "初中到高中史地教学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable":0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/gtPly7FMlpMX.json",
+    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+{ 
+   "key":"幼儿教育",
+   "name":"📚🌏幼儿启蒙教育专区",
+   "type":3,
+   "api":"csp_Bili",
+   "searchable":0,
+   "quickSearch":1,
+   "filterable":1,
+   "ext":"http://154.37.152.74:8888/down/FOazGcXRDEb1.json","jar": ""
+},      
+{	 
+   "key": "宝宝巴士",
+    "name": "📚宝宝巴士",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "http://154.37.152.74:8888/down/sdbC7hDFiUBT.json"
+},
 {
+    "key": "幼儿动画",
+    "name": "📚幼儿动画",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext":"http://154.37.152.74:8888/down/pERutiySfKL8.json", "jar":""
+},  
+{
+    "key":"幼儿启蒙",
+    "name":"📚幼儿启蒙",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/2uQwMbbfd7Lu.json","jar": ""
+}, 
+{ 
+    "key":"幼儿百",
+    "name":"📚🌏幼儿百家姓",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/Zs7AHpJlGRrN.json","jar": ""
+},  
+{ 
+    "key":"幼儿古诗",
+    "name":"📚幼儿古诗",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/eKqdj2Trl0N1.json","jar": ""
+},
+{
+    "key":"幼小衔接",
+    "name":"📚幼小衔接",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/9Fc2xwT6xV8j.json","jar": ""
+},
+{     
+    "key":"幼儿国学",
+    "name":"📚幼儿国学",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/8NyFfuA6FVpn.json",
+    "jar": ""
+},
+{
+    "key":"小灯塔科学",
+    "name":"📚小灯塔科学",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/SJplMqzt6CHR.txt","jar": ""
+},
+{
+    "key":"小灯塔地理",
+    "name":"📚小灯塔地理",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/tNQIW9nbUZCN.json","jar": ""
+},
+{ 
+    "key": "灯塔地理",
+    "name": "📚小灯塔地理",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/LOcl8qbhgrJR.json"
+},
+{
+    "key":"小灯塔人文",
+    "name":"📚小灯塔人文",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/WsXEC9HNslz3.json","jar": ""
+},  
+{ 
+    "key": "小灯塔百科",
+    "name": "📚小灯塔百科",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
+    "ext": "http://154.37.152.74:8888/down/ZSUbOCO3KRHu.json"
+},
+{
+    "key": "小灯塔国学",
+    "name": "📚小灯塔国学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
+    "ext": "http://154.37.152.74:8888/down/X1SyvrQdOCa1.json"
+},
 
-
- 
-
-		 
- 
-
-    
-    
-   "key":"幼儿启蒙","name":"📚🌏幼儿启蒙教育专区","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-"ext":"http://154.37.152.74:8888/down/FOazGcXRDEb1.json","jar": ""},      
-   {
-		 
-  "key": "宝宝巴士",
-      "name": "📚🌏幼儿宝宝巴士学习",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://154.37.152.74:8888/down/sdbC7hDFiUBT.json"
-    },
-    {
-
- "key": "幼儿动画学习启蒙",
-            "name": "📚🌏幼儿动画学习启蒙导📚🌏学习内容欢迎定制",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-     "ext":"http://154.37.152.74:8888/down/pERutiySfKL8.json", "jar":""},  
-    {
-
-"key":"幼儿启蒙","name":"📚🌏幼儿学十万为什么么","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-"ext":"http://154.37.152.74:8888/down/2uQwMbbfd7Lu.json","jar": ""}, 
-   
-        	  { 
-
-
-"key":"幼儿启蒙","name":"📚🌏幼儿学习百家姓么","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-"ext":"http://154.37.152.74:8888/down/Zs7AHpJlGRrN.json","jar": ""}, 
-   
-        	  { 
-
-
-"key":"幼儿启蒙","name":"📚🌏幼儿学古诗弟子归规","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-"ext":"http://154.37.152.74:8888/down/eKqdj2Trl0N1.json","jar": ""}, 
-   
-        	  { 
-
-
- "key": "小灯塔百科",
-      "name": "📚🌏幼儿动物植物启蒙",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
-      "ext": "http://154.37.152.74:8888/down/ZSUbOCO3KRHu.json"
-    },
-    {
-      "key": "小灯塔国学",
-      "name": "📚🌏幼儿财商启蒙学习",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/usUVFlgeG8Ch.jar",
-      "ext": "http://154.37.152.74:8888/down/X1SyvrQdOCa1.json"
-    },
-    {
-     
-     
-   
-
- "key":"幼小衔接","name":"📚🌏幼儿学前班衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/9Fc2xwT6xV8j.json","jar": ""},
-    {
-              
-            "key":"幼儿国学",
-            "name":"📚🌏幼儿国学知识学习",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://154.37.152.74:8888/down/8NyFfuA6FVpn.json",
-            "jar": ""
-        },
-        
-        {
-           
-            "key":"儿童拼音",
-            "name":"📚🌏幼儿拼音知识学习",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://154.37.152.74:8888/down/YEqBhZzgZYFX.json",
-            "jar": ""
-        },
-        
-        {
-            "key":"儿童识字",
-            "name":"📚🌏幼儿识字训练学习",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://154.37.152.74:8888/down/9f2Rzk4HAwYm.json",
-            "jar": ""
-        },
-        
-        {
-            "key":"儿童英语",
-            "name":"📚🌏幼儿英语知识学习",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://154.37.152.74:8888/down/lppoKKljwPCb.json",
-            "jar": ""
-        },
-        {
-           "key":"小灯塔科学","name":"📚🌏幼儿科学知识学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,
-"filterable":1,"ext":"http://154.37.152.74:8888/down/SJplMqzt6CHR.txt","jar": ""},
-		{"key":"小灯塔地理","name":"📚🌏幼儿地理知识学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/tNQIW9nbUZCN.json","jar": ""},
-		{"key":"小灯塔人文","name":"📚🌏幼儿人文知识学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/WsXEC9HNslz3.json","jar": ""},
-		{ 
-            
-        "key":"儿童硬笔",
-        "name":"📚🌏幼儿硬笔知识学习  ",
-        "type":3,
-        "api":"csp_Bili",
-        "searchable":0,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"http://154.37.152.74:8888/down/QI50tGzMR8UY.json",
-        "jar": ""
-        },
-        {
-            "key":"儿童思维",
-        "name":"📚🌏幼儿思维知识学习 ",
-        "type":3,
-        "api":"csp_Bili",
-        "searchable":0,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"http://154.37.152.74:8888/down/0ptQiLYTBIQP.json",
-        "jar": ""
-        },
-        {
-            "key":"儿童口才",
-            "name":"📚🌏幼儿口才机能学习",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"http://154.37.152.74:8888/down/RnVV4pAGCfFd.json",
-            "jar": ""
-        },
-        
-        {
-        "key":"儿童编程",
-        "name":"📚🌏幼儿编程知识学习",
-        "type":3,
-        "api":"csp_Bili",
-        "searchable":0,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"http://154.37.152.74:8888/down/TzXvyMWv0rcs.json",
-        "jar": ""
-        },
-        
-        {
-        "key":"儿童武术",
-        "name":"📚🌏幼儿武术知识学习",
-        "type":3,
-        "api":"csp_Bili",
-        "searchable":0,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"http://154.37.152.74:8888/down/7j6leMAwcTS1.json",
-        "jar": ""
-    },
-
-        {
-        "key":"兴趣培养",
-        "name":"📚🌏幼儿兴趣培养学习",
-        "type":3,
-        "api":"csp_Bili",
-        "searchable":0,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"http://154.37.152.74:8888/down/PsLWGhoV0Hmz.json",
-        "jar": ""
-        },
-   {
-     
-	    
-	 
-   "key": "小灯塔地理",
-      "name": "📚🌏幼儿地理知识学习",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/LOcl8qbhgrJR.json"
-    },
-    {
-		 
-   
- 
-            
-	      "key":"csp_儿童早教启蒙",
-    "name":"📚🌏幼儿早教启蒙教育",
+{          
+    "key":"儿童拼音",
+    "name":"📚儿童拼音",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/YEqBhZzgZYFX.json",
+    "jar": ""
+},
+{
+    "key":"儿童识字",
+    "name":"📚儿童识字",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/9f2Rzk4HAwYm.json",
+    "jar": ""
+},
+{
+    "key":"儿童英语",
+    "name":"📚儿童英语",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/lppoKKljwPCb.json",
+    "jar": ""
+},
+{           
+    "key":"儿童硬笔",
+    "name":"📚儿童硬笔",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/QI50tGzMR8UY.json",
+    "jar": ""
+},
+{
+    "key":"儿童思维",
+    "name":"📚儿童思维",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/0ptQiLYTBIQP.json",
+    "jar": ""
+},
+{
+    "key":"儿童口才",
+    "name":"📚儿童口才",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/RnVV4pAGCfFd.json",
+    "jar": ""
+},
+{
+    "key":"儿童编程",
+    "name":"📚儿童编程",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/TzXvyMWv0rcs.json",
+    "jar": ""
+},
+{
+    "key":"儿童武术",
+    "name":"📚儿童武术",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/7j6leMAwcTS1.json",
+    "jar": ""
+},
+{
+    "key":"兴趣培养",
+    "name":"📚兴趣培养",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/PsLWGhoV0Hmz.json",
+    "jar": ""
+},
+{
+	"key":"csp_儿童早教",
+    "name":"📚儿童早教",
     "type":3,
     "api":"csp_Bili",
     "searchable":0,
     "quickSearch":0,
     "filterable":1,
     "ext":"http://154.37.152.74:8888/down/obRtBFDTskIz.json" 
-     },
-    {   
+},
+{   
 	"key": "益智",
-            "name": " 📚🌏幼儿益智动画学习",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-     "ext":"http://154.37.152.74:8888/down/MyV0xeIjAo9r.json", "jar":""},  
-    {
-
-	   
-	   
-	    "key":"csp_儿童知识乐园",
-    "name":"📚🌏儿童课外知识乐园",
+    "name": " 📚🌏益智动画",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext":"http://154.37.152.74:8888/down/MyV0xeIjAo9r.json", "jar":""
+},  
+{
+	"key":"csp_知识乐园",
+    "name":"📚知识乐园",
     "type":3,
     "api":"csp_Bili",
     "searchable":0,
     "quickSearch":0,
     "filterable":1,
     "ext":"http://154.37.152.74:8888/down/9FqCEpY5jUaI.json" 
-     },
-    {
-
-      
+},
+{ 
     "key": "学堂",
-"name": "📚♻️幼儿到高中全科教学",
-"type": 3,
-"api": "csp_Bili",
-"searchable":0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "http://154.37.152.74:8888/down/nMvSwuJWRFGA.json",
-"jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"},
+    "name": "📚幼儿到高中全科教学",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable":0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/nMvSwuJWRFGA.json",
+    "jar":"http://154.37.152.74:8888/down/6GQNaAqxJ1wx.jar"
+},
 {
-
-
-
- 
-
- "key": "小学初高中人教版课程",
-      "name": "📚🅱️小学初高中人教版课程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/9FAkKu6X17a7.json"
-    },
-    
-        {
-
- "key": "小学初高中北师大版课程",
-      "name": "📚🅱️小学初高中北师大版课程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/sfuoigFJQEZ2.json"
-    },
-    
-        {
-
-
- "key": "小学初高中苏教版课程",
-      "name": "📚🅱️小学初高中苏教版课程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/xb88BYh830BJ.json"
-    },
-    
-        {
-    
-
-
-
-
-
-
- "key": "沪教版课程",
-     "name": "📚🅱️小学初高中沪教版课程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/KWWOv1jhdMzv.json"
-    },
-    
-        {
-    
-
-
-   
-      "key": "哔哩小学",
-      "name": "🅱️🏆小学同步教育课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/h7B8Fo3Z4yZW.json"
-    },
-    {
-      "key": "哔哩初中",
-      "name": "🅱️🏆初中同步教育课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/tbJoubjnDyyy.json"
-    },
-    {
-      "key": "哔哩高中",
-      "name": "🅱️🏆高中同步教育课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/bOCmQJV5gZHl.json"
-    },
-    {
-    
-     "key":"儿童","name":"📚🏆幼儿课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/dvKSyG1AfwjN.json"},
-    
-    {"key":"小学","name":"📚🏆小学课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/ezKtccJEjyJ5.json"},
-    
-    {"key":"初中","name":"📚🏆初中课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/PTuMeAeaa8ih.json"},
-    
-    {"key":"高中","name":"📚🏆高中课外学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/O624gIcKpfQW.json"},
-    
-    {
-    "key":"学外语","name":"🧡💋快乐学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://154.37.152.74:8888/down/Q0BggIjrNBGx.json"},
+    "key": "小学初高中课程",
+    "name": "📚小学初高中课程",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/9FAkKu6X17a7.json"
+},
+{
+    "key": "小学初高中北师大版课程",
+    "name": "📚小学初高中北师大版课程",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/sfuoigFJQEZ2.json"
+},  
+{
+    "key": "小学初高中苏教版课程",
+    "name": "📚小学初高中苏教版课程",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/xb88BYh830BJ.json"
+},   
+{
+    "key": "沪教版课程",
+    "name": "📚小学初高中沪教版课程",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/KWWOv1jhdMzv.json"
+},
+{
+    "key": "哔哩小学",
+    "name": "🅱️小学同步教育课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/h7B8Fo3Z4yZW.json"
+},
+{
+    "key": "哔哩初中",
+    "name": "🅱️初中同步教育课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/tbJoubjnDyyy.json"
+},
+{
+    "key": "哔哩高中",
+    "name": "🅱️高中同步教育课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/bOCmQJV5gZHl.json"
+},
+{
+    "key":"儿童",
+    "name":"📚儿童课外",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"http://154.37.152.74:8888/down/dvKSyG1AfwjN.json"
+},
+{
+    "key":"小学",
+    "name":"📚小学课外",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"http://154.37.152.74:8888/down/ezKtccJEjyJ5.json"
+},
+{
+    "key":"初中",
+    "name":"📚初中课外",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"http://154.37.152.74:8888/down/PTuMeAeaa8ih.json"
+},
+{
+    "key":"高中",
+    "name":"📚高中课外",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"http://154.37.152.74:8888/down/O624gIcKpfQW.json"
+},
+{
+    "key":"学外语",
+    "name":"🧡快乐学外语",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/Q0BggIjrNBGx.json"
+},
 { 
-			
-      
-      
-			 
-			"key": "少儿教育",
-			"name": "📚🏆少儿在线教育",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "http://154.37.152.74:8888/down/6MvxNpUIehuR.json"
-		}, {
-			"key": "小学课堂",
-			"name": "📚🏆小学在线课堂",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "http://154.37.152.74:8888/down/IeHx4OuI1sev.json"
-		}, {
-			"key": "初中课堂",
-			"name": "📚🏆初中在线课堂",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "http://154.37.152.74:8888/down/jdxIBBnF50oQ.json"
-		}, {
-			"key": "高中教育",
-			"name": "📚🏆高中在线课堂",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "http://154.37.152.74:8888/down/v3VXIkovOJXQ.json"
-		}, {
- "key":"学生考试课外辅导","name":"🛰🅱️学生考试课外辅导📚🌏学习内容欢迎定制","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/54iBpWgLp1oP.json"
-  },
-
-  
-    {
-"key": "吾爱英语",
-      "name": "🛰🅱️外语学习",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/8WiycaSdfb9f.json"
-    },
-    
-    {
-         
-	  "key": "Biliych",
-			"name": "🛰🅱️明星演唱",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "http://154.37.152.74:8888/down/yrjfTixlA2Zx.json"
-		}, 
-    
-    {
-     
-      "key": "吾爱户外",
-      "name": "🛰🅱️户外运动",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/p4OhfxrIQm7s.json"
-    },
-    {
-
- 
-      "key": "天下美食",
-      "name": "🛰🅱️天下美食",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/DeDpUMCLALfX.json"
-    },
-    {
-      "key": "戏曲杂苑",
-      "name": "🛰🅱️戏曲杂苑",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/CbC3uFlvilfr.json"
-    },
-
-    {
-"key":"最新电影电视欣赏","name":"🛰🅱️最新港台电视剧欣赏","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/mWDdLTGkNrGl.json"},
-
-    {
-
- "key": "csp_XPath_鹅直播",
-      "name": "🛰🅱️体育直播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://154.37.152.74:8888/down/FYDQAKVtP4rN.json"
- },
-    
-        
-
+	"key": "少儿教育",
+	"name": "📚少儿在线教育",
+	"type": 3,
+	"api": "csp_Bili",
+	"style": {
+		"type": "rect",
+		"ratio": 1.597
+	},
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext": "http://154.37.152.74:8888/down/6MvxNpUIehuR.json"
+}, 
 {
-
-
-
+	"key": "小学课堂",
+	"name": "📚小学在线课堂",
+	"type": 3,
+	"api": "csp_Bili",
+	"style": {
+		"type": "rect",
+		"ratio": 1.597
+	},
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext": "http://154.37.152.74:8888/down/IeHx4OuI1sev.json"
+}, 
+{
+	"key": "初中课堂",
+	"name": "📚初中在线课堂",
+	"type": 3,
+	"api": "csp_Bili",
+	"style": {
+		"type": "rect",
+		"ratio": 1.597
+	},
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext": "http://154.37.152.74:8888/down/jdxIBBnF50oQ.json"
+}, 
+{
+	"key": "高中教育",
+	"name": "📚高中在线课堂",
+	"type": 3,
+	"api": "csp_Bili",
+	"style": {
+		"type": "rect",
+		"ratio": 1.597
+	},
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext": "http://154.37.152.74:8888/down/v3VXIkovOJXQ.json"
+}, 
+{
+    "key":"学生考试课外辅导",
+    "name":"🛰学生考试课外辅导",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/54iBpWgLp1oP.json"
+},
+{
+    "key": "吾爱英语",
+    "name": "🛰外语学习",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/8WiycaSdfb9f.json"
+},
+{
+     
+    "key": "吾爱户外",
+    "name": "🛰户外运动",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/p4OhfxrIQm7s.json"
+},
+{ 
+    "key": "吾爱乐器",
+    "name": "🛰吾爱乐器",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/pE2RfpjBHTAB.json"
+},
+{ 
+    "key": "吾爱搭配",
+    "name": "🛰🅱️️穿衣搭",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/g9ygjzBZLJ2k.json"
+},
+{
+    "key": "天下美食",
+    "name": "🛰🅱️天下美食",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/DeDpUMCLALfX.json"
+},
+{
+    "key": "戏曲杂苑",
+    "name": "🛰🅱️戏曲杂苑",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/CbC3uFlvilfr.json"
+},
+{
+    "key":"电影电视",
+    "name":"🛰最新港台剧",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/mWDdLTGkNrGl.json"
+},
+{
+    "key":"健康知识",
+    "name":"🛰🅱️健康知识",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/if322rzbrEjX.json"
+},
+{
+    "key":"名人讲坛",
+    "name":"🛰🅱️名人讲坛",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/13DrvPAAhwNR.json"
+},
+{
+    "key":"法治在线",
+    "name":"🛰🅱️️法治在线",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/RSCxZYkrmKXA.json"
+},
+{
+    "key":"知识讲座",
+    "name":"🛰🅱️知识讲座",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/Bf0yfzkNsPCb.json"
+},
+{    
+	"key": "Biliych",
+	"name": "🛰🅱️明星演唱",
+	"type": 3,
+	"api": "csp_Bili",
+	"style": {
+		"type": "rect",
+		"ratio": 1.597
+	},
+	"searchable": 1,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext": "http://154.37.152.74:8888/down/yrjfTixlA2Zx.json"
+},  
+{   
+    "key": "NoSearch_csp_BBB",
+    "name": "🛰🅱️娱乐视频",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/v906ZzHrtR6r.json"
+},
+{		 
+	"key": "MTV",
+	"name": "🛰🅱️明星MV ",
+	"type": 3,
+	"api": "csp_Bili",
+	"style": {
+		"type": "rect",
+		"ratio": 1.597
+	},
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext": "http://154.37.152.74:8888/down/HFbnx4STZgBu.json"
+},
+{
+    "key": "哔哩音乐",
+    "name": "🛰🅱️️音乐欣赏",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/TqGJlfS7i8Ws.json"
+},
+{
+    "key": "短剧",
+    "name": "🛰短剧欣赏",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+    },
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "http://154.37.152.74:8888/down/GAwjiPpmC91h.M3U"
+},
+{    
+    "key": "解说",
+    "name": "🛰电影解说",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+    },
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "http://154.37.152.74:8888/down/sSBd6FUJnAWH.json"
+},
+{     
+    "key": "棋牌",
+    "name": "🛰棋牌娱乐",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+    },
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "http://154.37.152.74:8888/down/HWZ0MW1KkiY2.json"
+},
+{ 
+    "key": "央视经典",
+    "name": "🛰央视经典",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/j4jfibwWQorP.json"
+},
+{
+    "key": "体育",
+    "name": "🛰体育比赛",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+    },
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "http://154.37.152.74:8888/down/TLDVqVjLyhdM.json"
+},
+{      
+    "key": "足球",
+    "name": "🛰足球爱好",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+    },
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "http://154.37.152.74:8888/down/uWJMBjqmwyPj.json"
+},  
+{	   
+	"key": "企鹅体育xp",
+	"name": "🛰体育欣赏",
+	"type": 3,
+	"api": "csp_XPath",
+	"style": {
+		"type": "list"
+	},
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext": "http://154.37.152.74:8888/down/nxafwuJzFSik.json"
+}, 
+{
+    "key":"csp_XPath3_88",
+    "name":"🛰比赛看球",
+    "type":3,
+    "api":"XPathMacFilter",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0,
+    "ext":"http://154.37.152.74:8888/down/z3aeZOfeOOBq.json"
+},
+{ 
+    "key": "球类",
+    "name": "🛰球类运动",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/cOaGTW1neGbf.json"
+},
+{
+    "key":"xp_体育赛事",
+    "name":"🛰体育赛事",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/wBIo2duc1jCg.json"
+},
+{
+    "key": "兴趣健身",
+    "name": "🛰兴趣健身",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
+    "ext": "http://154.37.152.74:8888/down/gDdVrNx5IJda.lson"
+},
+{
+    "key": "csp_XPath_鹅直播",
+    "name": "🛰体育直播",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "http://154.37.152.74:8888/down/FYDQAKVtP4rN.json"
+},
+{
  "key": "吾爱球星",
-      "name": "🛰🅱️足球明星",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/CpEPtljrZAOz.json"
-
- },
-    
-        
-
+    "name": "🛰足球明星",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/CpEPtljrZAOz.json"
+},
 {
- "key":"健康知识","name":"🛰🅱️健康知识","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/if322rzbrEjX.json"},
-    
-    {
-
-
-"key":"名人讲坛","name":"🛰🅱️名人讲坛","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/13DrvPAAhwNR.json"
- },
-    {
-
- "key":"法治在线","name":"🛰🅱️️法治在线","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/RSCxZYkrmKXA.json"},
-    
-    {
-
-
-"key":"知识讲座","name":"🛰🅱️知识讲座","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/Bf0yfzkNsPCb.json"
- },
-    {
-
-
-      "key": "哔哩音乐",
-      "name": "🛰🅱️️音乐欣赏",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/TqGJlfS7i8Ws.json"
-    },
-    
-
- {
-
-      "key": "短剧",
-      "name": "🛰🅱️短剧欣赏",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://154.37.152.74:8888/down/GAwjiPpmC91h.M3U"
-    },
-
-
-  {
-     
-      
-      
-      "key": "搭讪",
-      "name": "🛰🅱️搭讪技巧",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://154.37.152.74:8888/down/WOZUUC1JzahG.json"
-    },
-
-
-   {
-      
-      "key": "解说",
-      "name": "🛰🅱️电影解说",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://154.37.152.74:8888/down/sSBd6FUJnAWH.json"
-    },
-
-
-
-   {
-      "key": "体育",
-      "name": "🛰🅱️体育比赛",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://154.37.152.74:8888/down/TLDVqVjLyhdM.json"
-    },
-
-
-   {
-      
-     
-      "key": "棋牌",
-      "name": "🛰🅱️棋牌娱乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://154.37.152.74:8888/down/HWZ0MW1KkiY2.json"
-    },
-
-
-   {
-       
- 
-
-  
-      "key": "兴趣健身",
-      "name": "🛰🅱️兴趣健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/gDdVrNx5IJda.lson"
-    },
-    {
-     
-       
-      "key": "NoSearch_csp_BBB",
-      "name": "🛰🅱️娱乐视频",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/v906ZzHrtR6r.json"
-    },
-    
-        {
-       
-          "key": "足球",
-      "name": "🛰🅱️足球爱好",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://154.37.152.74:8888/down/uWJMBjqmwyPj.json"
-    },  
-    {
-      
- 
-   
-     	   
-	  "key": "企鹅体育xp",
-			"name": "🛰🅱️体育欣赏",
-			"type": 3,
-			"api": "csp_XPath",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "http://154.37.152.74:8888/down/nxafwuJzFSik.json"
-		}, {
-			 
-			"key": "MTV",
-			"name": "🛰🅱️明星MV ",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "http://154.37.152.74:8888/down/HFbnx4STZgBu.json"
-		}, { 
-
-      "key": "央视经典",
-      "name": "🛰🅱️央视经典",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar":"http://154.37.152.74:8888/down/aFJpFIwliVqo.jar",
-      "ext": "http://154.37.152.74:8888/down/j4jfibwWQorP.json"
-    },
-  
-    {
-       "key":"csp_XPath3_88","name":"🛰🅱️比赛看球","type":3,"api":"XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/z3aeZOfeOOBq.json"},
+    "key":"哔哩哔哩",
+    "name":"🛰探索发现纪录片",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/ANo68EvMu4IH.json"
+},
+{ 
+    "key": "动物世界",
+    "name": "🛰动物世界",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/pXRWKxeDUUwN.json"
+},
 {
- 
- 
- 
-
-"key":"xp_体育赛事","name":"🛰🅱️体育赛事","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/wBIo2duc1jCg.json"},
-	
-{ 
-        
-
-"key":"女团热舞","name":"💃🅱️广场热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/lNpizJ3H60xD.json"},
-{ 
-"key": "吾爱乐器",
-      "name": "🛰🅱️️吹拉弹唱",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/pE2RfpjBHTAB.json"
-    },
-    {
- 
-"key": "球类","name": "🛰🅱️球类运动","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/cOaGTW1neGbf.json"},
-{ 
- "key": "吾爱搭配",
-      "name": "🛰🅱️️穿衣搭",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/g9ygjzBZLJ2k.json"
-    },
-    {
-
-"key": "歌舞","name": "🛰🅱️印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/T4GNlbBejeZr.json"},
-  {
-
-"key": "足球","name": "🛰🅱️足球赛场","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/p30ERKSb7PK8.json","jar":"https://notabug.org/yzzsjc/TVBox-Pro/raw/master/jar/bili.jar"},
-{
-
-"key": "车模","name": "🛰🅱️美女车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/TnIOTcXn9hck.json"},
-{"key": "小姐姐","name": "🛰🅱️美女模特","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://154.37.152.74:8888/down/RJaYYDw2E5A6.json"},
-{
-
- 
-
-
-  
-        
-
-
-"key":"哔哩哔哩","name":"🛰🅱️探索发现纪录片","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/ANo68EvMu4IH.json"},
-{ 
-
-
-
-
- 
-
-
-
- "key": "动物世界私人影院",
-      "name": "🛰🅱️动物世界私人影院",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/pXRWKxeDUUwN.json"
-    },
-    
-        {
-
-
-   
-
-     "key":"csp_软件教程",
+    "key":"csp_软件教程",
     "name":"🛰🅱️电脑软件教程学习",
     "type":3,
     "api":"csp_Bili",
@@ -958,39 +937,39 @@
     "quickSearch":0,
     "filterable":1,
     "ext":"http://154.37.152.74:8888/down/11VJGnNrA4It.json"
-    },
-    {
-         "key": "Excel教程",
-      "name": "🛰🅱️xcel教程学习",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/yekS0lCFxVNS.json"
-    },
-    {
+},
+{
+    "key": "Excel教程",
+    "name": "🛰🅱️xcel教程学习",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/yekS0lCFxVNS.json"
+},
+{
 
-     "key": "PS",
-      "name": "🛰🅱️电脑图片教程学习",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/MybFPUEB2LsN.txt"
-    },
-    {
-
-
- "key": "PS","name": "🛰🅱️电脑PS教程","type": 3,"api": "csp_Bili",
-"searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext"		 
-   : "http://154.37.152.74:8888/down/EbQNftDufWXt.json"},
+    "key": "PS",
+    "name": "🛰🅱️电脑图片教程学习",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/MybFPUEB2LsN.txt"
+},
+{
+    "key": "PS",
+    "name": "🛰🅱️电脑PS教程",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "http://154.37.152.74:8888/down/EbQNftDufWXt.json"
+},
 { 
-
-  
     "key":"csp_哔哩全集",
     "name":"🛰🅱️戏️曲相声",
     "type":3,
@@ -999,120 +978,9 @@
     "quickSearch":0,
     "filterable":1,
     "ext":"http://154.37.152.74:8888/down/eyjW414L40b6.json"
-   },
-    {
-    "key":"csp_戏曲合集",
-    "name":"🛰🅱️舞台戏曲",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/Fmyca7QaMYPN.json"
-
-    },
-    {
-   
-    "key":"csp_美食天地",
-    "name":"🛰🅱️美食美味",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/3Um9UEN12zKI.json"
-     },
-    {
-    "key":"csp_棋牌娱乐",
-    "name":"🛰🅱️棋牌娱乐",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/L5tuXaVpmiHw.json"
-    },
-    {
-   
-   
-
-    
-
-
-  
-     "key":"csp_软件教程",
-    "name":"🛰🅱️电脑教程",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/T1kbKG6eJc3I.json"
-    },
-    {
-
-     "key": "PS",
-      "name": "🛰🅱️图片教程",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/WCbHHulPAMiC.json"
-    },
-    {
-
-
-  
-  
-    "key":"csp_戏曲合集",
-    "name":"🛰🅱️舞台戏曲",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/c1GGgB4Sppcs.json"
-
-    },
-    {
-   
-    "key":"csp_美食天地",
-    "name":"🛰🅱️美食天地",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/RMGxQ4CqfKNX.json"
-     },
-    {
-    "key":"csp_棋牌娱乐",
-    "name":"🛰🅱️棋牌休闲",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"http://154.37.152.74:8888/down/Ay9OWDuuGuLZ.json"
-    },
-    {
-   
- "key": "美食食谱",
-      "name": "🛰🅱️美食食谱",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://154.37.152.74:8888/down/HkkeeuVutSsK.json"
-
- },
-    {
-
-
- "key": "旅游风景",
+},
+{
+     "key": "旅游风景",
       "name": "🛰🅱️旅游风景",
       "type": 3,
       "api": "csp_Bili",
@@ -1120,46 +988,9 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://154.37.152.74:8888/down/MyjbVAObkJuH.json"
-
- },
-    {
- "key": "太极拳健身",
-      "name": "🛰🅱️太极健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://154.37.152.74:8888/down/kmrL1cyPhAyT.json"
-
- },
-    {
-
-
- "key": "广场舞",
-      "name": "🛰🅱️广场舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://154.37.152.74:8888/down/3k1EKLQLNrp9.json"
-
- },
-    {
-
- "key": "纪录片",
-      "name": "🛰🅱️纪录片",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://154.37.152.74:8888/down/mAc26RQyEA4x.json"
-
- },
-    {
- "key": "名人演讲私人影院",
+},
+{
+     "key": "名人演讲",
       "name": "🛰🅱️名人演讲",
       "type": 3,
       "api": "csp_Bili",
@@ -1167,26 +998,18 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://154.37.152.74:8888/down/3fNy1wK3vdCH.json"
-
-
-    },
-    
-        {
-
-
- "key": "考公考证",
-      "name": "🛰🅱️考公考证学习影院",
+},
+{
+     "key": "考公考证",
+      "name": "🛰🅱️考公考证学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://154.37.152.74:8888/down/YQkkCPp357zx.json"
-
- },
-    {
-		 
-
+},
+{
     "key": "csp_Anime1",
       "name": "🛰🅱️日本动画",
       "type": 3,
@@ -1194,14 +1017,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-  
-
-
- 
-       
-
+},
+{
       "key": "Aid",
       "name": "🛰🅱️急救教学",
       "type": 3,
@@ -1211,551 +1028,125 @@
       "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 3.8
-      }
-    },
-        {
- 
-"key": "口腔保健",
-"name": "💋🅱️口腔保健",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 1,
-"ext":"http://154.37.152.74:8888/down/mLNrLY95M0A1.json"}, {
-
-            
-            
-            
-             "key":"中医中药","name":"🛰🅱️中医中药","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/o9DNqfC51glg.json"
-
+        "ratio": 3.8}
 },
-
-  {  "key":"csp_xpath_huyam","name":"🛰🅱️虎牙视频私人影院","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"http://154.37.152.74:8888/down/G3d0gPO8qDox.json"},
 {
-
-      "key": "csp_Yj1211","name": "🛰🅱️网红直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1 }, {
-      "key": "魔都动漫",
-            "name": "📺刻苦钻研动漫影厅",
-            "type": 1,
-            "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
-              "playUrl": "https://hd.iapijy.com/play?url=",
-           "searchable": 1,
-           "ext": "",
-            "quickSearch": 1,
-            "categories": ""
-          
-         },
-    {
- 
-
-    
-      "key":"️动漫巴士","name":"🛰🅱️动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/RTCF7VZNN47W.json"},
-{"key":"樱花动漫","name":"🛰🅱️樱花动漫·","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/C86FgK0xNIe8.json"},
-{ 
-      
-
-       
-	    "key": "ysjd",
-            "name": "🅱️🌏学习娱乐专区",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-"ext":"https://jihulab.com/ymz1231/json/-/raw/main/央视经典.json", "jar":""
-
-     
- },
-    
-		{
-			
-
-  
-      
-                  "key": "QQ单独采集json接口",
-				"name": "💞📺腾讯视频",
-				"type": 1,
-				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qq/?ac=list ",
-				"searchable": 1,
-                  "playUrl": "https://jx.xmflv.com/?url=",
-				"quickSearch": 1,
-				"filterable": 1,
-				 "categories": ""
-				
-    },
-    {
-
-                 "key": "qiyi单独采集json接口",
-				"name": "💞📺爱奇艺",
-				"type": 1,
-			"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qiyi/?ac=list",
-				"searchable": 1,
-                 "playUrl": "https://jx.xmflv.com/?url=",
-				"quickSearch": 1,
-				"filterable": 1,
-				 "categories": ""
-    },
-    {
-     
-
-                 "key": " youku单独采集json接口",
-				"name": "💞📺 优酷视频",
-				"type": 1,
-				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/youku/?ac=list",
-				"searchable": 1,
-                  "playUrl": "https://jx.xmflv.com/?url=",
-				"quickSearch": 1,
-				"filterable": 1,
-				 "categories": ""
-    },
-    {
-
-
-                  "key": " mgtv单独采集json接口",
-				"name": "💞📺 芒果视频",
-				"type": 1,
-				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/mgtv/?ac=list",
-				"searchable": 1,
-                 "playUrl": "https://jx.xmflv.com/?url=",
-				"quickSearch": 1,
-				"filterable": 1,
-				 "categories": ""
-    },
-    {
-                 
-
-                  "key": " sohu单独采集json接口",
-				"name": "️💞📺 搜狐视频",
-				"type": 1,
-				"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/sohu/?ac=list",
-				"searchable": 1,
-                   "playUrl": "https://jx.aidouer.net/?url=",
-				"quickSearch": 1,
-				"filterable": 1,
-				 "categories": ""
-    },
-    {
-     
-        
-      
-      
-      
- "key": "csp_SNzy",
-      "name": "📡📺爱家人",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "大陆综艺",
-        "爽文短剧",
-        "韩剧",
-        "泰剧", 
-        "港剧",
-        "日剧",
-        "台剧",
-        "欧美剧",
-        "日韩动漫",
-        "日韩综艺",
-        "4K电影",
-        "影视解说",
-        "动画片",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "海外剧",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "港台综艺",
-        "欧美综艺"
-      ]
-    },
-    {
-     
-      
- 
-     
- 
-  "key": "csp_xpath_rttks","name": "📡📺爱父辈蓝光","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://154.37.152.74:8888/down/UqoXJIg2YZ8T.json"},
-
-
-  
-  {
-    
-   
-   
-  
-    "key": "wolongzyw",
-    "name": "📡📺家庭和睦",
-    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": false,
-    "status": false,
-    "reverseOrder": false,
-    "id": 252,
-    "search": 2,
-    "type": 0
-  },
-  {
-   
-    "key": "xinlangapi",
-    "name": "📡📺恩爱百年",
-    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-     "playUrl": " https://www.xinlangjiexi.com/m3u8/?url=",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 255,
-    "search": 2,
-    "type": 0
-  },
-  {
-    "key": "lziapi",
-    "name": " 📡📺相濡以沫",
-    "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 256,
-    "search": 2,
-    "type": 0
-  },
-  {
-    
-    "key": "sdzyapi",
-    "name": "📡📺恩爱如初",
-    "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 258,
-    "search": 2,
-    "type": 0
-  },
-  {
-    
-   
-   
-   
-   
-    "key": "bajiecaiji",
-    "name": "📡📺相敬如宾",
-    "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 265,
-    "search": 2,
-    "type": 0
-  },
-  {
-    
-     
-       
-     
-      
-      "key": "Lib",
-      "name": "📡📺恩爱永恒",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pw/"
-    },
-        {
-      
-  
-    
-    
-  
-      
-         
-	   "key": " 艾旦影视",
-    "name": "📡📺 积爱成福",
-    "api": "https://lovedan.net/api.php/provide/vod/at/xml/ ",
-    "jiexiUrl": "https://www.gszyv.com/m3u8/?url= ",
-    "group": "",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 260,
-    "search": 2,
-    "type": 0
-  },
-  {
-	    
-    
- 
-	   
- 
-        "key": "快车资源",
-    "name": "📡📺创新发展",
-    "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 4,
-    "search": 1
-  },
-  {
-
-
-  "key": "无尽资源",
-    "name": "📡📺互利共赢",
-    "api": "https://api.wujinapi.me/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 5,
-    "search": 1
-  },
-  
-  {
-  
-		    
-		    
-"key":"笑逐颜开","name":"📡📺笑逐颜开私人影院","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
-    { "key": "两情相悦私人影院",
-      "name": "📡📺两情相悦",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.37.152.74:8888/down/WCnNlWC7Hc8o.json"
-    },
-    
-
-	{  	
-
-    
-    
-   
-    
-    
-   
-     
-      
-      
-      
-      "key": "Gnpt资源",
-				"name": "💞📺浪漫体贴私人影院",
-				"type": 1,
-			"api": "https://www.gnpt.net/api.php/provide/vod/?ac=list",
-				"searchable": 1,
-                 "playUrl": "https://jx.xmflv.com/?url=",
-				"quickSearch": 1,
-				"filterable": 1,
-				 "categories": ""
+    "key": "口腔保健",
+    "name": "💋🅱️口腔保健",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext":"http://154.37.152.74:8888/down/mLNrLY95M0A1.json"}, 
+{           
+    "key":"中医中药",
+    "name":"🛰🅱️中医中药",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://154.37.152.74:8888/down/o9DNqfC51glg.json"
 },
-
-  
-	{
-	    
-   
-       
-  
- "key":"祥祥影视","name":"📡📺幸福雀跃","type":1,"api":"http://141.147.146.105/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-
-    
-		{
-      
-     
-     
-     "key": "人人资源",
-    "name": "📡📺爱意满满",
-    "api": "https://ymck.pro/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "https://www.8090g.cn/?url= ",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 4,
-    "search": 1
-  },
-  {
-            
-           
-            "key": "Xinsj",
-            "name": "📡📺珠连璧合",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080yy3.com/",
-            "jar": "https://jihulab.com/z666/nb666/-/raw/main/jar/fan928.jar"
-        },
-        
+{"key": "csp_Yj1211","name": "🛰🅱️网红直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1 }, 
 {
- 
-    
-  
-    
-      
-      
-      
-      
-         "key": "影猫の仓库",
-    "name": "📡📺喜形于色私人影院",
-    "api": "https://ymck.pro/api.php/provide/vod/at/xml",
-    "jiexiUrl": "https://www.playm3u8.cn/jiexi.php?url=",
-    "group": "",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 260,
-    "search": 2,
-    "type": 0
-  },
-  {
-      
-      
-      
-      
-      
-       
-      
-      
-     
-       "key":"福如云霞"        ,"name":"📡📺  福如云霞","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/ZeNxeGHldkb7.json"},
-{  "key":"福如东海"   ,"name":"📡📺 福如东海","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.37.152.74:8888/down/SSerH5baAaKy.json"},
-{ "key":"福寿安康私"      ,"name":"📡📺 福寿安康","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/cyaeEnc9xvCE.json"},
-{ "key":"福禄寿喜"      ,"name":"📡📺 福禄寿喜","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://154.37.152.74:8888/down/tp01Mha8bpXr.json"},
-     {   "key":"福气绵绵","name":"📡📺 福气绵绵","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/O3HzgLkOD0Pq.json"},
-{  "key":"福慧双修","name":"📡📺 福慧双修","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://154.37.152.74:8888/down/HYQdjbMnqX4S.json"},
+    "key": "魔都动漫",
+    "name": "📺魔都动漫",
+    "type": 1,
+    "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+    "playUrl": "https://hd.iapijy.com/play?url=",
+    "searchable": 1,
+    "ext": "",
+    "quickSearch": 1,
+    "categories": ""
+},
+{
+    "key":"️动漫巴士",
+    "name":"🛰🅱️动漫巴士",
+    "type":3,
+    "api":"csp_XPathFilter",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"http://154.37.152.74:8888/down/RTCF7VZNN47W.json"
+},
+{
+    "key":"樱花动漫",
+    "name":"🛰🅱️樱花动漫·",
+    "type":3,
+    "api":"csp_XPath",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"http://154.37.152.74:8888/down/C86FgK0xNIe8.json"
+},
+{    
+	"key": "ysjd",
+    "name": "🅱️🌏学习娱乐专区",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext":"https://jihulab.com/ymz1231/json/-/raw/main/央视经典.json"
+},
 {      
-      
-  
-    
-
-
- 
- 
+    "key": "QQ单独采集json接口",
+	"name": "💞📺腾讯视频",
+	"type": 1,
+	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qq/?ac=list ",
+	"searchable": 1,
+    "playUrl": "https://jx.xmflv.com/?url=",
+	"quickSearch": 1,
+	"filterable": 1,
+	"categories": ""
+},
+{
+    "key": "qiyi单独采集json接口",
+	"name": "💞📺爱奇艺",
+	"type": 1,
+	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/qiyi/?ac=list",
+	"searchable": 1,
+    "playUrl": "https://jx.xmflv.com/?url=",
+	"quickSearch": 1,
+	"filterable": 1,
+	"categories": ""
+},
+{
+    "key": " youku单独采集json接口",
+	"name": "💞📺 优酷视频",
+	"type": 1,
+	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/youku/?ac=list",
+	"searchable": 1,
+    "playUrl": "https://jx.xmflv.com/?url=",
+	"quickSearch": 1,
+	"filterable": 1,
+	"categories": ""
+},
+{
+    "key": " mgtv单独采集json接口",
+	"name": "💞📺 芒果视频",
+	"type": 1,
+	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/mgtv/?ac=list",
+	"searchable": 1,
+    "playUrl": "https://jx.xmflv.com/?url=",
+	"quickSearch": 1,
+	"filterable": 1,
+	"categories": ""
+},
+{
+    "key": " sohu单独采集json接口",
+	"name": "️💞📺 搜狐视频",
+	"type": 1,
+	"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/from/sohu/?ac=list",
+	"searchable": 1,
+    "playUrl": "https://jx.aidouer.net/?url=",
+	"quickSearch": 1,
+	"filterable": 1,
+	"categories": ""
+},
    
-   
-    "key": "情深意长","name": "📡📺情深意长","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://154.37.152.74:8888/down/SOQQ3FTGsHbQ.json"},
- 
- 
-{ 
- 
-   
-   
-"key": "两情相悦",
-      "name": "📡📺两情相悦",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://154.37.152.74:8888/down/VVuSqz43lySd.json"
-    },
- 
- 
-    
-         {
- 
- 
-  
-    
-    "key":"有剪輯都是從外",
-"name":"📡📺孜孜不倦",
-"type":0,
-"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
-"searchable":1,
-"quickSearch":1,
- "playUrl": " https://hhjiexi.com/play/?url= ",
-"filterable":0,
- "categories": ""
-    },
-    
-    {
- 
-           "key": "海洋资源",
-      "name": "📡📺发家致富",
-      "type": 0,
-      "api": "https://www.seacms.org/zyapi.php",
-      "searchable": 1,
-      "jiexiUrl": " https://www.huaqi.live/?url= ",
-       "playUrl": "",
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": ""
-  },
-  
-    { 
-    
-    
-    
-    "key":"站务邮箱",
-"name":"📡📺勤学苦练",
-"type":0,
-"api":" https://www.wolongzy.cc/api.php/provide/vod/from/wolong/at/xml/",
-"searchable":1,
-"quickSearch":1,
- "playUrl": "https://jx.wolongzywcdn.com:65/m3u8.php?url=",
- 
- "categories": ""
-
-     },
-    {
-      
-   
-
-  
- 
- 
-
- 
-  
-"key":"豆瓣高分","name":"📡📺豆瓣高分","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://154.37.152.74:8888/down/fksqir88TQGm.json"},
-		{
- 
- 
-   "key": "csp_AppYsV2_Mxone",
-      "name": "📡📺鲨鱼资源网",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playUrl": " https://jx.m3u8.pw/?url= ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    
 	
         {    
             
