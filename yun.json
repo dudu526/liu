@@ -479,7 +479,7 @@
 	"type": 3,
 	"api": "csp_Netfixtv",
 	"playerType": 2,
-	"filterable": 1,
+	"jar": "http://cdn.qiaoji8.com/fix240620.jar",
 	"ext": "http://mpanso.com/"
 },
 {
@@ -487,9 +487,7 @@
 	"name": "☁️云播┃影视",
 	"type": 3,
 	"api": "csp_Tvyb",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
+	"jar": "http://cdn.qiaoji8.com/fix240620.jar"
 },
 {
     "key":"柠檬App",
@@ -497,6 +495,7 @@
     "type":3,
     "api":"csp_Nmvod",
     "playerType":2,
+    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
     "ext":"https://api.cnmcom.com/webcloud/relay.php?url="
 },
 {
@@ -504,17 +503,16 @@
     "name":"月亮┃App",
     "type":3,
     "api":"csp_Ylys",
-    "playerType":2
+    "playerType":2,
+    "jar": "http://cdn.qiaoji8.com/fix240620.jar"
 },
 {
     "key":"时常",
     "name":"时常┃APP",
     "type":3,
     "api":"csp_qiao3",
-    "searchable":1,
-    "quickSearch":1,
     "playerType":1,
-    "filterable":0,
+    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
     "ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
 },
 {
@@ -522,11 +520,8 @@
     "name":"石榴┃直连",
     "api":"csp_ShiLiuDY",
     "type":3,
-    "filterable":1,
     "playerType":2,
-    "quickSearch":1,
-    "searchable":1,
-    "ext":""
+    "jar": "http://cdn.qiaoji8.com/fix240620.jar"
 },
 {
     "key":"短剧吧",
