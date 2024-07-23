@@ -474,24 +474,26 @@
     "ext": "PuMSXHTlG7XuTPHibOyZteVY1Bbl6ZlsngCB5cB1aT58PUe5B3fTqNqjFlBRB9gUMb3sBH9Ft54h0DfIM8NZXSQZqL75gkSizgP2bD/FXuU7p8/Atv6nfoWFwgWWXehi2e2bdvWuIZd/iTHBLXJLOErvkwen7BleeOnRa7QzqB9XmOsv/M7AccHoiKa8JPMRfdXDPQT4Edlrk+Fij03D/m66ytOrnl7W4tGxo7UmbtKLKuR1Tr2ureKLLfmEqHCOdCwtqw2Bgi/NNxDXZQAx5ihHKNNipXEDhBXyQBJgfnsuxCd95h1gj845lEYqc/PK/WI9fbWCuQMfd50aPtxG/rRQjPClzRSEk+KOpz9njtQ="
 },
 {
-	"key": "csp_Netfixtv",
-	"name": "👀至臻┃无广4K",
-	"type": 3,
-	"api": "csp_Netfixtv",
-	"playerType": 2,
-	"jar": "http://cdn.qiaoji8.com/fix240620.jar",
-	"ext": "http://mpanso.com/"
+    "key":"AI4",
+    "name":"AI4┃直连",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
+    "playerType":2,
+    "ext":"http://39.98.32.241:6688/api.php/zjv3.vod"
 },
 {
-	"key": "云播",
-	"name": "☁️云播┃影视",
-	"type": 3,
-	"api": "csp_Tvyb",
-	"jar": "http://cdn.qiaoji8.com/fix240620.jar"
+    "key":"鸣人",
+    "name":"鸣人┃直连",
+    "type":1,
+    "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+    "jar": "http://cdn.qiaoji8.com/fix240620.jar",
+    "playerType":2
+
 },
 {
     "key":"柠檬App",
-    "name":"柠檬┃App",
+    "name":"柠檬┃直连",
     "type":3,
     "api":"csp_Nmvod",
     "playerType":2,
@@ -500,7 +502,7 @@
 },
 {
     "key":"月亮App",
-    "name":"月亮┃App",
+    "name":"月亮┃直连",
     "type":3,
     "api":"csp_Ylys",
     "playerType":2,
@@ -508,7 +510,7 @@
 },
 {
     "key":"时常",
-    "name":"时常┃APP",
+    "name":"时常┃直连",
     "type":3,
     "api":"csp_qiao3",
     "playerType":1,
