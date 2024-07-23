@@ -972,7 +972,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext":"https://tv.nxog.top/m/Bilibili/少儿合集.json"
+    "ext":"http://154.37.152.74:8888/down/6MvxNpUIehuR.json"
 },
 {
     "key": "小学课堂",
@@ -982,7 +982,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小学课堂.json"
+    "ext":"http://154.37.152.74:8888/down/ezKtccJEjyJ5.json"
 },
 {
     "key": "初中课堂",
@@ -992,7 +992,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext":"https://tv.nxog.top/m/Bilibili/初中课堂.json"
+    "ext":"http://154.37.152.74:8888/down/PTuMeAeaa8ih.json"
 },
 {
     "key": "高中课堂",
@@ -1001,7 +1001,8 @@
     "api": "csp_Bili",
     "searchable": 0,
     "quickSearch": 0,
-    "filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/高中课堂.json"
+    "filterable": 1,
+    "ext":"http://154.37.152.74:8888/down/O624gIcKpfQW.json"
 },
 {
     "key":"小灯塔科学",
@@ -1011,7 +1012,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔科学.json"
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔科学.json"
 },
 {
     "key":"小灯塔地理",
@@ -1021,7 +1022,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔地理.json"
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔地理.json"
 },
 {
     "key":"小灯塔百科",
@@ -1031,7 +1032,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔百科.json"
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/json/小灯塔百科.json"
 },
 {
     "key":"小灯塔国学",
@@ -1041,7 +1042,7 @@
     "searchable":0,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://tv.nxog.top/m/Bilibili/小灯塔国学.json"
+    "ext":"https://notabug.org/liuyun/H--2024/src/master/json/小灯塔国学.json"
 },
 {
   "key": "cofig",
