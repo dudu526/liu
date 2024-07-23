@@ -767,8 +767,8 @@
     "key":"优",
     "name":"🧲优酷【官方】",
     "type":3,
-    "api":"https://yydf.540734621.xyz/QQ/js/drpy2.min.js",
-    "ext":"https://yydf.540734621.xyz/QQ/youku.js"
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/lib/yku.js"
 },
 
 
