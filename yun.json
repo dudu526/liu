@@ -475,7 +475,7 @@
 },
 {
     "key":"AI4",
-    "name":"AI4┃直连",
+    "name":"🎆┣雷神┫巧儿",
     "type":3,
     "api":"csp_AppYsV2",
     "jar": "http://cdn.qiaoji8.com/fix240620.jar",
@@ -484,7 +484,7 @@
 },
 {
     "key":"鸣人",
-    "name":"鸣人┃直连",
+    "name":"🎆┣鸣人┫巧儿",
     "type":1,
     "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
     "jar": "http://cdn.qiaoji8.com/fix240620.jar",
@@ -493,7 +493,7 @@
 },
 {
     "key":"柠檬App",
-    "name":"柠檬┃直连",
+    "name":"🎆┣柠檬┫巧儿",
     "type":3,
     "api":"csp_Nmvod",
     "playerType":2,
@@ -502,7 +502,7 @@
 },
 {
     "key":"月亮App",
-    "name":"月亮┃直连",
+    "name":"🎆┣月亮┃直连",
     "type":3,
     "api":"csp_Ylys",
     "playerType":2,
@@ -510,7 +510,7 @@
 },
 {
     "key":"时常",
-    "name":"时常┃直连",
+    "name":"🎆┣时常┫巧儿",
     "type":3,
     "api":"csp_qiao3",
     "playerType":1,
@@ -519,7 +519,7 @@
 },
 {
     "key":"sliu_spider",
-    "name":"石榴┃直连",
+    "name":"🎆┣石榴┫巧儿",
     "api":"csp_ShiLiuDY",
     "type":3,
     "playerType":2,
@@ -818,8 +818,8 @@
     "key":"优",
     "name":"🧲优酷【官方】",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext":"https://notabug.org/liuyun/H--2024/raw/master/lib/yku.js"
+    "api":"https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/dry2.js",
+    "ext":"https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/yku.js"
 },
 
 
