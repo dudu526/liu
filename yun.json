@@ -818,8 +818,8 @@
     "key":"优",
     "name":"🧲优酷【官方】",
     "type":3,
-    "api":"https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/dry2.js",
-    "ext":"https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/yku.js"
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/lib/yku.js"
 },
 
 
