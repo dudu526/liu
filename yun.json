@@ -517,12 +517,14 @@
 			"api": "csp_Duopan",
 			"playerType": 2,
 			"filterable": 1,
+            "jar": "./lib/xmmwudi.jar",
 			"ext": "http://mpanso.com/"
 		},
 		{
 			"key": "csp_wanou",
 			"name": "🧸玩偶┃无广4K",
 			"api": "csp_Wogg",
+            "jar": "./lib/xmmwudi.jar",
 			"type": 3,
 			"searchable": 1,
 			"playerType": 2,
@@ -536,17 +538,11 @@
 			"name": "🥛耐看┃APP",
 			"type": 3,
 			"api": "csp_Nkdy",
+            "jar": "./lib/xmmwudi.jar",
 			"playerType": 2,
 			"filterable": 1
 		},
-		{
-			"key": "csp_蚂蚁",
-			"name": "🐜蚂蚁┃无广",
-			"type": 1,
-			"api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-			"playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
-			"filterable": 1
-		},
+		
 		{
 			"key": "freeok",
 			"name": "🦁free┃独家",
@@ -559,6 +555,7 @@
 			"name": "💥火火┃独家",
 			"type": 3,
 			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "jar": "./lib/xmmwudi.jar",
 			"api": "csp_SaoHuo"
 		},
 		{
@@ -573,18 +570,21 @@
 			"key": "csp_农民",
 			"name": "🐶农民┃独家",
 			"type": 3,
+            "jar": "./lib/xmmwudi.jar",
 			"api": "csp_Nongm"
 		},
 		{
 			"key": "csp_全网",
 			"name": "🥣全网┃独家",
 			"type": 3,
+            "jar": "./lib/xmmwudi.jar",
 			"api": "csp_Quanwk"
 		},
 		{
 			"key": "csp_SP360",
 			"name": "🐠360┃官源",
 			"type": 3,
+            "jar": "./lib/xmmwudi.jar",
 			"api": "csp_SP360"
 		},
 		{
@@ -600,6 +600,7 @@
 			"name": "☁️云播┃影视",
 			"type": 3,
 			"api": "csp_Tvyb",
+            "jar": "./lib/xmmwudi.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -610,6 +611,7 @@
 			"type": 3,
 			"changeable": 1,
 			"api": "csp_Qiyou",
+            "jar": "./lib/xmmwudi.jar",
 			"playerType": "1"
 		},
 {
