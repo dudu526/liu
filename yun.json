@@ -140,23 +140,13 @@
     "changeable": 1
 },
 {
-	"key": "云播",
-	"name": "🎆┣云播┫影视",
-	"type": 3,
-	"api": "csp_Tvyb",
-    "jar": "./lib/xmmwudi.jar",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
-},
-{
 	"key": "QIYIU",
 	"name": "🎆┣奇优┫影视",
 	"type": 3,
-	"changeable": 1,
-	"api": "csp_Qiyou",
-    "jar": "./lib/xmmwudi.jar",
-    "playerType": "1"
+    "api": "csp_Qiyou",
+	"searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 {
 	"key": "csp_Netfixtv",
@@ -477,9 +467,10 @@
 },
 {
     "key": "FreeOK",
-    "name": "🎆┣琉芸┫影视",
+    "name": "🎆┣小米┫制作",
     "type": 3,
-    "api": "csp_FreeOK",
+	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+	"api": "csp_FreeOK",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
