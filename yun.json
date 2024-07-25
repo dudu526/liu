@@ -511,6 +511,108 @@
     "jar": "http://cdn.qiaoji8.com/fix240620.jar"
 },
 {
+			"key": "csp_Netfixtv",
+			"name": "👀至臻┃自营4K",
+			"type": 3,
+			"api": "csp_Duopan",
+			"playerType": 2,
+			"filterable": 1,
+			"ext": "http://mpanso.com/"
+		},
+		{
+			"key": "csp_wanou",
+			"name": "🧸玩偶┃无广4K",
+			"api": "csp_Wogg",
+			"type": 3,
+			"searchable": 1,
+			"playerType": 2,
+			"timeout": 30,
+			"changeable": 0,
+			"ext": "https://wogg.888484.xyz/"
+		},
+		
+		{
+			"key": "csp_Nkdy",
+			"name": "🥛耐看┃APP",
+			"type": 3,
+			"api": "csp_Nkdy",
+			"playerType": 2,
+			"filterable": 1
+		},
+		{
+			"key": "csp_蚂蚁",
+			"name": "🐜蚂蚁┃无广",
+			"type": 1,
+			"api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+			"playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
+			"filterable": 1
+		},
+		{
+			"key": "freeok",
+			"name": "🦁free┃独家",
+			"type": 3,
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+			"api": "csp_FreeOK"
+		},
+		{
+			"key": "huohuo",
+			"name": "💥火火┃独家",
+			"type": 3,
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+			"api": "csp_SaoHuo"
+		},
+		{
+			"key": "drpy_哔哩",
+			"name": "🎵哔哩┃合集",
+			"type": 3,
+			"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+			"playerType": 1,
+			"ext": "http://dt.xn--yety82d.love/js/B站.js"
+		},
+		{
+			"key": "csp_农民",
+			"name": "🐶农民┃独家",
+			"type": 3,
+			"api": "csp_Nongm"
+		},
+		{
+			"key": "csp_全网",
+			"name": "🥣全网┃独家",
+			"type": 3,
+			"api": "csp_Quanwk"
+		},
+		{
+			"key": "csp_SP360",
+			"name": "🐠360┃官源",
+			"type": 3,
+			"api": "csp_SP360"
+		},
+		{
+			"key": "360资源",
+			"name": "🌞去广┃测试",
+			"type": 1,
+			"api": "https://360zy.com/api.php/provide/vod",
+			"playUrl": "json:http://110.42.3.99:880/rmm.php/?url="
+			
+		},
+		{
+			"key": "云播",
+			"name": "☁️云播┃影视",
+			"type": 3,
+			"api": "csp_Tvyb",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "QIYIU",
+			"name": "🦌奇优┃影视",
+			"type": 3,
+			"changeable": 1,
+			"api": "csp_Qiyou",
+			"playerType": "1"
+		},
+{
     "key":"短剧吧",
     "name":"🎆┣短剧┫吧网",
     "type":3,
