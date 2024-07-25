@@ -97,7 +97,7 @@
 },
 {
     "key": "全网影视",
-    "name": "全网影视",
+    "name": "🎆┣全网┫影视",
     "type": 3,
     "api": "csp_Quanwk",
     "searchable": 1,
@@ -106,7 +106,7 @@
 },
 {
     "key": "最新影视",
-    "name": "最新影视",
+    "name": "🎆┣最新┫影视",
     "type": 3,
     "api": "csp_Zx1080",
     "searchable": 1,
@@ -115,7 +115,7 @@
 },
 {
     "key": "桃子影视",
-    "name": "桃子影视",
+    "name": "🎆┣桃子┫影视",
     "type": 3,
     "api": "csp_Taozi",
     "searchable": 1,
@@ -124,7 +124,7 @@
 },
 {
     "key": "达达龟",
-    "name": "达达龟",
+    "name": "🎆┣达龟┫影视",
     "type": 3,
     "api": "csp_Dadag",
     "searchable": 1,
@@ -132,17 +132,8 @@
     "filterable": 1
 },
 {
-	"key": "csp_Nkdy",
-	"name": "🥛耐看┃APP",
-	"type": 3,
-	"api": "csp_Nkdy",
-    "jar": "./lib/xmmwudi.jar",
-	"playerType": 2,
-	"filterable": 1
-},
-{
 	"key": "csp_SP360",
-	"name": "🐠360┃官源",
+	"name": "🎆┣三六┫官源",
 	"type": 3,
 	"api": "csp_SP360",
     "searchable": 1,
@@ -150,7 +141,7 @@
 },
 {
 	"key": "云播",
-	"name": "☁️云播┃影视",
+	"name": "🎆┣云播┫影视",
 	"type": 3,
 	"api": "csp_Tvyb",
     "jar": "./lib/xmmwudi.jar",
@@ -160,7 +151,7 @@
 },
 {
 	"key": "QIYIU",
-	"name": "🦌奇优┃影视",
+	"name": "🎆┣奇优┫影视",
 	"type": 3,
 	"changeable": 1,
 	"api": "csp_Qiyou",
@@ -169,7 +160,7 @@
 },
 {
 	"key": "csp_Netfixtv",
-	"name": "👀至臻┃自营4K",
+	"name": "🎆┣至臻┫自营4K",
 	"type": 3,
 	"api": "csp_Duopan",
 	"playerType": 2,
