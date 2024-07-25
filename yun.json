@@ -178,14 +178,6 @@
 	"ext": "http://mpanso.com/"
 },
 {
-	"key": "huohuo",
-	"name": "💥火火┃独家",
-	"type": 3,
-	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-    "jar": "./lib/xmmwudi.jar",
-	"api": "csp_SaoHuo"
-},
-{
     "key": "笙歌影视",
     "name": "🎆┣笙歌┫影视",
     "type": 3,
@@ -665,6 +657,13 @@
     "searchable": 1,
     "changeable": 1,
     "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+},
+{
+	"key": "360资源",
+	"name": "🎗┣琉芸┫资源",
+	"type": 1,
+	"api": "https://360zy.com/api.php/provide/vod",
+	"playUrl": "json:http://110.42.3.99:880/rmm.php/?url="	
 },
 {
     "key": "影视大全",
