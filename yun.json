@@ -96,6 +96,96 @@
     "filterable": 0
 },
 {
+    "key": "全网影视",
+    "name": "全网影视",
+    "type": 3,
+    "api": "csp_Quanwk",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "最新影视",
+    "name": "最新影视",
+    "type": 3,
+    "api": "csp_Zx1080",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "桃子影视",
+    "name": "桃子影视",
+    "type": 3,
+    "api": "csp_Taozi",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "达达龟",
+    "name": "达达龟",
+    "type": 3,
+    "api": "csp_Dadag",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+	"key": "csp_Nkdy",
+	"name": "🥛耐看┃APP",
+	"type": 3,
+	"api": "csp_Nkdy",
+    "jar": "./lib/xmmwudi.jar",
+	"playerType": 2,
+	"filterable": 1
+},
+{
+	"key": "csp_SP360",
+	"name": "🐠360┃官源",
+	"type": 3,
+	"api": "csp_SP360",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+	"key": "云播",
+	"name": "☁️云播┃影视",
+	"type": 3,
+	"api": "csp_Tvyb",
+    "jar": "./lib/xmmwudi.jar",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+},
+{
+	"key": "QIYIU",
+	"name": "🦌奇优┃影视",
+	"type": 3,
+	"changeable": 1,
+	"api": "csp_Qiyou",
+    "jar": "./lib/xmmwudi.jar",
+    "playerType": "1"
+},
+{
+	"key": "csp_Netfixtv",
+	"name": "👀至臻┃自营4K",
+	"type": 3,
+	"api": "csp_Duopan",
+	"playerType": 2,
+	"filterable": 1,
+    "jar": "./lib/xmmwudi.jar",
+	"ext": "http://mpanso.com/"
+},
+{
+	"key": "huohuo",
+	"name": "💥火火┃独家",
+	"type": 3,
+	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+    "jar": "./lib/xmmwudi.jar",
+	"api": "csp_SaoHuo"
+},
+{
     "key": "笙歌影视",
     "name": "🎆┣笙歌┫影视",
     "type": 3,
@@ -112,7 +202,6 @@
     "searchable": 1,
     "changeable": 1
 },
-
 {
     "key": "可可影视",
     "name": "🎆┣可可┫影视",
@@ -510,110 +599,7 @@
     "playerType":2,
     "jar": "http://cdn.qiaoji8.com/fix240620.jar"
 },
-{
-			"key": "csp_Netfixtv",
-			"name": "👀至臻┃自营4K",
-			"type": 3,
-			"api": "csp_Duopan",
-			"playerType": 2,
-			"filterable": 1,
-            "jar": "./lib/xmmwudi.jar",
-			"ext": "http://mpanso.com/"
-		},
-		{
-			"key": "csp_wanou",
-			"name": "🧸玩偶┃无广4K",
-			"api": "csp_Wogg",
-            "jar": "./lib/xmmwudi.jar",
-			"type": 3,
-			"searchable": 1,
-			"playerType": 2,
-			"timeout": 30,
-			"changeable": 0,
-			"ext": "https://wogg.888484.xyz/"
-		},
 		
-		{
-			"key": "csp_Nkdy",
-			"name": "🥛耐看┃APP",
-			"type": 3,
-			"api": "csp_Nkdy",
-            "jar": "./lib/xmmwudi.jar",
-			"playerType": 2,
-			"filterable": 1
-		},
-		
-		{
-			"key": "freeok",
-			"name": "🦁free┃独家",
-			"type": 3,
-			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-			"api": "csp_FreeOK"
-		},
-		{
-			"key": "huohuo",
-			"name": "💥火火┃独家",
-			"type": 3,
-			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "jar": "./lib/xmmwudi.jar",
-			"api": "csp_SaoHuo"
-		},
-		{
-			"key": "drpy_哔哩",
-			"name": "🎵哔哩┃合集",
-			"type": 3,
-			"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-			"playerType": 1,
-			"ext": "http://dt.xn--yety82d.love/js/B站.js"
-		},
-		{
-			"key": "csp_农民",
-			"name": "🐶农民┃独家",
-			"type": 3,
-            "jar": "./lib/xmmwudi.jar",
-			"api": "csp_Nongm"
-		},
-		{
-			"key": "csp_全网",
-			"name": "🥣全网┃独家",
-			"type": 3,
-            "jar": "./lib/xmmwudi.jar",
-			"api": "csp_Quanwk"
-		},
-		{
-			"key": "csp_SP360",
-			"name": "🐠360┃官源",
-			"type": 3,
-            "jar": "./lib/xmmwudi.jar",
-			"api": "csp_SP360"
-		},
-		{
-			"key": "360资源",
-			"name": "🌞去广┃测试",
-			"type": 1,
-			"api": "https://360zy.com/api.php/provide/vod",
-			"playUrl": "json:http://110.42.3.99:880/rmm.php/?url="
-			
-		},
-		{
-			"key": "云播",
-			"name": "☁️云播┃影视",
-			"type": 3,
-			"api": "csp_Tvyb",
-            "jar": "./lib/xmmwudi.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "QIYIU",
-			"name": "🦌奇优┃影视",
-			"type": 3,
-			"changeable": 1,
-			"api": "csp_Qiyou",
-            "jar": "./lib/xmmwudi.jar",
-			"playerType": "1"
-		},
 {
     "key":"短剧吧",
     "name":"🎆┣短剧┫吧网",
