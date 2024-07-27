@@ -496,14 +496,16 @@
     "filterable": 0
 },
 {
-    "key": "星芽短剧",
-    "name": "🎆┣星芽┫短剧",
-    "type": 3,
-    "api": "csp_AppXY",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
-},
+            "key": "hipy_js_星芽短剧app",
+            "name": "星芽短剧app(drpy_t3)",
+            "type": 3,
+            "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "http://47.108.190.141/hipy/drpy_js/星芽短剧[优].js"
+        },
 {
     "key": "良品短剧",
     "name": "🎆┣良品┫短剧",
