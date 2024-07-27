@@ -1104,7 +1104,8 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://notabug.org/liuyun/H--2024/raw/master/json/BiLi.json"
+    "ext": "https://notabug.org/liuyun/H--2024/raw/master/json/BiLi.json",
+    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
 },
 {
     "key": "MV",
