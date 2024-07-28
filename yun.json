@@ -497,7 +497,7 @@
 },
 {
             "key": "hipy_js_星芽短剧app",
-            "name": "星芽短剧app(drpy_t3)",
+            "name": "星芽短剧app",
             "type": 3,
             "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
             "searchable": 1,
@@ -976,7 +976,7 @@
     "key":"dr_优酷",
     "name":"🏠优酷【官方】",
     "type":3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dry2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 
