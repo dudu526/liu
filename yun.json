@@ -238,6 +238,12 @@
     "api":"csp_Wexyuyueys"
 },
 {
+    "key": "铁剧影视",
+    "name": "🎆┣铁剧┫影视",
+    "type": 3,
+    "api": "csp_AppBr"
+},
+{
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
     "type": 3,
@@ -254,28 +260,28 @@
 },
 {
     "key": "专线",
-    "name": "🎆┣专线┫秒播",
+    "name": "🚝┣专线┫秒播",
     "type": 3,
     "api": "csp_Zx4k",
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
 },
 {
     "key": "Jpys",
-    "name": "🎆┣金牌┫秒播",
+    "name": "🐭┣金牌┫秒播",
     "type": 3,
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Jpys"
 },
 {
     "key": "文采",
-    "name": "🎆┣文采┫秒播",
+    "name": "💮┣文采┫秒播",
     "type": 3,
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_Jpys"
 },
 {
     "key": "YCyz",
-    "name": "🎆┣原创┫无广",
+    "name": "☀┣原创┫无广",
     "type": 3,
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "api": "csp_YCyz"
@@ -289,19 +295,55 @@
 },
 {
     "key": "煤球",
-    "name": "🎆┣煤球┫多线",
+    "name": "🍓┣煤球┫多线",
     "type": 3,
     "api": "csp_Appmq",
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
 },
 {
     "key": "萌米",
-    "name": "🎆┣萌米┫多线",
+    "name": "👀┣萌米┫多线",
     "type": 3,
     "api": "csp_AppTT",
     "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-},       
+}, 
+{
+	"key": "云播",
+	"name": "☁️┣云播┫影视",
+	"type": 3,
+	"api": "csp_Tvyb",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+},
+{
+	"key": "csp_DADAG",
+	"name": "⭕️┣剧圈┫影视",
+	"type": 3,
+	"api": "csp_Dadag",
+    "jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+},
+{
+	"key": "QIYIU",
+	"name": "🦌┣奇优┫影视",
+	"type": 3,
+	"api": "csp_Qiyou",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+}, 
+{
+	"key": "csp_Nkdy",
+	"name": "🥛┣耐看┫影视",
+	"type": 3,
+	"api": "csp_Nkdy",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
+},
+{
+	"key": "csp_zhizhen",
+	"name": "🌹┣至臻┫4K4K",
+	"type": 3,
+	"api": "csp_Duopan",
+	"jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48",
+	"ext": {"site_urls": ["http://mihdr.top","http://mpanso.com"]}
+},
 {
     "key": "hipy_js_短剧TV网",
     "name": "📛┣TV网┫短剧",
@@ -539,15 +581,6 @@
     "changeable": 0 
 },        
 {
-    "key": "Iktv",
-    "name": "🎵KTV┃K歌",
-    "type": 3,
-    "api": "csp_Iktv",
-    "searchable": 1,
-    "changeable": 0,
-    "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/ktv.jar"
-},
-{
     "key":"music",
     "name": "🎵酷狗┃音乐",
     "type": 3,
@@ -556,16 +589,6 @@
     "searchable":0,
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
-},
-{
-    "key":"csp_xpath_kuqimv",
-    "name":"🎵酷奇┃音乐",
-    "type":3,
-    "api":"csp_XPath",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/lib/kuqimv.json"
 },
 {
     "key": "csp_Bili短剧",
@@ -687,7 +710,7 @@
 },
 {
   "key": "bb",
-  "name": "🇨🇳┣☪琉✿芸┫【更新时间:08.02】",
+  "name": "🇨🇳┣☪琉✿芸┫【更新时间:08.08】",
   "type": 3,
   "api": "csp_XPath",
   "searchable": 0,
