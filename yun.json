@@ -576,18 +576,32 @@
     "播放数组": "<div class=\"sort-item\"&&</div>"}
 },
 {
-    "key": "十六万MV听歌📣",
-    "name": "🎸歌曲┃合集",
+    "key": "hipy_js_网易影像",
+    "name": "🖥网易┃影像",
     "type": 3,
-    "api": "http://zb.hys.cool/app/lib/16万hys.js",
-    "ext": "http://zb.hys.cool/app/lib/16万mv.js"
-},     
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/网易影像.js"
+},
+{
+  "key": "hipy_js_diany",
+  "name": "🖥电影┃合集",
+  "type": 3,
+  "api": "http://zb.hys.cool/app/lib/16万hys.js",
+  "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/电影合集.js"
+},
+{
+  "key": "hipy_js_gequ",
+  "name": "🎸歌曲┃合集",
+  "type": 3,
+  "api": "http://zb.hys.cool/app/lib/16万hys.js",
+  "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/mv.js"
+}, 
 {
     "key":"music",
     "name": "🎸酷狗┃音乐",
     "type": 3,
     "api":"csp_Music",
-    "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
+    "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar",
     "searchable":0,
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
@@ -621,21 +635,6 @@
     "changeable": 0,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
     "jar": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/main/Bili.jar"
-},
-{
-    "key": "戏 曲",
-    "name": "🎈国粹┃戏曲",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": "http://mdxgh.tpddns.cn:9999//mdlib/Blixq.json",
-    "jar": "http://mdxgh.tpddns.cn:9999/mdlib/spider.jar"
-},
-{
-    "key": "hipy_js_一曲肝肠断",
-    "name": "🎈曲肝┃肠断",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
 },
 {
     "key":  "少儿",
@@ -737,6 +736,21 @@
     "name": "🎆┣天堂┫磁力",
     "type": 3,
     "api": "csp_MeijuTT"
+},
+{
+    "key": "戏 曲",
+    "name": "🎈国粹┃戏曲",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": "http://mdxgh.tpddns.cn:9999//mdlib/Blixq.json",
+    "jar": "http://mdxgh.tpddns.cn:9999/mdlib/spider.jar"
+},
+{
+    "key": "hipy_js_一曲肝肠断",
+    "name": "🎈曲肝┃肠断",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
 },
 {
     "key": "ConfigCenter",
