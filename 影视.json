@@ -326,7 +326,7 @@
     "key":"dr_腾迅",
     "name":"🐧┣腾讯┫官方",
     "type":3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
 },
 {
@@ -947,21 +947,16 @@
 }],
 
 "parses":[
-{
-      "id": "72a7e3c1-94de-4a1d-8d25-36b2c3de8fc5",
-      "name": "咸鱼",
-      "url": "https://jx.xyflv.cc/?url=",
-      "isActive": true
-    },
+
     {
       "id": "e883df51-5abf-47eb-836b-76e9bca6fb2e",
-      "name": "虾米",
+      "name": "🌐琉芸★全能嗅探★",
       "url": "https://jx.xmflv.com/?url=",
       "isActive": true
     },
     {
       "id": "d66d1c67-2895-4927-a0b6-99f6d7b4d81a",
-      "name": "夜幕",
+      "name": "☪夜幕㊎",
       "url": "https://www.yemu.xyz/?url=",
       "isActive": true
     },
@@ -972,14 +967,20 @@
       "isActive": true
     },
     {
+      "id": "6c2f0160-ee66-e273-e943-e7332d3c9f50",
+      "name": "☪冰豆㊏",
+      "url": "https://bd.jx.cn/?url=",
+      "isActive": true
+    },
+    {
       "id": "83cf8db5-2c05-42fb-b50b-1f9a726927e7",
-      "name": "冰豆",
+      "name": "☪冰豆㊏",
       "url": "https://bd.jx.cn/?url=",
       "isActive": true
     },
     {
       "id": "4e720d91-1078-4cb5-8274-86ec6f7e4c2d",
-      "name": "CK",
+      "name": "☪猫咪㊌",
       "url": "https://www.ckplayer.vip/jiexi/?url=",
       "isActive": true
     },
@@ -1013,12 +1014,7 @@
       "url": "http://jx.66666zy.top/?url=",
       "isActive": true
     },
-    {
-      "id": "6c2f0160-ee66-e273-e943-e7332d3c9f50",
-      "name": "冰豆",
-      "url": "https://bd.jx.cn/?url=",
-      "isActive": true
-    },
+    
     {
       "name": "猫影",
       "url": "https://jx.xgphp.cn/player/?url=",
@@ -1031,16 +1027,7 @@
       "isActive": true,
       "id": "cf489437-55b8-4497-89cc-eb53a64aea6d"
     },
-{
-    "name": "🌐琉芸★全能嗅探★",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url="
-},
-{
-    "name": "☪夜幕㊎",
-    "type": 0,
-    "url": "https://www.yemu.xyz/?url="
-},
+
 {
     "name": "☪盘古㊍",
     "type": 0,
@@ -1051,25 +1038,17 @@
     "type": 0,
     "url": "https://www.ckplayer.vip/jiexi/?url="
 },
-{
-    "name": "☪游戏㊋",
-    "type": 0,
-    "url": "https://jx.m3u8.tv/jiexi/?url="
-},
-{
-    "name": "☪冰豆㊏",
-    "type": 0,
-    "url": "https://bd.jx.cn/?url="
-},
+
 {
     "name": "☪图图㊐",
     "type": 0,
     "url": "https://jx.m3u8.tv/jiexi/?url="
 },
 {
+    "id": "72a7e3c1-94de-4a1d-8d25-36b2c3de8fc5",
     "name":"☪咸鱼Ⓚ",
-    "type":0,
-    "url":"https://jx.aidouer.net/?url="
+    "url": "https://jx.xyflv.cc/?url=",
+    "isActive": true
 },
 {
     "name": "🏁琉芸★全能嗅探★",
