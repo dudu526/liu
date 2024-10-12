@@ -358,42 +358,6 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
-    "key": "腾讯",
-    "name": "腾讯",
-    "type": 3,
-    "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "changeable": 0,
-    "ext": "http://www.mpanso.com/小米/ttt111222.js"
-},
-{
-    "key": "guoguo",
-    "name": "芒果",
-    "type": 3,
-    "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "changeable": 0,
-    "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo111222.js"
-},
-{
-    "key": "奇异果",
-    "name": "奇艺",
-    "type": 3,
-    "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "changeable": 0,
-    "ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/奇珍异兽.js"
-},
-{
-    "key": "优酷",
-    "name": "优酷",
-    "type": 3,
-    "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "changeable": 0,
-    "ext": "https://jihulab.com/lwm212/box/-/raw/main/drpy/优酷.js"
-},
-{
     "key":"drpy_js_北极狐[V2]",
     "name":"🆚┣极狐┫影院",
     "type":3,
@@ -1029,19 +993,14 @@
     "url":"https://jx.aidouer.net/?url="
 },
 {
-    "name": "☪起点㊣",
-    "type": 1,
-    "url": "https://json.o0a.cn/api/?key=4d3de1fb4708d88282125859639cfe96&url="
-},
-{
     "name": "☪4K解析㊐",
     "type": 1,
     "url": "http://112.74.124.75:8899/jiexi/api.php?url="
 },
 {
-    "name": "☪晓君",
+    "name": "☪推荐4K",
     "type": 1,
-    "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+    "url": "http://jx.jwl.icu/jx.php?url="
 },
 {
     "name": "🏁琉芸★全能嗅探★",
