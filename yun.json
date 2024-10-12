@@ -21,81 +21,46 @@
 },
 {
       "key": "youyou",
-      "name": "🌈软件 | 悠悠",
+      "name": "💓┣悠悠┫影视",
       "type": 1,
       "api": "http://154.21.201.190:666/tvbox/lib/悠悠.php",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/youyou.php?key=168621870&url="
 },
 {
-      "key": "tiantian",
-      "name": "🌈软件 | 天天",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/tiantian.php",
-      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
-},
-{
       "key": "BAOFENG",
-      "name": "🤖︎影视 | 风暴",
+      "name": "💓┣风暴┫影视",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php",
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id1",
       "playUrl":"json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 },
 {
       "key": "feifan",
-      "name": "💓影视 | 飞帆",
+      "name": "💓┣飞帆┫影视",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php",
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
       "key": "360-资源",
-      "name": "📺影视 | 360",
+      "name": "💓┣年年┫影视",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php",
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
       "key": "liangliang",
-      "name": "🦋影视 | 量量",
+      "name": "💓┣量量┫影视",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php",
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
-      "key": "nongmin",
-      "name": "🚀影视 | 农村",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/农民.php"
-},
-{
-      "key": "subai",
-      "name": "🦊影视 | 素心",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/素白.php"
-},
-{
       "key": "drpy_js_爱看机器人",
-      "name": "💓影视 | 爱看",
+      "name": " 💓┣爱看┫机器",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
 },    
-{
-    "key": "hipy_js_tpian",
-    "name": "🌕┣影视┫荐片",
-    "type": 3,
-    "playerType": "1",
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/荐片.js"
-},
-{
-    "key": "hipy_js_subai",
-    "name": "🌕┣影视┫拜拜",
-    "type": 3,
-    "ua": "okhttp/10.04",
-    "api": "csp_XBPQ",
-    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/拜拜.js"
-},
 {
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
@@ -104,7 +69,7 @@
 },
 {
     "key": "全网影视",
-    "name": "🎆┣全网｜影视",
+    "name": "🎆┣全网┫影视",
     "type": 3,
     "api": "csp_Quanwk",
     "ext": "https://fm666.qkw1.cc"
