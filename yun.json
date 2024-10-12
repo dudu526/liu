@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.moeyy.xyz/https://github.com/LIUJEI/VS/raw/refs/heads/main/1002.jar;md5;c52fb9e051491089b007fea2b3109ee8",
+ "spider": "https://git.acwing.com/999/tvbox/-/blob/main/JAR/1012.jar;md5;eb7676582d076a5505be5f23530e4f4d",
   "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -19,6 +19,67 @@
     "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
 },
+{
+      "key": "youyou",
+      "name": "🌈软件 | 悠悠",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/lib/悠悠.php",
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/youyou.php?key=168621870&url="
+},
+{
+      "key": "tiantian",
+      "name": "🌈软件 | 天天",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/lib/tiantian.php?ggao=扫地僧影视",
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+},
+{
+      "key": "BAOFENG",
+      "name": "🤖︎影视 | 风暴",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id1",
+      "playUrl":"json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+},
+{
+      "key": "feifan",
+      "name": "💓影视 | 飞帆",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+}, 
+{
+      "key": "360-资源",
+      "name": "📺影视 | 360",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+}, 
+{
+      "key": "liangliang",
+      "name": "🦋影视 | 量量",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+}, 
+{
+      "key": "nongmin",
+      "name": "🚀影视 | 农村",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/lib/农民.php?key=168621870"
+},
+{
+      "key": "subai",
+      "name": "🦊影视 | 素心",
+      "type": 1,
+      "api": "http://154.21.201.190:666/tvbox/lib/素白.php?key=168621870"
+},
+{
+      "key": "drpy_js_爱看机器人",
+      "name": "💓影视 | 爱看",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+},    
 {
     "key": "hipy_js_tpian",
     "name": "🌕┣影视┫荐片",
