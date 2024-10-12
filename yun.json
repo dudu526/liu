@@ -75,7 +75,7 @@
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/drpy2.js",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "playerType": 1,
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/ikanbot2.js"
 },    
