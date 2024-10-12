@@ -30,48 +30,48 @@
       "key": "tiantian",
       "name": "🌈软件 | 天天",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/tiantian.php?ggao=扫地僧影视",
+      "api": "http://154.21.201.190:666/tvbox/lib/tiantian.php",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 },
 {
       "key": "BAOFENG",
       "name": "🤖︎影视 | 风暴",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id1",
+      "api": "http://154.21.201.190:666/tvbox/api.php",
       "playUrl":"json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 },
 {
       "key": "feifan",
       "name": "💓影视 | 飞帆",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
+      "api": "http://154.21.201.190:666/tvbox/api.php",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
       "key": "360-资源",
       "name": "📺影视 | 360",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
+      "api": "http://154.21.201.190:666/tvbox/api.php",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
       "key": "liangliang",
       "name": "🦋影视 | 量量",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
+      "api": "http://154.21.201.190:666/tvbox/api.php",
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
       "key": "nongmin",
       "name": "🚀影视 | 农村",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/农民.php?key=168621870"
+      "api": "http://154.21.201.190:666/tvbox/lib/农民.php"
 },
 {
       "key": "subai",
       "name": "🦊影视 | 素心",
       "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/素白.php?key=168621870"
+      "api": "http://154.21.201.190:666/tvbox/lib/素白.php"
 },
 {
       "key": "drpy_js_爱看机器人",
