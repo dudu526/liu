@@ -988,9 +988,10 @@
     "url": "https://bd.jx.cn/?url="
 },
 {
-    "name":"☪咸鱼Ⓚ",
-    "type":0,
-    "url":"https://jx.aidouer.net/?url="
+    "id": "6c2f0160-ee66-e273-e943-e7332d3c9f50",
+    "name": "☪咸鱼Ⓚ",
+    "url": "https://bd.jx.cn/?url=",
+    "isActive": true
 },
 {
     "name": "☪4K解析㊐",
