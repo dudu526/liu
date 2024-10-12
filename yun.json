@@ -20,46 +20,64 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
 },
 {
-      "key": "youyou",
-      "name": "💓┣悠悠┫影视",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/悠悠.php",
-      "playUrl": "json:http://154.21.201.190:666/tvbox/json/youyou.php?key=168621870&url="
+    "key": "youyou",
+    "name": "💓┣悠悠┫影视",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://154.21.201.190:666/tvbox/lib/悠悠.php",
+    "playerType": 1,
+    "playUrl": "json:http://154.21.201.190:666/tvbox/json/youyou.php?key=168621870&url="
 },
 {
-      "key": "BAOFENG",
-      "name": "💓┣风暴┫影视",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id1",
-      "playUrl":"json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+    "key": "BAOFENG",
+    "name": "💓┣风暴┫影视",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id1",
+    "playerType": 1,
+    "playUrl":"json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 },
 {
-      "key": "feifan",
-      "name": "💓┣飞帆┫影视",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
-      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+    "key": "feifan",
+    "name": "💓┣飞帆┫影视",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
+    "playerType": 1,
+    "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
-      "key": "360-资源",
-      "name": "💓┣年年┫影视",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
-      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+    "key": "360-资源",
+    "name": "💓┣年年┫影视",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
+    "playerType": 1,
+    "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
-      "key": "liangliang",
-      "name": "💓┣量量┫影视",
-      "type": 1,
-      "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
-      "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+    "key": "liangliang",
+    "name": "💓┣量量┫影视",
+    "type": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
+    "playerType": 1,
+    "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
-      "key": "drpy_js_爱看机器人",
-      "name": " 💓┣爱看┫机器",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+    "key": "drpy_js_爱看机器人",
+    "name": " 💓┣爱看┫机器",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "playerType": 1,
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
 },    
 {
     "key": "热播影视",
