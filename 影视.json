@@ -61,7 +61,7 @@
 }, 
 {
     "key": "liangliang",
-    "name": "💓┣量量┫影视",
+    "name": "💓┣靓仔┫影视",
     "type": 1,
     "searchable": 1,
     "quickSearch": 1,
@@ -70,15 +70,15 @@
     "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
-    "key": "drpy_js_爱看机器人",
-    "name": " 💓┣爱看┫机器",
-    "type": 3,
+    "key": "juren",
+    "name": "💓┣巨人┫影视",
+    "type": 1,
     "searchable": 1,
     "quickSearch": 1,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "api": "http://154.21.201.190:666/tvbox/lib/巨人.php",
     "playerType": 1,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/ikanbot2.js?key=168621870&url="
-},    
+    "playUrl": "json:http://154.21.201.190:666/tvbox/json/juren.php?url="
+},  
 {
     "key": "热播影视",
     "name": "🎆┣热播┫影视",
