@@ -430,11 +430,11 @@
 },
 {
     "key": "凡人追剧",
-      "name": "🎆┣繁荣┫App",
-      "type": 3,
-      "api": "csp_Frong",
-      "jar": "./JAR/0927.jar",
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+    "name": "🎆┣繁荣┫App",
+    "type": 3,
+    "api": "csp_Frong",
+    "jar": "./JAR/fix0914.jar",
+    "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
 },
 {
     "key":"junjun",
