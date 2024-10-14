@@ -4,7 +4,7 @@
 
 * 潇洒线路："https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
 
-* 小米线路："http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+* 小米线路："http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json"
 
 * 王二线路："http://tvbox.王二小放牛娃.top"
 
