@@ -379,6 +379,14 @@
     "api": "csp_HanXiaoQuan"
 },
 {
+    "key": "天天",
+    "name": "🎆┣天天┫App",
+    "type": 3,
+    "api": "csp_TTian",
+    "jar": "./JAR/fix0914.jar",
+    "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
+},
+{
     "key": "csp_木叶",
     "name": "🎆┣木叶┫App",
     "type": 3,
@@ -389,12 +397,12 @@
    
 },
 {
-    "key": "csp_柠檬",
-    "name": "🎆┣柠檬┫App",
+    "key": "现代",
+    "name": "🎆┣现代┫App",
     "type": 3,
-    "api": "csp_Nmvod",
+    "api": "csp_Xdai",
     "jar": "./JAR/fix0914.jar",
-    "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    "ext": "caHR0cDovL2FwcC5icm92b2QuY29tfDE1MjQ3MjA1MzMzamFyb2R8MTUyNDcyMDUzMzNqYXJvZA=="
 },
 {
     "key": "csp_蚂蚁",
@@ -405,6 +413,14 @@
     "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
 },
 {
+    "key": "思源",
+    "name": "🎆┣思源┫App",
+    "type": 3,
+    "api": "csp_Syys",
+    "jar": "./JAR/fix0914.jar",
+    "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
+},
+{
     "key": "csp_耐看",
     "name": "🎆┣耐看┫App",
     "type": 3,
@@ -413,12 +429,12 @@
     "ext": "KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
 },
 {
-    "key":"fxz凡人追剧",
-    "name":"🎆┣凡人┫App",
-    "type":3,
-    "api":"csp_AppFr",
-    "jar": "./JAR/0927.jar",
-    "ext":"KhYl01KelCEl+6MsvwnzaPusskytDBtcrHmF5gioReBS94fKHAcEZKYBPY49yQk2cmRHx02ABdJlrmBGDCSmDqsO+8bj25/UQR7nNZL4MyO9j3Ebzzhd6eXcFfgLedFRrj+RspzamxuLlU2XhI4spvLmabEoV8Ts/4XM0/Q5eGrZuYyyWwcjDb2Rkc9LDxfLCQ=="
+    "key": "凡人追剧",
+      "name": "🎆┣繁荣┫App",
+      "type": 3,
+      "api": "csp_Frong",
+      "jar": "./JAR/0927.jar",
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
 },
 {
     "key":"junjun",
