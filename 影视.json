@@ -30,22 +30,6 @@
       "categories": [
               ]
     },
-        
-            {
-      "key": "4ye",
-      "name": "🌈软件 | 4月js",
-      "type": 3,
-      "api":"http://154.9.252.167:666/tvbox/js/lib/drpy2.min.js",
-      "ext":"http://154.9.252.167:666/tvbox/js/ceshi.js"
-    },
-    
-            {
-      "key": "ceshi",
-      "name": "🌈软件 | ceshi",
-      "type": 3,
-      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-      "ext":"http://154.9.252.167:666/tvbox/js/drpy_js/ceshi.js"
-    },
       {
       "key": "xinghe",
       "name": "🌈软件 | 星河",
@@ -67,18 +51,6 @@
       "quickSearch": 1,
       "api": "http://154.9.252.167:666/tvbox/lib/小熊.php",
       "playUrl": "json:http://154.9.252.167:666/tvbox/json/xiaoxiong.php?key=104847347&url=",
-      "categories": [
-              ]
-    },
-         {
-      "key": "youyou",
-      "name": "🌈软件 | 悠悠",
-      "type": 1,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "http://154.9.252.167:666/tvbox/lib/悠悠.php",
-      "playUrl": "json:http://154.9.252.167:666/tvbox/json/youyou.php?key=104847347&url=",
       "categories": [
               ]
     },
@@ -106,8 +78,6 @@
       "categories": [
               ]
     },
-    { "key":"drpy_js_腾云驾雾", "name":"腾云驾雾[js]", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js", "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"},
-    { "key":"drpy_js_优酷", "name":"优酷[js]", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js", "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js", "playUrl": "json:http://43.242.202.173:65/json.php/?key=104847347&url=" },
 {
     "key": "youyou",
     "name": "🍊┣悠悠┫快播",
