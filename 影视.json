@@ -465,13 +465,48 @@
     "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
 },
 {
-    "key": "csp_耐看",
-    "name": "🎆┣耐看┫App",
-    "type": 3,
-    "api": "csp_Nkdy",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/0927.jar",
-    "ext": "KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
-},
+      "key": "nk",
+      "name": "🏅耐看",
+      "type": 3,
+      "api": "csp_WebNK",
+      "jar": "http://64.112.42.49:1688/https://github.com/yuyu10245/yuyu/blob/master/jar/xc09.zip",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
+    },
+{
+      "key": "AppGZ",
+      "name": "🏅洽洽",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "jar": "http://64.112.42.49:1688/https://github.com/yuyu10245/yuyu/blob/master/jar/xc09.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
+    },
+     {
+      "key": "bro",
+      "name": "🏅铁剧",
+      "type": 3,
+      "api": "csp_WebBr",
+      "jar": "http://64.112.42.49:1688/https://github.com/yuyu10245/yuyu/blob/master/jar/xc09.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
+    },
+    {
+      "key": "kuying",
+      "name": "🏅酷酷",
+      "type": 3,
+      "api": "csp_App",
+      "jar": "http://64.112.42.49:1688/https://github.com/yuyu10245/yuyu/blob/master/jar/xc09.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
+    },
 {
     "key": "凡人追剧",
     "name": "🎆┣繁荣┫App",
