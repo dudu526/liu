@@ -57,23 +57,42 @@
 {"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=我的哔哩"},
 {"key":"T4-qingting","name":"音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t4/qingting.php"},
 {"key":"T4-bili","name":"B站-哔哩(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php"},
-{"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Blixs"},
-{"key":"T4-Blixq","name":"B站-戏曲(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Blixq"},
-{"key":"T4-cctv","name":"其他-央视(T4)","type":4,"api":"https://catbox.n13.club/t4/cctv.php"},
-{"key":"T4-cntv","name":"其他-央视2(T4)","type":4,"api":"https://catbox.n13.club/t4/cntv.php"},
-{"key":"T4-qiertiyu","name":"体育-企鹅(T4)","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php"},
-{"key":"T4-360kq","name":"其他-看球(T4)","type":4,"api":"https://catbox.n13.club/t4/360kq.php"},
-{"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=球类合集"},
-{"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=球星合集"},
 {"key":"T4-bookan","name":"听书-博看(T4)","type":4,"api":"https://catbox.n13.club/t4/bookan.php"},
 {"key":"T4-tingshu","name":"其他-275听书(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
 {
-    "key": "ConfigCenter",
+    "key":"dr_腾迅",
+    "name":"♨️騰訊官方",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/QQtv.js"
+},
+{
+    "key":"dr_芒果",
+    "name":"♨️芒果官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext":"./TV/MGtv.js"
+},
+{
+    "key":"dr_奇异",
+    "name":"♨️奇藝官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext":"./TV/AQItv.js"
+},
+{
+    "key":"dr_优酷",
+    "name":"♨️優酷官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext": "./TV/yKtv.js"
+},
+{
+    "key": "10",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
-    "type": 3,
-    "api": "csp_ConfigCenter",
-    "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar;md5;",
-    "ext": {"commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"}
+    "api": "1",
+    "type": 3
+
 },
 {
     "key":"本地",
