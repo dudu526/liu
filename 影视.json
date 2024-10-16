@@ -452,7 +452,7 @@
     "name": "🎆┣现代┫App",
     "type": 3,
     "api": "csp_Xdai",
-    "jar": "./JAR/fix0914.jar",
+    "jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
     "ext": "caHR0cDovL2FwcC5icm92b2QuY29tfDE1MjQ3MjA1MzMzamFyb2R8MTUyNDcyMDUzMzNqYXJvZA=="
 },
 {
@@ -470,6 +470,14 @@
     "api": "csp_Syys",
     "jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
     "ext": "caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="
+},
+{
+    "key": "凡人追剧",
+    "name": "🎆┣繁荣┫App",
+    "type": 3,
+    "api": "csp_Frong",
+    "jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e",
+    "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
 },
 {
       "key": "nk",
@@ -514,25 +522,7 @@
       "changeable": 0,
       "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
     },
-{
-    "key": "凡人追剧",
-    "name": "🎆┣繁荣┫App",
-    "type": 3,
-    "api": "csp_Frong",
-    "jar": "./JAR/fix0914.jar",
-    "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
-},
-{
-    "key":"junjun",
-    "name":"🎆┣君君┫視頻",
-    "type":3,
-    "api":"./TV/LHJ.js",
-    "ext":{
-    "host":"http://122.228.85.203:1000/api.php/app/",
-    "*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
-    "https://jx.xiaofengtv.com/M3/json.php/?url=",
-    "http://112.74.124.75:8899/jiexi/api.php?url="]}
-},
+
 {
     "key": "无忧短剧",
     "name": "📛┣无忧┫短剧",
