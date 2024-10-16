@@ -16,7 +16,8 @@
     "name": "🎸歌曲┃MV",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/Lib/哔哩.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/Lib/哔哩.json",
+    "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/fty.jar"
 },
 {
   "key": "hipy_js_gequ",
@@ -34,22 +35,84 @@
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
 },
-
 {
-    "key": "戏 曲",
-    "name": "🎈国粹┃戏曲",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": "http://mdxgh.tpddns.cn:9999//mdlib/Blixq.json",
-    "jar": "http://mdxgh.tpddns.cn:9999/mdlib/spider.jar"
-},
+      "key": "直播转点播2",
+      "name": "歌曲 ",
+      "type": 4,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "http://120.53.102.254/dsp",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {
-    "key": "hipy_js_一曲肝肠断",
-    "name": "🎈曲肝┃肠断",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
-},
+      "key": "MV",
+      "name": "MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://124.71.189.194/MTV.json",
+    "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/spider.jar"
+    },
+    {
+      "key": "music",
+      "name": "休闲|音乐",
+      "type": 3,
+      "api": "csp_Music",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+            "jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    },    
+  {
+      "key": "演唱会",
+      "name": "音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://124.71.189.194/yy.json",
+    "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/spider.jar"
+    },
+ {"key": "MTV","name": "🎧音乐┃MV","type": 3,"jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/fty.jar","api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,
+"changeable": 0,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"},
+{"key":"MV","name":"音乐-酷奇(T4)","type":4,"api":"https://catbox.n13.club/t4/mv2.php"},
+{"key":"djmv","name":"音乐-DJMV(T4)","type":4,"api":"https://catbox.n13.club/t4/djmv.php"},
+{"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
+{"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
+{"key":"T4-bmtv","name":"B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=bMTV"},
+{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Bliych"},
+{"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=我的哔哩"},
+{"key":"T4-qingting","name":"音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t4/qingting.php"},
+{"key":"T4-bili","name":"B站-哔哩(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php"},
+{"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Blixs"},
+{"key":"T4-Blixq","name":"B站-戏曲(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Blixq"},
+{"key":"T4-cctv","name":"其他-央视(T4)","type":4,"api":"https://catbox.n13.club/t4/cctv.php"},
+{"key":"T4-cntv","name":"其他-央视2(T4)","type":4,"api":"https://catbox.n13.club/t4/cntv.php"},
+{"key":"T4-qiertiyu","name":"体育-企鹅(T4)","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php"},
+{"key":"T4-360kq","name":"其他-看球(T4)","type":4,"api":"https://catbox.n13.club/t4/360kq.php"},
+{"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=球类合集"},
+{"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=球星合集"},
+{"key":"T4-bookan","name":"听书-博看(T4)","type":4,"api":"https://catbox.n13.club/t4/bookan.php"},
+{"key":"T4-tingshu","name":"其他-275听书(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
 {
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
