@@ -5,75 +5,36 @@
 
 "sites":[
 {
-    "key": "豆瓣",
-    "name": "豆瓣｜推荐",
+    "key": "csp_哔哩MV",
+    "name": "🎸歌曲┃哔哩",
     "type": 3,
-    "api": "csp_Douban",
-    "searchable": 0
+    "api": "csp_Bili",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/Lib/Bili音乐.json"
 },
 {
-    "key": "预告",
-    "name": "豆瓣｜预告",
+    "key": "哔哩MTV",
+    "name": "🎸歌曲┃MV",
     "type": 3,
-    "api": "csp_YGP",
-    "searchable": 0
+    "api": "csp_Bili",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/Lib/哔哩.json"
 },
-{
-    "key": "无忧短剧",
-    "name": "📛┣无忧┫短剧",
-    "type": 3,
-    "api": "csp_Duanj",
-    "searchable": 1,
-    "changeable": 0,
-    "style": {
-        "type": "rect",
-        "ratio": 1.433}
-},
-{
-    "key": "在线短剧",
-    "name": "📛┣在线┫短剧",
-    "type": 3,
-    "api": "csp_Duanju",
-    "searchable": 1,
-    "changeable": 0,
-    "style": {
-        "type": "rect",
-        "ratio": 1.433}
-},
-
-
 {
   "key": "hipy_js_gequ",
   "name": "🎸歌曲┃合集",
   "type": 3,
   "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "./TV/mv.js"
+  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TV/mv.js"
 }, 
 {
     "key":"music",
     "name": "🎸酷狗┃音乐",
     "type": 3,
     "api":"csp_Music",
-    "jar": "./JAR/Bili.jar",
     "searchable":0,
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
 },
-{
-    "key": "MV",
-    "name": "🅱️歌曲┃哔哩",
-    "type": 3,
-    "api": "csp_Bili",
-    "style": {
-    "type": "rect",
-    "ratio": 1.597
-      },
-    "searchable": 1,
-    "quickSearch": 0,
-    "changeable": 0,
-    "ext": "./Lib/Bili音乐.json",
-    "jar": "./JAR/Bili.jar"
-},
+
 {
     "key": "戏 曲",
     "name": "🎈国粹┃戏曲",
