@@ -47,7 +47,7 @@
     "key": "直播转点播2",
     "name": "🎧音乐┃歌手 ",
     "type": 4,
-    "api": "http://120.53.102.254/dsp",
+    "api": "http://120.53.102.254/dsp?key=http://3650000.xyz/api/360.php?cid=6",
     "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
 },
 {"key":"T4-qingting","name":"🅱️音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t4/qingting.php"},
