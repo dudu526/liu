@@ -55,9 +55,9 @@
 	"key": "hipy_js_KTV歌厅[听]",
 	"name": "KTV歌厅",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
-	"ext": "./drpy_js/KTV歌厅[听].js"
+	"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/KTV歌厅[听].js"
 },
 {
 	"key": "Yinyuetai",
