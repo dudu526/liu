@@ -6,7 +6,7 @@
 "sites":[
 {
     "key":"drpy_js_蜻蜓FM",
-    "name":"📻广播┃蜻蜓FM",
+    "name":"📻┃蜻蜓┃FM",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
@@ -14,7 +14,7 @@
 },
 {
     "key":"drpy_js_广播迷FM",
-    "name":"📻广播┃播迷FM",
+    "name":"📻┃播迷┃FM",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
@@ -81,7 +81,7 @@
 	"name": "🎶音悦台",
 	"type": 3,
 	"api": "csp_Yinyuetai",
-	"jar": "https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+	"jar": "",
 	"changeable": 0,
 	"order_num": 9999
 },
