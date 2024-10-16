@@ -5,6 +5,22 @@
 
 "sites":[
 {
+    "key":"drpy_js_蜻蜓FM",
+    "name":"📻广播┃蜻蜓FM",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+    "changeable":0,
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/蜻蜓FM.js"
+},
+{
+    "key":"drpy_js_广播迷FM",
+    "name":"📻广播┃播迷FM",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+    "changeable":0,
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/广播迷FM.js"
+},
+{
     "key": "csp_哔哩MV",
     "name": "🎸歌曲┃哔哩",
     "type": 3,
@@ -91,24 +107,7 @@
 {"key":"T4-djuu","name":"🅱️音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
 {"key":"T4-bmtv","name":"🅱️B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=bMTV"},
 {"key":"T4-Bliych","name":"🅱️B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Bliych"},
-{"key":"T4-bookan","name":"🅱️听书-博看(T4)","type":4,"api":"https://catbox.n13.club/t4/bookan.php"},
-{"key":"T4-tingshu","name":"🅱️听书-275(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
-{
-    "key":"drpy_js_广播迷FM",
-    "name":"哦📻广播┃播迷FM",
-    "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-    "changeable":0,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/广播迷FM.js"
-},
-{
-    "key":"drpy_js_蜻蜓FM",
-    "name":"📻广播┃蜻蜓FM",
-    "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-    "changeable":0,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/蜻蜓FM.js"
-},
+
 {
     "key": "10",
     "name": "📛┣☪全✿局┫【更新时间:2024】",
