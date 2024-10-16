@@ -61,31 +61,31 @@
 {"key":"T4-tingshu","name":"🅱️听书-275(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
 {
     "key":"dr_腾迅",
-    "name":"♨️騰訊官方",
+    "name":"🐧腾讯【官方】",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/QQtv.js"
 },
 {
     "key":"dr_芒果",
-    "name":"♨️芒果官方",
+    "name":"🥭芒果【官方】",
     "type":3,
     "api": "./TV/dy2.js",
     "ext":"./TV/MGtv.js"
 },
 {
     "key":"dr_奇异",
-    "name":"♨️奇藝官方",
+    "name":"🥝奇艺【官方】",
     "type":3,
     "api": "./TV/dy2.js",
     "ext":"./TV/AQItv.js"
 },
 {
-    "key":"dr_优酷",
-    "name":"♨️優酷官方",
+    "key":"dr_搜狗",
+    "name":"🦊搜狗【官方】",
     "type":3,
     "api": "./TV/dy2.js",
-    "ext": "./TV/yKtv.js"
+    "ext":"./TV/SGtv.js"
 },
 {
     "key": "10",
