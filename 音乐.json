@@ -53,15 +53,8 @@
 	"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/种子音乐[听].js"
 },
 {
-  "key": "hipy_js_gequ",
-  "name": "🎧音乐┃合集",
-  "type": 3,
-  "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TV/mv.js"
-},
-{
 	"key": "hipy_js_KTV歌厅[听]",
-	"name": "KTV歌厅",
+	"name": "🎶KTV歌厅",
 	"type": 3,
 	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
@@ -69,13 +62,37 @@
 },
 {
 	"key": "Yinyuetai",
-	"name": "音悦台",
+	"name": "🎶音悦台",
 	"type": 3,
 	"api": "csp_Yinyuetai",
 	"jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/fty.jar",
 	"changeable": 0,
 	"order_num": 9999
 },
+{
+  "key": "hipy_js_gequ",
+  "name": "🎵音乐┃合集",
+  "type": 3,
+  "api": "http://zb.hys.cool/app/lib/16万hys.js",
+  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TV/mv.js"
+},
+{
+    "key":"drpy_js_DJ音乐",
+    "name":"🎵音频┃DJ音乐",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+    "changeable":0,
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/DJ音乐.js"
+},
+
+{"key":"T4-qingting","name":"🅱️音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t4/qingting.php"},
+{"key":"djmv","name":"🅱️音乐-DJMV(T4)","type":4,"api":"https://catbox.n13.club/t4/djmv.php"},
+{"key":"T4-tangdou","name":"🅱️音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
+{"key":"T4-djuu","name":"🅱️音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
+{"key":"T4-bmtv","name":"🅱️B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=bMTV"},
+{"key":"T4-Bliych","name":"🅱️B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Bliych"},
+{"key":"T4-bookan","name":"🅱️听书-博看(T4)","type":4,"api":"https://catbox.n13.club/t4/bookan.php"},
+{"key":"T4-tingshu","name":"🅱️听书-275(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
 {
     "key":"drpy_js_广播迷FM",
     "name":"哦📻广播┃播迷FM",
@@ -91,42 +108,6 @@
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/蜻蜓FM.js"
-},
-{"key":"T4-qingting","name":"🅱️音乐-蜻蜓(T4)","type":4,"api":"https://catbox.n13.club/t4/qingting.php"},
-{"key":"djmv","name":"🅱️音乐-DJMV(T4)","type":4,"api":"https://catbox.n13.club/t4/djmv.php"},
-{"key":"T4-tangdou","name":"🅱️音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
-{"key":"T4-djuu","name":"🅱️音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
-{"key":"T4-bmtv","name":"🅱️B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=bMTV"},
-{"key":"T4-Bliych","name":"🅱️B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=Bliych"},
-{"key":"T4-bookan","name":"🅱️听书-博看(T4)","type":4,"api":"https://catbox.n13.club/t4/bookan.php"},
-{"key":"T4-tingshu","name":"🅱️听书-275(T4)","type":4,"api":"https://catbox.n13.club/t4/275ts.php"},
-{
-    "key":"dr_腾迅",
-    "name":"🐧腾讯【官方】",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/QQtv.js"
-},
-{
-    "key":"dr_芒果",
-    "name":"🥭芒果【官方】",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext":"./TV/MGtv.js"
-},
-{
-    "key":"dr_奇异",
-    "name":"🥝奇艺【官方】",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext":"./TV/AQItv.js"
-},
-{
-    "key":"dr_搜狗",
-    "name":"🦊搜狗【官方】",
-    "type":3,
-    "api": "./TV/dy2.js",
-    "ext":"./TV/SGtv.js"
 },
 {
     "key": "10",
