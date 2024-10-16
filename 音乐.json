@@ -41,7 +41,14 @@
     "changeable":0,
     "style":{"type":"rect","ratio":1.433}
 },
-{"key":"MV","name":"音乐-酷奇(T4)","type":4,"api":"https://catbox.n13.club/t4/mv2.php"},
+{
+    "key":"drpy_js_酷奇MV",
+    "name":"🎸酷奇┃MV",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "changeable":0,
+    "ext":"./TV/酷奇MV.js"
+},
 {"key":"djmv","name":"音乐-DJMV(T4)","type":4,"api":"https://catbox.n13.club/t4/djmv.php"},
 {"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t4/tangdou.php"},
 {"key":"T4-djuu","name":"音乐-DJUU(T4)","type":4,"api":"https://catbox.n13.club/t4/djuu.php"},
