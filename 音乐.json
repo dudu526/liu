@@ -15,9 +15,9 @@
     "key": "哔哩MTV",
     "name": "🎸歌曲┃MV",
     "type": 3,
-      "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/fty.jar",
-      "api": "csp_Bili",
-      "ext": "http://47.99.102.252/jar/yy.json"
+    "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/fty.jar",
+    "api": "csp_Bili",
+    "ext": "http://47.99.102.252/jar/yy.json"
 },
 {
   "key": "hipy_js_gequ",
@@ -43,7 +43,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "api": "http://120.53.102.254/dsp",
+      "api": "http://120.53.102.254/dsp&&&http://3650000.xyz/api/360.php?cid=6",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
