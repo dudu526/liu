@@ -103,6 +103,13 @@
     "api": "http://cj.sds11.top/4ksds.php",
     "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
 }, 
+   {
+      "key": "ce",
+      "name": "🌈软件 | 4yue4ss",
+      "type": 3,
+      "api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "ext":"http://154.9.252.167:666/tvbox/js/ceshi.js"
+    },
 {
     "key":"fxz小猫咪",
     "name":"🍊┣猫咪┫快播",
