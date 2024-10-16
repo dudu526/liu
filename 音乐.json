@@ -1,29 +1,23 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子/spider.jar",
+  
   "spider": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
   "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
 {
-    "key": "csp_SP33",
-    "name": "🎬三三┃解析",
-    "type": 3,
-    "api": "csp_SP33",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
+    "key":"dr_搜狗",
+    "name":"🎬搜狗官方",
+    "type":3,
+    "api": "./TV/dy2.js",
+    "ext":"./TV/SGtv.js"
 },
 {
-    "key": "Mtv",
-    "name": "🎬芒果┃解析",
-    "type": 3,
-    "api": "csp_Mtv",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
+    "key":"dr_腾迅",
+    "name":"🎬騰訊官方",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TV/QQtv.js"
 },
 {
     "key": "csp_哔哩MV",
