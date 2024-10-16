@@ -6,11 +6,11 @@
 
 "sites":[
 {
-    "key":"dr_搜狗",
-    "name":"🎬搜狗官方",
+   "key":"dr_芒果",
+    "name":"🎬芒果官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ext":"./TV/SGtv.js"
+    "ext":"./TV/MGtv.js"
 },
 {
     "key":"dr_腾迅",
