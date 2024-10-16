@@ -1,6 +1,6 @@
 {
 
-	"classes": [
+"classes": [
 {"type_name": "2024年热榜","type_id": "2024年热门歌曲"},
 {"type_name": "网易云音乐","type_id": "网易云经典歌曲"},
 {"type_name": "酷我音乐","type_id": "酷我音乐MV"},
@@ -10,40 +10,36 @@
 {"type_name": "无损音乐","type_id": "无损音乐"},
 {"type_name": "QQ音乐 ","type_id":  "QQ音乐MV"},
 {
-  "type_name": "L林忆莲",
-  "type_id": "林忆莲演唱会"
+    "type_name": "一人一首",
+    "type_id": "一人一首成名曲"
 },
 {
-  "type_name": "Z张碧晨",
-  "type_id": "张碧晨演唱会"
+    "type_name": "国语金曲",
+    "type_id": "国语歌曲合集"
 },
 {
-  "type_name": "C陈慧琳",
-  "type_id": "陈慧琳演唱会"
+    "type_name": "粤语金曲",
+    "type_id": "粤语歌曲合集"
 },
 {
-  "type_name": "D刀郎",
-  "type_id": "刀郎演唱会"
+    "type_name": "古风歌曲",
+    "type_id": "古风歌曲"
+},
+{
+    "type_name": "经典老歌",
+    "type_id": "经典老歌合集"
+},
+{
+    "type_name": "国乐大典",
+    "type_id": "国乐合集"
 },   
 {
-  "type_name": "W王菲",
-  "type_id": "王菲演唱会"
-},  
+    "type_name": "禅修音乐",
+    "type_id": "禅修音乐"
+}, 
 {
-  "type_name": "Z张学友",
-  "type_id": "张学友演唱会"
-},
-{
-  "type_name": "Z周杰伦",
-  "type_id": "周杰伦演唱会"
-},
-{
-  "type_name": "Z周深",
-  "type_id": "周深演唱会"
-},
-{
-  "type_name": "J金庸",
-  "type_id": "金庸影视歌曲"
+   "type_name": "J金庸",
+   "type_id": "金庸影视歌曲"
 }],
 
 "filter": {
