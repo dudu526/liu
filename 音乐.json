@@ -16,6 +16,13 @@
     "name": "🎸歌曲┃MV",
     "type": 3,
     "api": "csp_Bili",
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/Lib/哔哩.json",
     "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/fty.jar"
 },
@@ -65,7 +72,7 @@
     "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/spider.jar"
     },
     {
-      "key": "music",
+      "key": "music1",
       "name": "休闲|音乐",
       "type": 3,
       "api": "csp_Music",
