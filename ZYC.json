@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"💚优选仓🍭软件接口🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/a.txt?ref=main"},
-{"sourceName":"💛公众仓🍭完全免费🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/b.txt?ref=main"},
-{"sourceName":"❤️聚合仓🍭严禁贩卖🍭","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/c.txt?ref=main"},
-{"sourceName":"📚️本地仓🍭不做韭菜🍭","sourceUrl":"clan://localhost/tvbox/duo.json"}
+{"sourceName":"💚优选仓🍭软件接口🍭","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/AC.json"},
+{"sourceName":"💛多多仓🍭完全免费🍭","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/BC.json"},
+{"sourceName":"❤️水友仓🍭严禁贩卖🍭","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/CC.json"},
+{"sourceName":"📚️本地仓🍭测试禁用🍭","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/DC.json"}
 ]}
