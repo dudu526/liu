@@ -8,7 +8,7 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/douban.js"
 },
 {
@@ -44,14 +44,14 @@
     "name":"🏡搜狗官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ext":"./TV/SGtv.js"
+    "ext":"https://notabug.org/liuyun/H--2024/raw/master/TV/SGtv.js"
 },
 {
     "key":"dr_优酷",
     "name":"🏡優酷官方",
     "type":3,
     "api": "./TV/dy2.js",
-    "ext": "./TV/yKtv.js"
+    "ext": "https://notabug.org/liuyun/H--2024/raw/master/TV/yKtv.js"
 },
 {
     "key":"dr_腾迅",
