@@ -85,27 +85,11 @@
     "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTR8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
 },
 {
-    "key": "雷电",
-    "name": "🎆┣雷电┫影视",
-    "type": 3,
-    "api": "csp_Slys",
-    "jar": "http://cdn.qiaoji8.com/fix241018.jar;md5;93fa3de6f13f1e2aa5cb355fb46aa526",
-    "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
-},
-{
     "key":"csp_极光",
     "name":"🎆┣极光┫影视",
     "type":3,
     "api":"csp_AppSK",
     "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
-},
-{
-    "key": "天天",
-    "name": "🎆┣天天┫影视",
-    "type": 3,
-    "api": "csp_TTian",
-    "jar": "http://cdn.qiaoji8.com/fix241018.jar;md5;93fa3de6f13f1e2aa5cb355fb46aa526",
-    "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
 },
 {
     "key": "热播影视",
