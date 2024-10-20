@@ -9,7 +9,7 @@
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/douban.js"
+    "ext": "https://notabug.org/liuyun/H--2024/raw/master/TV/douban.js"
 },
 {
     "key":"csp_豆瓣",
@@ -43,14 +43,14 @@
     "key":"dr_搜狗",
     "name":"🏡搜狗官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "https://notabug.org/liuyun/H--2024/raw/master/TV/dy2.js",
     "ext":"https://notabug.org/liuyun/H--2024/raw/master/TV/SGtv.js"
 },
 {
     "key":"dr_优酷",
     "name":"🏡優酷官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "https://notabug.org/liuyun/H--2024/raw/master/TV/dy2.js",
     "ext": "https://notabug.org/liuyun/H--2024/raw/master/TV/yKtv.js"
 },
 {
