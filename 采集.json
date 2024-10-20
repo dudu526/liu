@@ -8,7 +8,7 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐┃",
     "type": 3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
 },
 {
