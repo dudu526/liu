@@ -5,11 +5,10 @@
 
 "sites":[
 {
-    "key": "js-豆瓣",
+    "key": "豆豆",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
+    "api": "csp_DouDou"
 },
 {
     "key":"csp_豆瓣",
@@ -23,42 +22,42 @@
     "name":"🏡叁陸官方",
     "type":3,
     "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
+    "ext": "./TV/360.js"
 },
 {
     "key":"dr_芒果",
     "name":"🏡芒果官方",
     "type":3,
     "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
+    "ext":"./TV/MGtv.js"
 },
 {
     "key":"dr_奇异",
     "name":"🏡奇藝官方",
     "type":3,
     "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
+    "ext":"./TV/AQItv.js"
 },
 {
     "key":"dr_搜狗",
     "name":"🏡搜狗官方",
     "type":3,
     "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
+    "ext":"./TV/SGtv.js"
 },
 {
     "key":"dr_优酷",
     "name":"🏡優酷官方",
     "type":3,
     "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
+    "ext": "./TV/yKtv.js"
 },
 {
     "key":"dr_腾迅",
     "name":"🏡騰訊官方",
     "type":3,
     "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
+    "ext": "./TV/QQtv.js"
 },
 {
     "key": "乐观",
