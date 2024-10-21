@@ -10,7 +10,7 @@ var rule = {
   searchable: 2,
   quickSearch: 0,
   filterable: 0,
-  class_name: '电影&电视剧&综艺&动漫',
+  class_name: '⛱电影&🏝电视剧&🏂综艺&🍝动漫',
   class_url: '1&2&3&4',
   limit: 6,
   double: false,
