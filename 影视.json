@@ -1,5 +1,5 @@
 {
-  "spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/fan1021.txt;md5;ce37642e140a829d57496a32d8fcc648",
+  "spider": "./JAR/fan1021.txt;md5;ce37642e140a829d57496a32d8fcc648",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
